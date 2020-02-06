@@ -1,0 +1,1805 @@
+{
+  "data": {
+    "names": [
+      {
+        "dateOfBirth": "27 December 1901",
+        "placeOfBirth": " Schöneberg, Berlin, Germany",
+        "birthName": "Marie Magdalene Dietrich",
+        "height": "5' 4½\" (1.64 m)",
+        "bio": "Her father was a police lieutenant and imbued in her a military attitude to life. Marlene was known in school for her \"bedroom eyes\" and her first affairs were at this stage in her life - a professor at the school was terminated. She entered the cabaret scene in 1920s Germany, first as a spectator then as a cabaret singer. In 1924, she married and, although she and Rudolf Sieber lived together only 5 years, they remained married until his death. She was in over a dozen silent films in increasingly important roles. In 1929, she was seen in a Berlin cabaret by Josef von Sternberg and, after a screen test, captured the role of the cabaret singer in The Blue Angel (1930) (and became von Sternberg's lover). With the success of this film, von Sternberg immediately took her to Hollywood, introducing her to the world in Morocco (1930), and signing an agreement to produce all her films. A series of successes followed, and Marlene became the highest paid actress of her time, but her later films in the mid-part of the decade were critical and popular failures. She returned to Europe at the end of the decade, with a series of affairs with former leading men (she had a reputation of romancing her co-stars), as well as other prominent artistic figures. In 1939, an offer came to star with James Stewart in a western and, after initial hesitation, she accepted. The film was Destry Rides Again (1939) - the siren of film could also be a comedienne and a remarkable comeback was reality. She toured extensively for the allied effort in WW II (she had become a United States citizen) and, after the war, limited her cinematic life. But a new career as a singer and performer appeared, with reviews and shows in Las Vegas, touring theatricals, and even Broadway. New success was accompanied by a too close acquaintance with alcohol, until falls in her performance eventually resulted in a compound fracture of the leg. Although the last 13 years of her life were spent in seclusion in her apartment in Paris, with the last 12 years in bed, she had withdrawn only from public life and maintained active telephone and correspondence contact with friends and associates.",
+        "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTcyMTM5OF5BMl5BanBnXkFtZTYwOTkzMDU2._V1.jpg",
+        "urlIMDB": "http://www.imdb.com/name/nm0000017",
+        "name": "Marlene Dietrich",
+        "nicknames": [
+          "Lili Marlene"
+        ],
+        "idIMDB": "nm0000017",
+        "filmographies": [
+          {
+            "section": "Soundtrack",
+            "filmography": [
+              {
+                "title": "Personal Shopper",
+                "year": " 2016",
+                "remarks": [
+                  "(performer: \"Das Hobellied\")"
+                ],
+                "imdbid": "tt4714782"
+              },
+              {
+                "title": "My First Apartamento: JD Samson",
+                "year": " 2016",
+                "remarks": [
+                  "(Documentary short)",
+                  "(performer: \"Symphonie d'Amour\")"
+                ],
+                "imdbid": "tt5707574"
+              },
+              {
+                "title": "Whoever Was Using This Bed",
+                "year": " 2016",
+                "remarks": [
+                  "(Short)",
+                  "(performer: \"You Do Something To Me\")"
+                ],
+                "imdbid": "tt3520884"
+              },
+              {
+                "title": "Chico: Artista Brasileiro",
+                "year": " 2015",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Falling in Love Again\")"
+                ],
+                "imdbid": "tt5251348"
+              },
+              {
+                "title": "A Perfect Day: un jour comme un autre",
+                "year": " 2015",
+                "remarks": [
+                  "(performer: \"Where Have All the Flowers Gone\", \"ONE FOR THE ROAD\")"
+                ],
+                "imdbid": "tt3577624"
+              },
+              {
+                "title": "Gotham",
+                "year": " 2014-2015",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 2 episodes)"
+                ],
+                "imdbid": "tt3749900"
+              },
+              {
+                "title": "Danny Says",
+                "year": " 2015",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Boys in the Backroom\")"
+                ],
+                "imdbid": "tt4485246"
+              },
+              {
+                "title": "Stars of the Silver Screen",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt2933728"
+              },
+              {
+                "title": "Skwerl",
+                "year": " 2011",
+                "remarks": [
+                  "(Video short)",
+                  "(performer: \"Cherche la Rose\")"
+                ],
+                "imdbid": "tt2125619"
+              },
+              {
+                "title": "Codebreaker",
+                "year": " 2011",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(performer: \"Lili Marlene\")"
+                ],
+                "imdbid": "tt2119396"
+              },
+              {
+                "title": "Memòries de la tele",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt1046678"
+              },
+              {
+                "title": "Giovinezza",
+                "year": " 2009",
+                "remarks": [
+                  "(Short)",
+                  "(performer: \"Lili Marlene\")"
+                ],
+                "imdbid": "tt1911575"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical History - The 1920s: The Dawn of the Hollywood Musical",
+                "year": " 2008",
+                "remarks": [
+                  "(Video documentary)",
+                  "(performer: \"You're the Cream in My Coffee\", \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\" - uncredited)"
+                ],
+                "imdbid": "tt1190718"
+              },
+              {
+                "title": "The War",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Mini-Series documentary)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0996994"
+              },
+              {
+                "title": "Dancing Dog",
+                "year": " 2004",
+                "remarks": [
+                  "(Short)",
+                  "(performer: \"You Do Something to Me\")"
+                ],
+                "imdbid": "tt2777488"
+              },
+              {
+                "title": "Get Up, Stand Up",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Series documentary)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0389631"
+              },
+              {
+                "title": "How to Draw a Bunny",
+                "year": " 2002",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Awake In A Dream\")"
+                ],
+                "imdbid": "tt0303348"
+              },
+              {
+                "title": "Marlene Dietrich: Her Own Song",
+                "year": " 2001",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Lili Marlene\", \"Wenn die Beste Freundin\", \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\", \"You're the Cream in My Coffee\", \"Ich bin die fesche Lola\", \"Quand l'amour meurt\", \"Awake In a Dream\", \"Another Spring, Another Love\", \"The Boys in the Back Room\", \"The Man's in the Navy\", \"Look Me Over Closely\", \"You Little So-And-So\", \"Illusions\", \"White Grass\", \"I May Never Go Home Anymore\", \"Sag Mir Wo Die Blumen Sind\", \"Where Have All the Flowers Gone\", \"Du, Du Liegst Mir Im Herzen\")"
+                ],
+                "imdbid": "tt0268443"
+              },
+              {
+                "title": "Transfixed",
+                "year": " 2001",
+                "remarks": [
+                  "(performer: \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\", \"Jonny\")"
+                ],
+                "imdbid": "tt0284573"
+              },
+              {
+                "title": "The Anniversary Party",
+                "year": " 2001",
+                "remarks": [
+                  "(performer: \"I May Never Go Home Anymore\")"
+                ],
+                "imdbid": "tt0254099"
+              },
+              {
+                "title": "Nuremberg",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(performer: \"I Never Slept a Wink Last Night\")"
+                ],
+                "imdbid": "tt0208629"
+              },
+              {
+                "title": "Paragraph 175",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Falling in Love Again\")"
+                ],
+                "imdbid": "tt0236576"
+              },
+              {
+                "title": "Fight Club",
+                "year": " 1999",
+                "remarks": [
+                  "(performer: \"No Love, No Nothin'\")"
+                ],
+                "imdbid": "tt0137523"
+              },
+              {
+                "title": "Breaking Up",
+                "year": " 1997",
+                "remarks": [
+                  "(performer: \"COME RAIN OR COME SHINE\")"
+                ],
+                "imdbid": "tt0118772"
+              },
+              {
+                "title": "Heaven's Burning",
+                "year": " 1997",
+                "remarks": [
+                  "(performer: \"ANOTHER SPRING, ANOTHER LOVE\")"
+                ],
+                "imdbid": "tt0119272"
+              },
+              {
+                "title": "Une femme d'honneur",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0169505"
+              },
+              {
+                "title": "The Delicate Art of the Rifle",
+                "year": " 1996",
+                "remarks": [
+                  "(performer: \"Where Have All The Flowers Gone\", \"Blowing In The Wind\")"
+                ],
+                "imdbid": "tt0126260"
+              },
+              {
+                "title": "El detective y la muerte",
+                "year": " 1994",
+                "remarks": [
+                  "(performer: \"I've Been in Love Before\" - as Marlène Dietrich)"
+                ],
+                "imdbid": "tt0109612"
+              },
+              {
+                "title": "Scenes from a Mall",
+                "year": " 1991",
+                "remarks": [
+                  "(performer: \"You Do Something to Me\")"
+                ],
+                "imdbid": "tt0102849"
+              },
+              {
+                "title": "Berliner Tag",
+                "year": " 1989",
+                "remarks": [
+                  "(performer: \"LILI MARLEN\")"
+                ],
+                "imdbid": "tt0178267"
+              },
+              {
+                "title": "Kintopp Kintopp",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0476097"
+              },
+              {
+                "title": "Just a Gigolo",
+                "year": " 1978",
+                "remarks": [
+                  "(performer: \"Just A Gigolo\")"
+                ],
+                "imdbid": "tt0079867"
+              },
+              {
+                "title": "La jeune fille assassinée",
+                "year": " 1974",
+                "remarks": [
+                  "(performer: \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\", \"Ich bin die fesche Lola\")"
+                ],
+                "imdbid": "tt0071694"
+              },
+              {
+                "title": "The Mother and the Whore",
+                "year": " 1973",
+                "remarks": [
+                  "(performer: \"Falling in Love Again\")"
+                ],
+                "imdbid": "tt0070359"
+              },
+              {
+                "title": "Myra Breckinridge",
+                "year": " 1970",
+                "remarks": [
+                  "(performer: \"The Man's in the Navy\" - uncredited)"
+                ],
+                "imdbid": "tt0066115"
+              },
+              {
+                "title": "Magic of Marlene",
+                "year": " 1968",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"I Can't Give You Anything But Love, Baby\", \"You're The Cream In My Coffee\", \"My Blue Heaven\", \"(See What)",
+                  "The Boys In The Back Room (Will Have)",
+                  "\", \"The Laziest Gal In Town\", \"When The World Was Young\", \"Jonny\", \"Go 'Way From My Window\", \"White Grass\", \"Boomerang Baby\", \"La Vie en Rose\", \"Naughty Lola\", \"Frag Nicht Warum Ich Gehe\", \"Lili Marlene\", \"Where Have All The Flowers Gone?\", \"Falling In Love Again\")"
+                ],
+                "imdbid": "tt0367999"
+              },
+              {
+                "title": "The Love Goddesses",
+                "year": " 1965",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\", \"Quand l'amour meurt\" - uncredited)"
+                ],
+                "imdbid": "tt0059402"
+              },
+              {
+                "title": "Katharina Knie - Ein Seiltänzerstück",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"Auf der Mundharmonika\")"
+                ],
+                "imdbid": "tt0058258"
+              },
+              {
+                "title": "Hollywood: The Great Stars",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(performer: \"Falling in Love Again\" (aka \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\")",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0853119"
+              },
+              {
+                "title": "Judgment at Nuremberg",
+                "year": " 1961",
+                "remarks": [
+                  "(performer: \"Lili Marleen\" - uncredited)"
+                ],
+                "imdbid": "tt0055031"
+              },
+              {
+                "title": "Witness for the Prosecution",
+                "year": " 1957",
+                "remarks": [
+                  "(performer: \"I May Never Go Home Anymore\")"
+                ],
+                "imdbid": "tt0051201"
+              },
+              {
+                "title": "The Montecarlo Story",
+                "year": " 1956",
+                "remarks": [
+                  "(performer: \"Les Jeux Sont Faits\", \"Indiana\" (uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0049520"
+              },
+              {
+                "title": "I Am a Camera",
+                "year": " 1955",
+                "remarks": [
+                  "(performer: \"Ich hab' noch einen Koffer in Berlin\")"
+                ],
+                "imdbid": "tt0048188"
+              },
+              {
+                "title": "Der Fürst von Pappenheim",
+                "year": " 1952",
+                "remarks": [
+                  "(performer: \"wer wird denn weinen,wenn mann auseinander geht\")"
+                ],
+                "imdbid": "tt0044648"
+              },
+              {
+                "title": "Rancho Notorious",
+                "year": " 1952",
+                "remarks": [
+                  "(performer: \"Get Away Young Man\")"
+                ],
+                "imdbid": "tt0045070"
+              },
+              {
+                "title": "Stage Fright",
+                "year": " 1950",
+                "remarks": [
+                  "(performer: \"The Laziest Gal in Town\" (1950)",
+                  "(uncredited)",
+                  ", \"La Vie en Rose\", \"Love Is Lyrical (Whisper Sweet Little Nothing to Me)",
+                  "\" (1950)",
+                  "(uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0042994"
+              },
+              {
+                "title": "A Foreign Affair",
+                "year": " 1948",
+                "remarks": [
+                  "(performer: \"Black Market\", \"Illusions\", \"The Ruins of Berlin\" - uncredited)"
+                ],
+                "imdbid": "tt0040367"
+              },
+              {
+                "title": "The Secret Heart",
+                "year": " 1946",
+                "remarks": [
+                  "(performer: \"I Can't Give You Anything But Love\")"
+                ],
+                "imdbid": "tt0038916"
+              },
+              {
+                "title": "Kismet",
+                "year": " 1944",
+                "remarks": [
+                  "(performer: \"Tell Me, Tell Me, Evening Star\" (1944)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0036984"
+              },
+              {
+                "title": "The Lady Is Willing",
+                "year": " 1942",
+                "remarks": [
+                  "(performer: \"I Find Love\")"
+                ],
+                "imdbid": "tt0034961"
+              },
+              {
+                "title": "Manpower",
+                "year": " 1941",
+                "remarks": [
+                  "(performer: \"He Lied and I Listened\" (1941)",
+                  ")"
+                ],
+                "imdbid": "tt0035034"
+              },
+              {
+                "title": "The Flame of New Orleans",
+                "year": " 1941",
+                "remarks": [
+                  "(performer: \"Sweet Is the Blush of May\")"
+                ],
+                "imdbid": "tt0033606"
+              },
+              {
+                "title": "Seven Sinners",
+                "year": " 1940",
+                "remarks": [
+                  "(performer: \"I've Been in Love Before\" (1940)",
+                  ", \"The Man's in the Navy\" (1940)",
+                  ", \"I Can't Give You Anything But Love\" (1928)",
+                  "(uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0033038"
+              },
+              {
+                "title": "Destry Rides Again",
+                "year": " 1939",
+                "remarks": [
+                  "(performer: \"See What the Boys in the Back Room Will Have\" (1939)",
+                  ", \"You've Got That Look\" (1939)",
+                  ", \"Little Joe, the Wrangler\" (1939)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0031225"
+              },
+              {
+                "title": "Angel",
+                "year": " 1937",
+                "remarks": [
+                  "(performer: \"Angel\" (1937)",
+                  ")"
+                ],
+                "imdbid": "tt0028575"
+              },
+              {
+                "title": "Desire",
+                "year": " 1936",
+                "remarks": [
+                  "(performer: \"Awake in a Dream\")"
+                ],
+                "imdbid": "tt0027515"
+              },
+              {
+                "title": "The Devil Is a Woman",
+                "year": " 1935",
+                "remarks": [
+                  "(performer: \"Three Sweethearts Have I\")"
+                ],
+                "imdbid": "tt0026276"
+              },
+              {
+                "title": "Régine",
+                "year": " 1935",
+                "remarks": [
+                  "(performer: \"You Have Taken My Soul\")"
+                ],
+                "imdbid": "tt0025708"
+              },
+              {
+                "title": "Ihr größter Erfolg",
+                "year": " 1934",
+                "remarks": [
+                  "(performer: \"Hobellied\")"
+                ],
+                "imdbid": "tt0025298"
+              },
+              {
+                "title": "March of the Movies",
+                "year": " 1933",
+                "remarks": [
+                  "(performer: \"Falling in Love Again\")"
+                ],
+                "imdbid": "tt0253078"
+              },
+              {
+                "title": "The Song of Songs",
+                "year": " 1933",
+                "remarks": [
+                  "(performer: \"Heideroslein\", \"Jonny\" - uncredited)"
+                ],
+                "imdbid": "tt0024598"
+              },
+              {
+                "title": "Blonde Venus",
+                "year": " 1932",
+                "remarks": [
+                  "(performer: \"Hot Voodoo\", \"You Little So-and-So\", \"I Couldn't Be Annoyed\")"
+                ],
+                "imdbid": "tt0022698"
+              },
+              {
+                "title": "The Tempest",
+                "year": " 1932",
+                "remarks": [
+                  "(performer: \"Ich weiß nicht, zu wem ich gehöhre\")"
+                ],
+                "imdbid": "tt0023535"
+              },
+              {
+                "title": "Dishonored",
+                "year": " 1931",
+                "remarks": [
+                  "(\"Donauwellen (Danube Waves)",
+                  "\")",
+                  "/ (performer: \"Sonata No.14 in C Sharp Minor, Op.27 No.2 'Moonlight'\")"
+                ],
+                "imdbid": "tt0021800"
+              },
+              {
+                "title": "L'homme qui cherche son assassin",
+                "year": " 1931",
+                "remarks": [
+                  "(performer: \"Wenn ich mir was wünschen dürfte...\")"
+                ],
+                "imdbid": "tt0022121"
+              },
+              {
+                "title": "Morocco",
+                "year": " 1930",
+                "remarks": [
+                  "(performer: \"Quand l'amour meurt\" (1904)",
+                  ", \"What Am I Bid for My Apple?\" (1930)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0021156"
+              },
+              {
+                "title": "The Blue Angel",
+                "year": " 1930",
+                "remarks": [
+                  "(performer: \"Ich bin von Kopf bis Fuß auf Liebe eingestellt\", \"Ich bin die fesche Lola\", \"Nimm Dich in Acht vor blonden Frau'n\", \"Kinder, heut' abend, da such' ich mir was aus\" - uncredited)"
+                ],
+                "imdbid": "tt0020697"
+              },
+              {
+                "title": "Why Cry at Parting?",
+                "year": " 1929",
+                "remarks": [
+                  "(performer: \"Wer wird denn weinen wenn man auseinander geht\")"
+                ],
+                "imdbid": "tt0020575"
+              }
+            ]
+          },
+          {
+            "section": "Actress",
+            "filmography": [
+              {
+                "title": "Just a Gigolo",
+                "year": " 1978",
+                "remarks": null,
+                "imdbid": "tt0079867"
+              },
+              {
+                "title": "Paris When It Sizzles",
+                "year": " 1964",
+                "remarks": [
+                  "Costume Party Guest (uncredited)"
+                ],
+                "imdbid": "tt0058453"
+              },
+              {
+                "title": "Judgment at Nuremberg",
+                "year": " 1961",
+                "remarks": null,
+                "imdbid": "tt0055031"
+              },
+              {
+                "title": "Touch of Evil",
+                "year": " 1958",
+                "remarks": null,
+                "imdbid": "tt0052311"
+              },
+              {
+                "title": "Witness for the Prosecution",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0051201"
+              },
+              {
+                "title": "The Montecarlo Story",
+                "year": " 1956",
+                "remarks": null,
+                "imdbid": "tt0049520"
+              },
+              {
+                "title": "Around the World in Eighty Days",
+                "year": " 1956",
+                "remarks": null,
+                "imdbid": "tt0048960"
+              },
+              {
+                "title": "Rancho Notorious",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0045070"
+              },
+              {
+                "title": "No Highway in the Sky",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0043859"
+              },
+              {
+                "title": "Stage Fright",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0042994"
+              },
+              {
+                "title": "Jigsaw",
+                "year": " 1949",
+                "remarks": [
+                  "Nightclub Patron (cameo appearance)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0041523"
+              },
+              {
+                "title": "A Foreign Affair",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040367"
+              },
+              {
+                "title": "Golden Earrings",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039428"
+              },
+              {
+                "title": "The Room Upstairs",
+                "year": " 1946",
+                "remarks": null,
+                "imdbid": "tt0038728"
+              },
+              {
+                "title": "Kismet",
+                "year": " 1944",
+                "remarks": null,
+                "imdbid": "tt0036984"
+              },
+              {
+                "title": "Follow the Boys",
+                "year": " 1944",
+                "remarks": null,
+                "imdbid": "tt0036832"
+              },
+              {
+                "title": "Pittsburgh",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0035195"
+              },
+              {
+                "title": "The Spoilers",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0035369"
+              },
+              {
+                "title": "The Lady Is Willing",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034961"
+              },
+              {
+                "title": "Manpower",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0035034"
+              },
+              {
+                "title": "The Flame of New Orleans",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0033606"
+              },
+              {
+                "title": "Seven Sinners",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0033038"
+              },
+              {
+                "title": "Destry Rides Again",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031225"
+              },
+              {
+                "title": "Angel",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0028575"
+              },
+              {
+                "title": "Knight Without Armor",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029087"
+              },
+              {
+                "title": "I Loved a Soldier",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027780"
+              },
+              {
+                "title": "The Garden of Allah",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027657"
+              },
+              {
+                "title": "Desire",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027515"
+              },
+              {
+                "title": "The Devil Is a Woman",
+                "year": " 1935",
+                "remarks": null,
+                "imdbid": "tt0026276"
+              },
+              {
+                "title": "The Scarlet Empress",
+                "year": " 1934",
+                "remarks": null,
+                "imdbid": "tt0025746"
+              },
+              {
+                "title": "The Song of Songs",
+                "year": " 1933",
+                "remarks": null,
+                "imdbid": "tt0024598"
+              },
+              {
+                "title": "Blonde Venus",
+                "year": " 1932",
+                "remarks": null,
+                "imdbid": "tt0022698"
+              },
+              {
+                "title": "Shanghai Express",
+                "year": " 1932",
+                "remarks": null,
+                "imdbid": "tt0023458"
+              },
+              {
+                "title": "Dishonored",
+                "year": " 1931",
+                "remarks": null,
+                "imdbid": "tt0021800"
+              },
+              {
+                "title": "The Blue Angel",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt3565328"
+              },
+              {
+                "title": "Morocco",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt0021156"
+              },
+              {
+                "title": "The Blue Angel",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt0020697"
+              },
+              {
+                "title": "Dangers of the Engagement",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt0019918"
+              },
+              {
+                "title": "The Ship of Lost Men",
+                "year": " 1929",
+                "remarks": null,
+                "imdbid": "tt0020371"
+              },
+              {
+                "title": "Three Loves",
+                "year": " 1929",
+                "remarks": null,
+                "imdbid": "tt0018588"
+              },
+              {
+                "title": "I Kiss Your Hand Madame",
+                "year": " 1929",
+                "remarks": [
+                  "Laurence Gerard / Lucille (U.S. prints)"
+                ],
+                "imdbid": "tt0020011"
+              },
+              {
+                "title": "Art of Love",
+                "year": " 1928",
+                "remarks": null,
+                "imdbid": "tt0018656"
+              },
+              {
+                "title": "Trois nuits d'amour",
+                "year": " 1927",
+                "remarks": null,
+                "imdbid": "tt0017726"
+              },
+              {
+                "title": "The Big Bluff",
+                "year": " 1927",
+                "remarks": null,
+                "imdbid": "tt0018372"
+              },
+              {
+                "title": "Tête haute, Charly!",
+                "year": " 1927",
+                "remarks": null,
+                "imdbid": "tt0017043"
+              },
+              {
+                "title": "Le baron imaginaire",
+                "year": " 1927",
+                "remarks": null,
+                "imdbid": "tt0017017"
+              },
+              {
+                "title": "A Modern Du Barry",
+                "year": " 1927",
+                "remarks": null,
+                "imdbid": "tt0017835"
+              },
+              {
+                "title": "Madame Doesn't Want Children",
+                "year": " 1926",
+                "remarks": [
+                  "Dancer (uncredited)"
+                ],
+                "imdbid": "tt0017099"
+              },
+              {
+                "title": "Manon",
+                "year": " 1926",
+                "remarks": null,
+                "imdbid": "tt0017118"
+              },
+              {
+                "title": "Dance Fever",
+                "year": " 1925",
+                "remarks": null,
+                "imdbid": "tt0016467"
+              },
+              {
+                "title": "Leap Into Life",
+                "year": " 1924",
+                "remarks": null,
+                "imdbid": "tt0014504"
+              },
+              {
+                "title": "The Monk from Santarem",
+                "year": " 1924",
+                "remarks": null,
+                "imdbid": "tt0234299"
+              },
+              {
+                "title": "Love Tragedy",
+                "year": " 1923",
+                "remarks": null,
+                "imdbid": "tt0014558"
+              },
+              {
+                "title": "Man by the Roadside",
+                "year": " 1923",
+                "remarks": null,
+                "imdbid": "tt0014269"
+              },
+              {
+                "title": "Caprice de femme",
+                "year": " 1923",
+                "remarks": null,
+                "imdbid": "tt0013617"
+              },
+              {
+                "title": "Im Schatten des Glücks",
+                "year": " 1919",
+                "remarks": [
+                  "(unconfirmed)"
+                ],
+                "imdbid": "tt0218349"
+              }
+            ]
+          },
+          {
+            "section": "Music department",
+            "filmography": [
+              {
+                "title": "Aquile senza corona",
+                "year": " 2011",
+                "remarks": [
+                  "(opening theme singer)"
+                ],
+                "imdbid": "tt1815594"
+              }
+            ]
+          },
+          {
+            "section": "Thanks",
+            "filmography": [
+              {
+                "title": "S1m0ne",
+                "year": " 2002",
+                "remarks": [
+                  "(Simone wishes to thank the following for their contribution to the making of Simone)"
+                ],
+                "imdbid": "tt0258153"
+              }
+            ]
+          },
+          {
+            "section": "Self",
+            "filmography": [
+              {
+                "title": "Marlene",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)",
+                  "Herself (voice)"
+                ],
+                "imdbid": "tt0085905"
+              },
+              {
+                "title": "An Evening with Marlene Dietrich",
+                "year": " 1973",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0228415"
+              },
+              {
+                "title": "Magic of Marlene",
+                "year": " 1968",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0367999"
+              },
+              {
+                "title": "The 22nd Annual Tony Awards",
+                "year": " 1968",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0324949"
+              },
+              {
+                "title": "The Royal Variety Performance 1963",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1679316"
+              },
+              {
+                "title": "Deutsche Schlagerfestival 1963",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1384770"
+              },
+              {
+                "title": "Gala de l'union",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt2576738"
+              },
+              {
+                "title": "Black Fox: The True Story of Adolf Hitler",
+                "year": " 1962",
+                "remarks": [
+                  "(Documentary)",
+                  "Narrator (voice)"
+                ],
+                "imdbid": "tt0055801"
+              },
+              {
+                "title": "Memo for Joe",
+                "year": " 1944",
+                "remarks": [
+                  "(Short documentary)"
+                ],
+                "imdbid": "tt0037066"
+              },
+              {
+                "title": "Show-Business at War",
+                "year": " 1943",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0036351"
+              },
+              {
+                "title": "Breakdowns of 1942",
+                "year": " 1942",
+                "remarks": [
+                  "(Short)",
+                  "Herself (uncredited)"
+                ],
+                "imdbid": "tt3701368"
+              },
+              {
+                "title": "Screen Snapshots Series 16, No. 7",
+                "year": " 1937",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0994928"
+              },
+              {
+                "title": "The Fashion Side of Hollywood",
+                "year": " 1935",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0228292"
+              },
+              {
+                "title": "Hollywood on Parade No. A-13",
+                "year": " 1933",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt2637020"
+              },
+              {
+                "title": "Die glückliche Mutter",
+                "year": " 1928",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0299936"
+              }
+            ]
+          },
+          {
+            "section": "Archive footage",
+            "filmography": [
+              {
+                "title": "Behind the Magic: Snow White and the Seven Dwarfs",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt5294700"
+              },
+              {
+                "title": "From Caligari to Hitler: German Cinema in the Age of the Masses",
+                "year": " 2014",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt3908344"
+              },
+              {
+                "title": "Somewhere over the Rainbow",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Lola Lola (uncredited)"
+                ],
+                "imdbid": "tt3866874"
+              },
+              {
+                "title": "From Gold to Containers, from Salt to Empires",
+                "year": " 2014",
+                "remarks": [
+                  "(Video)"
+                ],
+                "imdbid": "tt3483980"
+              },
+              {
+                "title": "Stars of the Silver Screen",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt2933728"
+              },
+              {
+                "title": "Duelle",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt1265627"
+              },
+              {
+                "title": "Arena",
+                "year": " 2012",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0199184"
+              },
+              {
+                "title": "Not Fade Away",
+                "year": " 2012",
+                "remarks": [
+                  "Tana in Touch of Evil (uncredited)"
+                ],
+                "imdbid": "tt1230215"
+              },
+              {
+                "title": "Vito",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1444284"
+              },
+              {
+                "title": "Memòries de la tele",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1046678"
+              },
+              {
+                "title": "L'Occupation sans relâche - Les artistes pendant la guerre",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1802157"
+              },
+              {
+                "title": "Cameraman: The Life and Work of Jack Cardiff",
+                "year": " 2010",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1626811"
+              },
+              {
+                "title": "Apocalypse - La 2ème guerre mondiale",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt1508238"
+              },
+              {
+                "title": "American Masters",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0364151"
+              },
+              {
+                "title": "Cinema's Exiles: From Hitler to Hollywood",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1436342"
+              },
+              {
+                "title": "Strictly Courtroom",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt1266033"
+              },
+              {
+                "title": "Why Be Good? Sexuality & Censorship in Early Cinema",
+                "year": " 2007",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1345531"
+              },
+              {
+                "title": "Amérique, notre histoire",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0900897"
+              },
+              {
+                "title": "Unsere Besten",
+                "year": " 2003-2006",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0920548"
+              },
+              {
+                "title": "The Best of the Royal Variety",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0884753"
+              },
+              {
+                "title": "Private Screenings",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0287263"
+              },
+              {
+                "title": "Billy Wilder Speaks",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0823715"
+              },
+              {
+                "title": "Ciclo Agatha Christie",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0784674"
+              },
+              {
+                "title": "American Experience",
+                "year": " 2004-2005",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0094416"
+              },
+              {
+                "title": "Filmlegenden. Deutsch",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0793512"
+              },
+              {
+                "title": "Legendary Sin Cities",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0457247"
+              },
+              {
+                "title": "Les Ritchie Boys",
+                "year": " 2004",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0435725"
+              },
+              {
+                "title": "Checking Out: Grand Hotel",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0989800"
+              },
+              {
+                "title": "Get Up, Stand Up",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0389631"
+              },
+              {
+                "title": "Complicated Women",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Herself (uncredited)"
+                ],
+                "imdbid": "tt0365076"
+              },
+              {
+                "title": "Falling in Love Again",
+                "year": " 2003",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt1159641"
+              },
+              {
+                "title": "Prisoner of Paradise",
+                "year": " 2002",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0316013"
+              },
+              {
+                "title": "The Nightclub Years",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Special documentary)"
+                ],
+                "imdbid": "tt0301664"
+              },
+              {
+                "title": "Marlene Dietrich: Her Own Song",
+                "year": " 2001",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0268443"
+              },
+              {
+                "title": "Thomas Mann et les siens",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Mini-Series)"
+                ],
+                "imdbid": "tt0250573"
+              },
+              {
+                "title": "Biography",
+                "year": " 1998-2001",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0092322"
+              },
+              {
+                "title": "Hitler's Women",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0282302"
+              },
+              {
+                "title": "Das Jahrhundert des Kabaretts",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt2584024"
+              },
+              {
+                "title": "Marlene Dietrich and Joseph von Sternberg",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt0336817"
+              },
+              {
+                "title": "Paragraph 175",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)",
+                  "Herself (uncredited)"
+                ],
+                "imdbid": "tt0236576"
+              },
+              {
+                "title": "Sharon Stone - Una mujer de 100 caras",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Herself (uncredited)"
+                ],
+                "imdbid": "tt1355595"
+              },
+              {
+                "title": "The Third Reich, in Color",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0243872"
+              },
+              {
+                "title": "Warner Bros. 75th Anniversary: No Guts, No Glory",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0310339"
+              },
+              {
+                "title": "Legenden",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt1050539"
+              },
+              {
+                "title": "The Real Las Vegas",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0319727"
+              },
+              {
+                "title": "Marlene Dietrich: Shadow and Light",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0116992"
+              },
+              {
+                "title": "Great Performances",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0159876"
+              },
+              {
+                "title": "Inside the Dream Factory",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0322772"
+              },
+              {
+                "title": "Get Shorty",
+                "year": " 1995",
+                "remarks": [
+                  "Tanya (uncredited)"
+                ],
+                "imdbid": "tt0113161"
+              },
+              {
+                "title": "Celluloid Closet",
+                "year": " 1995",
+                "remarks": [
+                  "(Documentary)",
+                  "Nightclub Performer in Tuxedo (uncredited)"
+                ],
+                "imdbid": "tt0112651"
+              },
+              {
+                "title": "The First 100 Years: A Celebration of American Movies",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0113068"
+              },
+              {
+                "title": "A Personal Journey with Martin Scorsese Through American Movies",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "/ (uncredited)"
+                ],
+                "imdbid": "tt0112120"
+              },
+              {
+                "title": "Cinema Europe: The Other Hollywood",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0115134"
+              },
+              {
+                "title": "The Casting Couch",
+                "year": " 1995",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0406632"
+              },
+              {
+                "title": "That's Entertainment! III",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary)",
+                  "Performer in Clip from 'Kismet' (uncredited)"
+                ],
+                "imdbid": "tt0111408"
+              },
+              {
+                "title": "Cinegrafias",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0442948"
+              },
+              {
+                "title": "Die Macht der Bilder: Leni Riefenstahl",
+                "year": " 1993",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0107472"
+              },
+              {
+                "title": "Dos reinas",
+                "year": " 1993",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0440326"
+              },
+              {
+                "title": "Only in Hollywood",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0352084"
+              },
+              {
+                "title": "Nylon blues",
+                "year": " 1991",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0496805"
+              },
+              {
+                "title": "The Dietrich Songs",
+                "year": " 1990",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0228216"
+              },
+              {
+                "title": "Hollywood Mavericks",
+                "year": " 1990",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0280745"
+              },
+              {
+                "title": "Durch dich wird diese Welt erst schön, ein Streifzug durch die Geschichte des deutschen Schlagers",
+                "year": " 1989",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2963786"
+              },
+              {
+                "title": "Entertaining the Troops",
+                "year": " 1988",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0097282"
+              },
+              {
+                "title": "Going Hollywood: The '30s",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0322431"
+              },
+              {
+                "title": "Étoiles et toiles",
+                "year": " 1983",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0344757"
+              },
+              {
+                "title": "Sixty Years of Seduction",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0338439"
+              },
+              {
+                "title": "Kintopp Kintopp",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0476097"
+              },
+              {
+                "title": "Il était une fois: Le gala de l'union des artistes",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0369569"
+              },
+              {
+                "title": "Bob Hope's Overseas Christmas Tours: Around the World with the Troops - 1941-1972",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0331439"
+              },
+              {
+                "title": "That's Action",
+                "year": " 1977",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0157105"
+              },
+              {
+                "title": "All You Need Is Love",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0247846"
+              },
+              {
+                "title": "Brother Can You Spare a Dime",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0072742"
+              },
+              {
+                "title": "Triumph Over Violence",
+                "year": " 1965",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0059529"
+              },
+              {
+                "title": "The Love Goddesses",
+                "year": " 1965",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0059402"
+              },
+              {
+                "title": "The Judy Garland Show",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0056767"
+              },
+              {
+                "title": "Hollywood and the Stars",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0056765"
+              },
+              {
+                "title": "Hollywood: The Great Stars",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Herself (uncredited)"
+                ],
+                "imdbid": "tt0853119"
+              },
+              {
+                "title": "The DuPont Show of the Week",
+                "year": " 1961",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0185797"
+              },
+              {
+                "title": "Das kommt nicht wieder",
+                "year": " 1958",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0225471"
+              },
+              {
+                "title": "It Only Happened Once",
+                "year": " 1958",
+                "remarks": null,
+                "imdbid": "tt0051521"
+              },
+              {
+                "title": "Screen Snapshots: Hollywood's Greatest Comedians",
+                "year": " 1953",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0292673"
+              },
+              {
+                "title": "March of the Movies",
+                "year": " 1933",
+                "remarks": [
+                  "Herself (film clip from 'Der Blaue Engel\")"
+                ],
+                "imdbid": "tt0253078"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.6",
+    "serverTime": "2017/01/14 22:02:33"
+  }
+}

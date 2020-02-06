@@ -1,0 +1,1516 @@
+{
+  "data": {
+    "names": [
+      {
+        "dateOfBirth": "20 January 1920",
+        "placeOfBirth": " Rimini, Emilia-Romagna, Italy",
+        "height": "5' 11¾\" (1.82 m)",
+        "bio": "The women who both attracted and frightened him and an Italy dominated in his youth by Mussolini and Pope Pius XII - inspired the dreams that Fellini started recording in notebooks in the 1960s. Life and dreams were raw material for his films. His native Rimini and characters like Saraghina (the devil herself said the priests who ran his school) - and the Gambettola farmhouse of his paternal grandmother would be remembered in several films. His traveling salesman father Urbano Fellini showed up in La Dolce Vita (1960) and 8½ (1963). His mother Ida Barbiani was from Rome and accompanied him there in 1939. He enrolled in the University of Rome. Intrigued by the image of reporters in American films, he tried out the real life role of journalist and caught the attention of several editors with his caricatures and cartoons and then started submitting articles. Several articles were recycled into a radio series about newlyweds \"Cico and Pallina\". Pallina was played by acting student Giulietta Masina, who became his real life wife from October 30, 1943, until his death half a century later. The young Fellini loved vaudeville and was befriended in 1940 by leading comedian Aldo Fabrizi. Roberto Rossellini wanted Fabrizi to play Don Pietro in Rome, ville ouverte (1945) and made the contact through Fellini. Fellini worked on that film's script and is on the credits for Rosselini's Paisan (1946). On that film he wandered into the editing room, started observing how Italian films were made (a lot like the old silent films with an emphasis on visual effects, dialogue dubbed in later). Fellini in his mid-20s had found his life's work.",
+        "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0NDI1MDU5Nl5BMl5BanBnXkFtZTgwNjQ2ODMwMzE@._V1.jpg",
+        "urlIMDB": "http://www.imdb.com/name/nm0000019",
+        "name": "Federico Fellini",
+        "nicknames": [
+          "FeFe",
+          "Il Maestro"
+        ],
+        "idIMDB": "nm0000019",
+        "filmographies": [
+          {
+            "section": "Writer",
+            "filmography": [
+              {
+                "title": "The Thousand Miles",
+                "year": " 2017",
+                "remarks": [
+                  "(inspired by)"
+                ],
+                "imdbid": "tt3492042"
+              },
+              {
+                "title": "La voce della luna",
+                "year": " 1990",
+                "remarks": null,
+                "imdbid": "tt0098606"
+              },
+              {
+                "title": "Intervista",
+                "year": " 1987",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0093267"
+              },
+              {
+                "title": "Ginger and Fred",
+                "year": " 1986",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0091113"
+              },
+              {
+                "title": "Alta Società: Rigatoni Barilla",
+                "year": " 1985",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt4769304"
+              },
+              {
+                "title": "Che bel paesaggio: Bitter Campari",
+                "year": " 1984",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt4797348"
+              },
+              {
+                "title": "And the Ship Sails On",
+                "year": " 1983",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0087188"
+              },
+              {
+                "title": "City of Women",
+                "year": " 1980",
+                "remarks": [
+                  "(story)"
+                ],
+                "imdbid": "tt0080539"
+              },
+              {
+                "title": "Orchestra Rehearsal",
+                "year": " 1978",
+                "remarks": [
+                  "(story)",
+                  "/ (writer)"
+                ],
+                "imdbid": "tt0079759"
+              },
+              {
+                "title": "Fellini's Casanova",
+                "year": " 1976",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0074291"
+              },
+              {
+                "title": "Quatre zizis dans la marine",
+                "year": " 1974",
+                "remarks": [
+                  "(idea - uncredited)"
+                ],
+                "imdbid": "tt0070516"
+              },
+              {
+                "title": "Amarcord",
+                "year": " 1973",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0071129"
+              },
+              {
+                "title": "Fellini Roma",
+                "year": " 1972",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0069191"
+              },
+              {
+                "title": "The Clowns",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0066922"
+              },
+              {
+                "title": "Fellini Satyricon",
+                "year": " 1969",
+                "remarks": [
+                  "(adaptation and screenplay)"
+                ],
+                "imdbid": "tt0064940"
+              },
+              {
+                "title": "NBC Experiment in Television",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Series)",
+                  "(1 episode)"
+                ],
+                "imdbid": "tt1415092"
+              },
+              {
+                "title": "Sweet Charity",
+                "year": " 1969",
+                "remarks": [
+                  "(based upon the screenplay by: \"Nights of Cabiria\")"
+                ],
+                "imdbid": "tt0065054"
+              },
+              {
+                "title": "Spirits of the Dead",
+                "year": " 1968",
+                "remarks": [
+                  "(adaptation - segment \"Toby Dammit\")"
+                ],
+                "imdbid": "tt0063715"
+              },
+              {
+                "title": "Juliet of the Spirits",
+                "year": " 1965",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0059229"
+              },
+              {
+                "title": "8½",
+                "year": " 1963",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0056801"
+              },
+              {
+                "title": "Boccaccio '70",
+                "year": " 1962",
+                "remarks": [
+                  "(segment \"Le tentazioni del dottor Antonio\")"
+                ],
+                "imdbid": "tt0055805"
+              },
+              {
+                "title": "La Dolce Vita",
+                "year": " 1960",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0053779"
+              },
+              {
+                "title": "Fortunella",
+                "year": " 1958",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0050406"
+              },
+              {
+                "title": "The Nights of Cabiria",
+                "year": " 1957",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0050783"
+              },
+              {
+                "title": "Il Bidone",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0047876"
+              },
+              {
+                "title": "La Strada",
+                "year": " 1954",
+                "remarks": [
+                  "(story and screenplay)"
+                ],
+                "imdbid": "tt0047528"
+              },
+              {
+                "title": "Love in the City",
+                "year": " 1953",
+                "remarks": [
+                  "(Documentary)",
+                  "(segment \"Agenzia matrimoniale\")"
+                ],
+                "imdbid": "tt0045504"
+              },
+              {
+                "title": "I Vitelloni",
+                "year": " 1953",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0046521"
+              },
+              {
+                "title": "Europe '51",
+                "year": " 1952",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0043511"
+              },
+              {
+                "title": "La tanière des brigands",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044450"
+              },
+              {
+                "title": "The White Sheik",
+                "year": " 1952",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story - as F. Fellini)"
+                ],
+                "imdbid": "tt0044000"
+              },
+              {
+                "title": "Position Wanted",
+                "year": " 1951",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0043373"
+              },
+              {
+                "title": "Four Ways Out",
+                "year": " 1951",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0043412"
+              },
+              {
+                "title": "Variety Lights",
+                "year": " 1951",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0042692"
+              },
+              {
+                "title": "The Path of Hope",
+                "year": " 1950",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0042301"
+              },
+              {
+                "title": "The Flowers of St. Francis",
+                "year": " 1950",
+                "remarks": [
+                  "(screenplay collaborator)"
+                ],
+                "imdbid": "tt0042477"
+              },
+              {
+                "title": "The Ways of Love",
+                "year": " 1950",
+                "remarks": [
+                  "(story by)"
+                ],
+                "imdbid": "tt5508084"
+              },
+              {
+                "title": "The Mill on the Po",
+                "year": " 1949",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0040619"
+              },
+              {
+                "title": "City of Pain",
+                "year": " 1949",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0040235"
+              },
+              {
+                "title": "In the Name of the Law",
+                "year": " 1949",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0041506"
+              },
+              {
+                "title": "Sans pitié",
+                "year": " 1948",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0040773"
+              },
+              {
+                "title": "Amore",
+                "year": " 1948",
+                "remarks": [
+                  "(story - segment \"Il miracolo\")"
+                ],
+                "imdbid": "tt0040092"
+              },
+              {
+                "title": "Bullet for Stefano",
+                "year": " 1947",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0039696"
+              },
+              {
+                "title": "Flesh Will Surrender",
+                "year": " 1947",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0039309"
+              },
+              {
+                "title": "Return of the Black Eagle",
+                "year": " 1946",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0038306"
+              },
+              {
+                "title": "Paisan",
+                "year": " 1946",
+                "remarks": [
+                  "(screenplay and dialogue)",
+                  "/ (story - as F. Fellini)"
+                ],
+                "imdbid": "tt0038823"
+              },
+              {
+                "title": "Rome, ville ouverte",
+                "year": " 1945",
+                "remarks": [
+                  "(collaboration on screenplay)"
+                ],
+                "imdbid": "tt0038890"
+              },
+              {
+                "title": "Chi l'ha visto?",
+                "year": " 1945",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0037591"
+              },
+              {
+                "title": "Tutta la città canta",
+                "year": " 1945",
+                "remarks": [
+                  "(screenplay - uncredited)"
+                ],
+                "imdbid": "tt0038195"
+              },
+              {
+                "title": "Apparition",
+                "year": " 1943",
+                "remarks": [
+                  "(screenplay - uncredited)"
+                ],
+                "imdbid": "tt0035641"
+              },
+              {
+                "title": "Le diamant mystérieux",
+                "year": " 1943",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0036470"
+              },
+              {
+                "title": "The Peddler and the Lady",
+                "year": " 1943",
+                "remarks": [
+                  "(adaptation)"
+                ],
+                "imdbid": "tt0035709"
+              },
+              {
+                "title": "I cavalieri del deserto",
+                "year": " 1942",
+                "remarks": [
+                  "(adaptation)",
+                  "/ (screenplay)"
+                ],
+                "imdbid": "tt0385587"
+              },
+              {
+                "title": "3/4 of a Page",
+                "year": " 1942",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (story)"
+                ],
+                "imdbid": "tt0035229"
+              },
+              {
+                "title": "Before the Postman",
+                "year": " 1942",
+                "remarks": [
+                  "(story - as Federico)"
+                ],
+                "imdbid": "tt0034481"
+              }
+            ]
+          },
+          {
+            "section": "Director",
+            "filmography": [
+              {
+                "title": "The King of Ads",
+                "year": " 1991",
+                "remarks": [
+                  "(Documentary)",
+                  "(segments \"Campari commercial\", \"Barilla commercial\")"
+                ],
+                "imdbid": "tt2243597"
+              },
+              {
+                "title": "La voce della luna",
+                "year": " 1990",
+                "remarks": null,
+                "imdbid": "tt0098606"
+              },
+              {
+                "title": "Intervista",
+                "year": " 1987",
+                "remarks": null,
+                "imdbid": "tt0093267"
+              },
+              {
+                "title": "Ginger and Fred",
+                "year": " 1986",
+                "remarks": null,
+                "imdbid": "tt0091113"
+              },
+              {
+                "title": "Alta Società: Rigatoni Barilla",
+                "year": " 1985",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt4769304"
+              },
+              {
+                "title": "Che bel paesaggio: Bitter Campari",
+                "year": " 1984",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt4797348"
+              },
+              {
+                "title": "And the Ship Sails On",
+                "year": " 1983",
+                "remarks": null,
+                "imdbid": "tt0087188"
+              },
+              {
+                "title": "City of Women",
+                "year": " 1980",
+                "remarks": null,
+                "imdbid": "tt0080539"
+              },
+              {
+                "title": "Orchestra Rehearsal",
+                "year": " 1978",
+                "remarks": null,
+                "imdbid": "tt0079759"
+              },
+              {
+                "title": "Fellini's Casanova",
+                "year": " 1976",
+                "remarks": null,
+                "imdbid": "tt0074291"
+              },
+              {
+                "title": "Amarcord",
+                "year": " 1973",
+                "remarks": null,
+                "imdbid": "tt0071129"
+              },
+              {
+                "title": "Fellini Roma",
+                "year": " 1972",
+                "remarks": null,
+                "imdbid": "tt0069191"
+              },
+              {
+                "title": "The Clowns",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0066922"
+              },
+              {
+                "title": "Fellini Satyricon",
+                "year": " 1969",
+                "remarks": null,
+                "imdbid": "tt0064940"
+              },
+              {
+                "title": "NBC Experiment in Television",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Series)",
+                  "(1 episode)"
+                ],
+                "imdbid": "tt1415092"
+              },
+              {
+                "title": "Spirits of the Dead",
+                "year": " 1968",
+                "remarks": [
+                  "(segment \"Toby Dammit\")"
+                ],
+                "imdbid": "tt0063715"
+              },
+              {
+                "title": "Juliet of the Spirits",
+                "year": " 1965",
+                "remarks": null,
+                "imdbid": "tt0059229"
+              },
+              {
+                "title": "8½",
+                "year": " 1963",
+                "remarks": null,
+                "imdbid": "tt0056801"
+              },
+              {
+                "title": "Boccaccio '70",
+                "year": " 1962",
+                "remarks": [
+                  "(segment \"Le tentazioni del dottor Antonio\")"
+                ],
+                "imdbid": "tt0055805"
+              },
+              {
+                "title": "La Dolce Vita",
+                "year": " 1960",
+                "remarks": null,
+                "imdbid": "tt0053779"
+              },
+              {
+                "title": "The Nights of Cabiria",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0050783"
+              },
+              {
+                "title": "Il Bidone",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0047876"
+              },
+              {
+                "title": "La Strada",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0047528"
+              },
+              {
+                "title": "Love in the City",
+                "year": " 1953",
+                "remarks": [
+                  "(Documentary)",
+                  "(segment \"Agenzia matrimoniale\")"
+                ],
+                "imdbid": "tt0045504"
+              },
+              {
+                "title": "I Vitelloni",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0046521"
+              },
+              {
+                "title": "The White Sheik",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044000"
+              },
+              {
+                "title": "Variety Lights",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0042692"
+              }
+            ]
+          },
+          {
+            "section": "Second Unit Director or Assistant Director",
+            "filmography": [
+              {
+                "title": "Où est la liberté",
+                "year": " 1954",
+                "remarks": [
+                  "(second unit director - uncredited)"
+                ],
+                "imdbid": "tt0044562"
+              },
+              {
+                "title": "Sans pitié",
+                "year": " 1948",
+                "remarks": [
+                  "(associate director)"
+                ],
+                "imdbid": "tt0040773"
+              },
+              {
+                "title": "Amore",
+                "year": " 1948",
+                "remarks": [
+                  "(assistant director - segment \"Miracolo, Il\")"
+                ],
+                "imdbid": "tt0040092"
+              },
+              {
+                "title": "Paisan",
+                "year": " 1946",
+                "remarks": [
+                  "(assistant director - uncredited)"
+                ],
+                "imdbid": "tt0038823"
+              },
+              {
+                "title": "Rome, ville ouverte",
+                "year": " 1945",
+                "remarks": [
+                  "(assistant director - uncredited)"
+                ],
+                "imdbid": "tt0038890"
+              }
+            ]
+          },
+          {
+            "section": "Actor",
+            "filmography": [
+              {
+                "title": "The Ways of Love",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt5508084"
+              },
+              {
+                "title": "Amore",
+                "year": " 1948",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0040092"
+              }
+            ]
+          },
+          {
+            "section": "Art department",
+            "filmography": [
+              {
+                "title": "Fellini's Casanova",
+                "year": " 1976",
+                "remarks": [
+                  "(scenography)"
+                ],
+                "imdbid": "tt0074291"
+              }
+            ]
+          },
+          {
+            "section": "Costume designer",
+            "filmography": [
+              {
+                "title": "Fellini's Casanova",
+                "year": " 1976",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0074291"
+              }
+            ]
+          },
+          {
+            "section": "Producer",
+            "filmography": [
+              {
+                "title": "Variety Lights",
+                "year": " 1951",
+                "remarks": [
+                  "(associate producer - as Fellini)"
+                ],
+                "imdbid": "tt0042692"
+              }
+            ]
+          },
+          {
+            "section": "Miscellaneous Crew",
+            "filmography": [
+              {
+                "title": "La tivù di Fellini",
+                "year": " 2003",
+                "remarks": [
+                  "(Short)",
+                  "(director: archive footage)"
+                ],
+                "imdbid": "tt0466340"
+              }
+            ]
+          },
+          {
+            "section": "Thanks",
+            "filmography": [
+              {
+                "title": "A La Dolce Vita",
+                "year": " 2016",
+                "remarks": [
+                  "(Short)",
+                  "(the director wishes to thank)"
+                ],
+                "imdbid": "tt5784528"
+              },
+              {
+                "title": "Anthony-Cédric Vuagniaux: '69 (La bobine magique)",
+                "year": " 2011",
+                "remarks": [
+                  "(Short)",
+                  "(dedicated to)"
+                ],
+                "imdbid": "tt2129882"
+              },
+              {
+                "title": "Oi'Clowns - Een Hommage aan Federico Fellini",
+                "year": " 2010",
+                "remarks": [
+                  "(Short)",
+                  "(very special thanks)"
+                ],
+                "imdbid": "tt1693815"
+              },
+              {
+                "title": "Omaggio a Roma",
+                "year": " 2009",
+                "remarks": [
+                  "(Short)",
+                  "(grateful thanks)"
+                ],
+                "imdbid": "tt1483793"
+              },
+              {
+                "title": "Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence",
+                "year": " 2007",
+                "remarks": [
+                  "(dedicatee: opening credits)"
+                ],
+                "imdbid": "tt0973844"
+              },
+              {
+                "title": "Marcello, una vita dolce",
+                "year": " 2006",
+                "remarks": [
+                  "(Documentary)",
+                  "(acknowledgment)"
+                ],
+                "imdbid": "tt0922500"
+              },
+              {
+                "title": "Tiempos mejores",
+                "year": " 1994",
+                "remarks": [
+                  "(in memoriam)"
+                ],
+                "imdbid": "tt0164201"
+              },
+              {
+                "title": "Somebody to Love",
+                "year": " 1994",
+                "remarks": [
+                  "(in memory of - as Federico)"
+                ],
+                "imdbid": "tt0111237"
+              },
+              {
+                "title": "We All Loved Each Other So Much",
+                "year": " 1974",
+                "remarks": [
+                  "(thanks)"
+                ],
+                "imdbid": "tt0075793"
+              }
+            ]
+          },
+          {
+            "section": "Self",
+            "filmography": [
+              {
+                "title": "The 65th Annual Academy Awards",
+                "year": " 1993",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0266220"
+              },
+              {
+                "title": "Anthony Quinn: An Original",
+                "year": " 1990",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0498895"
+              },
+              {
+                "title": "Intervista",
+                "year": " 1987",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0093267"
+              },
+              {
+                "title": "Bellissimo: Immagini del cinema italiano",
+                "year": " 1985",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0092635"
+              },
+              {
+                "title": "Biennale del cinema di Venezia - Serata finale",
+                "year": " 1985",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt3769816"
+              },
+              {
+                "title": "Étoiles et toiles",
+                "year": " 1985",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0344757"
+              },
+              {
+                "title": "Buñuel",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0295894"
+              },
+              {
+                "title": "Il tassinaro",
+                "year": " 1983",
+                "remarks": null,
+                "imdbid": "tt0086412"
+              },
+              {
+                "title": "Zoom su Fellini",
+                "year": " 1983",
+                "remarks": [
+                  "(TV Series documentary)",
+                  "Himself (segment \"Fellini nel cestino\")"
+                ],
+                "imdbid": "tt1219281"
+              },
+              {
+                "title": "Mémoire: Federico Fellini",
+                "year": " 1982",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0355794"
+              },
+              {
+                "title": "The Dick Cavett Show",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0072490"
+              },
+              {
+                "title": "Appunti su 'La città delle donne'",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0218001"
+              },
+              {
+                "title": "My Name Is Anna Magnani",
+                "year": " 1980",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0257802"
+              },
+              {
+                "title": "Billy Baxter Presents Diary of the Cannes Film Festival with Rex Reed",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1846982"
+              },
+              {
+                "title": "La nuit des Césars",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0341901"
+              },
+              {
+                "title": "E il Casanova di Fellini?",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0169833"
+              },
+              {
+                "title": "Apropos Film",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2303071"
+              },
+              {
+                "title": "We All Loved Each Other So Much",
+                "year": " 1974",
+                "remarks": null,
+                "imdbid": "tt0075793"
+              },
+              {
+                "title": "Diario segreto di Amarcord",
+                "year": " 1974",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt2038256"
+              },
+              {
+                "title": "Film Night",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1008209"
+              },
+              {
+                "title": "Le grand échiquier",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0353063"
+              },
+              {
+                "title": "Fellini Roma",
+                "year": " 1972",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0069191"
+              },
+              {
+                "title": "Io e...",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt1519943"
+              },
+              {
+                "title": "Alex in Wonderland",
+                "year": " 1970",
+                "remarks": null,
+                "imdbid": "tt0065380"
+              },
+              {
+                "title": "Ciao, Federico!",
+                "year": " 1970",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0065551"
+              },
+              {
+                "title": "The Clowns",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0066922"
+              },
+              {
+                "title": "The 42nd Annual Academy Awards",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0276746"
+              },
+              {
+                "title": "The David Frost Show",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0063890"
+              },
+              {
+                "title": "The Dick Cavett Show",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0063894"
+              },
+              {
+                "title": "NBC Experiment in Television",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1415092"
+              },
+              {
+                "title": "Familiar Spirits",
+                "year": " 1966",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt1051222"
+              },
+              {
+                "title": "Antonioni: Documents and Testimonials",
+                "year": " 1966",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0186356"
+              },
+              {
+                "title": "The Merv Griffin Show",
+                "year": " 1965",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0055691"
+              },
+              {
+                "title": "Zoom su Federico Fellini",
+                "year": " 1965",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1219280"
+              },
+              {
+                "title": "The 36th Annual Academy Awards",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0349055"
+              },
+              {
+                "title": "Cinépanorama",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0341719"
+              },
+              {
+                "title": "Fellini",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0270128"
+              },
+              {
+                "title": "Reflets de Cannes",
+                "year": " 1955",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0361231"
+              }
+            ]
+          },
+          {
+            "section": "Archive footage",
+            "filmography": [
+              {
+                "title": "L'Imperatore di Carta",
+                "year": " 2015",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt3751664"
+              },
+              {
+                "title": "The End of a Great Era",
+                "year": " 2015",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt4419390"
+              },
+              {
+                "title": "Donne nel mito: Sophia racconta la Loren",
+                "year": " 2014",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt3894482"
+              },
+              {
+                "title": "Duels",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt5424442"
+              },
+              {
+                "title": "Walt Disney e l'Italia - Una storia d'amore",
+                "year": " 2014",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt3460944"
+              },
+              {
+                "title": "Qu'il est étrange de s'appeler Federico",
+                "year": " 2013",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt2952634"
+              },
+              {
+                "title": "Lino Miccichè, mio padre - Una visione del mondo",
+                "year": " 2013",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt3322920"
+              },
+              {
+                "title": "Dai nostri inviati: La Rai racconta la Mostra del cinema di Venezia 1980-1989",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt3109094"
+              },
+              {
+                "title": "Sur les traces de Fellini",
+                "year": " 2013",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt3215046"
+              },
+              {
+                "title": "Long Live Freedom",
+                "year": " 2013",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt2523600"
+              },
+              {
+                "title": "Giovanna Cau - Diversamente giovane",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2074373"
+              },
+              {
+                "title": "Hollywood Invasion",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2004245"
+              },
+              {
+                "title": "Dai nostri inviati: La Rai racconta la Mostra del cinema 1968-1979",
+                "year": " 2011",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt2444984"
+              },
+              {
+                "title": "Fellini's Circus",
+                "year": " 2011",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt1852786"
+              },
+              {
+                "title": "1960",
+                "year": " 2010",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1714820"
+              },
+              {
+                "title": "Pupi Avati, ieri, oggi, domani",
+                "year": " 2010",
+                "remarks": null,
+                "imdbid": "tt1663667"
+              },
+              {
+                "title": "Gilles Jacob: CIitizen Cannes",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1651079"
+              },
+              {
+                "title": "Il était une fois...",
+                "year": " 2006-2009",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2424484"
+              },
+              {
+                "title": "Hollywood on the Tiber",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1484991"
+              },
+              {
+                "title": "Di me cosa ne sai",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1514825"
+              },
+              {
+                "title": "Vittorio D.",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1910667"
+              },
+              {
+                "title": "Memòries de la tele",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1046678"
+              },
+              {
+                "title": "Fellini's Homecoming",
+                "year": " 2006",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt2033987"
+              },
+              {
+                "title": "Marcello, una vita dolce",
+                "year": " 2006",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0922500"
+              },
+              {
+                "title": "Un écran nommé désir",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0807061"
+              },
+              {
+                "title": "Towards the Moon with Fellini",
+                "year": " 2006",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0818264"
+              },
+              {
+                "title": "Cinema mil",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0470644"
+              },
+              {
+                "title": "Filmmakers vs. Tycoons",
+                "year": " 2005",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0480892"
+              },
+              {
+                "title": "Cinecittà: La casa di F. Fellini",
+                "year": " 2004",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt0483355"
+              },
+              {
+                "title": "'Duel': A Conversation with Director Steven Spielberg",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0429819"
+              },
+              {
+                "title": "Épreuves d'artistes",
+                "year": " 2004",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0434462"
+              },
+              {
+                "title": "The Lost Ending",
+                "year": " 2003",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0418266"
+              },
+              {
+                "title": "Cinecittà: Dream Factory",
+                "year": " 2002",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0757872"
+              },
+              {
+                "title": "Fellini: I'm a Born Liar",
+                "year": " 2002",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0314062"
+              },
+              {
+                "title": "The Magic of Fellini",
+                "year": " 2002",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0407969"
+              },
+              {
+                "title": "Roberto Rossellini: Frammenti e battute",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0376858"
+              },
+              {
+                "title": "Fellini Narrates: A Discovered Self-Portrait",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0262414"
+              },
+              {
+                "title": "Un amico magico: il maestro Nino Rota",
+                "year": " 1999",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0208680"
+              },
+              {
+                "title": "François Chalais, la vie comme un roman",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1933576"
+              },
+              {
+                "title": "The 66th Annual Academy Awards",
+                "year": " 1994",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0295842"
+              },
+              {
+                "title": "Zwischen Kino und Konzert - Der Komponist Nino Rota",
+                "year": " 1993",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0217906"
+              },
+              {
+                "title": "Notre Dame de la Croisette",
+                "year": " 1981",
+                "remarks": [
+                  "(Documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0082826"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.6",
+    "serverTime": "2017/01/14 22:02:57"
+  }
+}

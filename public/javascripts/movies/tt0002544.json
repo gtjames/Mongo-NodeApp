@@ -1,0 +1,99 @@
+{
+  "data": {
+    "movies": [
+      {
+        "title": "Le jardinier",
+        "originalTitle": "Trädgårdsmästaren",
+        "year": "1912",
+        "releaseDate": "19121017",
+        "directors": [
+          {
+            "name": "Victor Sjöström",
+            "id": "nm0803705"
+          }
+        ],
+        "writers": [
+          {
+            "name": "Mauritz Stiller",
+            "id": "nm0830249"
+          }
+        ],
+        "urlPoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjM0ZWUxNGItM2FkNC00YmZjLTkyMmItMDcwZTI0ZWEwODVmL2ltYWdlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_UY268_CR98,0,182,268_AL_.jpg",
+        "countries": [
+          "Sweden"
+        ],
+        "languages": [],
+        "genres": [
+          "Drama"
+        ],
+        "plot": "A gardener runs a nursery. His son has fallen in love with the daughter of one of the workers at the nursery. The gardener, who has a good eye for daughter, runs furiously son out of the house. One day the gardener violates the girl. He then sends her and her father away, so that he will not be revealed.",
+        "simplePlot": "A gardener runs a nursery. His son has fallen in love with the daughter of one of the workers at the nursery. The gardener, who has a good eye for daughter, runs furiously his son out of the house.",
+        "actors": [
+          {
+            "actorName": "Victor Sjöström",
+            "urlProfile": "http://www.imdb.com/name/nm0803705",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMzk0OTQ2Ml5BMl5BanBnXkFtZTcwNjg5MDI2NQ@@._V1_UY44_CR17,0,32,44_AL_.jpg",
+            "actorId": "nm0803705",
+            "character": "The Gardener",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Gösta Ekman",
+            "urlProfile": "http://www.imdb.com/name/nm0252472",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg3NTYxNDkxOF5BMl5BanBnXkFtZTcwMzg3MDkwNA@@._V1_UY44_CR1,0,32,44_AL_.jpg",
+            "actorId": "nm0252472",
+            "character": "The Gardener's son",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Lili Beck",
+            "urlProfile": "http://www.imdb.com/name/nm0064949",
+            "urlPhoto": "",
+            "actorId": "nm0064949",
+            "character": "Young Woman",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Gunnar Bohman",
+            "urlProfile": "http://www.imdb.com/name/nm0092083",
+            "urlPhoto": "",
+            "actorId": "nm0092083",
+            "character": "",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "John Ekman",
+            "urlProfile": "http://www.imdb.com/name/nm0252476",
+            "urlPhoto": "",
+            "actorId": "nm0252476",
+            "character": "The General",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Mauritz Stiller",
+            "urlProfile": "http://www.imdb.com/name/nm0830249",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4OTFmM2MtMTg1MC00MmI2LTg2N2EtNjVkNmVmYTAxYjhhXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UY44_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0830249",
+            "character": "Passenger",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          }
+        ],
+        "idIMDB": "tt0002544",
+        "urlIMDB": "http://www.imdb.com/title/tt0002544",
+        "rating": "6.2",
+        "votes": "102",
+        "type": "Movie"
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.7",
+    "serverTime": "2017/01/25 14:53:37"
+  }
+}

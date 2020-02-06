@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('#{movie.urlPoster}') left top / contain repeat fixed ";
+
+  form(action="/movies/deleted" method="POST")
+    table.white
+      tr
+        td.label Movie ID:
+        td= movie._id
+          input(type="hidden" name="_id" value="#{movie._id}")
+      tr
+        td.label Movie Title:
+        td= movie.title
+      tr
+        td.label Year Released:
+        td= movie.year
+      tr
+        td.label Plot:
+        td: textarea(readonly rows="5"    cols="80") #{movie.simplePlot}
+      tr
+        td: button(type="submit") Delete Movie
+      tr
+        td
+          a(href='/movies/' + movie._id)
+            .button Back to '#{movie.title}'

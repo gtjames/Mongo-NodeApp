@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  ul
+    each user in users
+      li #{user.FirstName} #{user.LastName}
+      if user.Movie
+        a(href="#{user.Phone}") #{user.FirstName}
+        img(src="#{user.Phone}" height="160" width="100")
+      else
+        p(style="margin-left:5px")=user.Phone

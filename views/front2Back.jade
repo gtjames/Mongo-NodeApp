@@ -1,0 +1,74 @@
+//
+   Created by Edge Tech Academy on 6/22/2017.
+   Pug syntax styles - this one right here is a multi-line comment
+
+//  MIXINs are macros/functions to be used usually in iterating over a list
+mixin showGenre(genre)
+  div(class=genre + ' imgAttr')
+  p.genre= genre
+  br
+
+- let movieTitle = 'Pug: The Movie!'
+- let title = 'Fun with Pug!'
+
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/pug.css')
+
+  style.
+      p.genre { color: #86aa16; }
+
+- let classes = ['firstClass', 'highClass', 'noClass'];
+- let genres = ['Comedy', 'Sci-Fi', 'Western'], genres0 = [];
+- let youAreUsingPug = true;
+
+script(type='text/javascript').
+    let findArea = true;
+    if (findArea)
+      area(5);
+    function area (radius) {
+        console.log("The Circle has an area of: " + Math.PI * Math.pow(radius, 2));
+      }
+
+body
+    h2 What should we see tonight? #[em #{movieTitle}] Of course!
+    img.imgClass(src="/images/pug.png")
+
+    - let authenticated = true
+    #container(class=authenticated ? 'signedIn' : 'anon')
+      if youAreUsingPug
+        p Pug developers #[strong Rock]!
+      else
+        p Get on it!
+
+    //  attrs is JSON, Pug will unwind it and use the key:value pairs as attributes
+    - let attrs = {class: 'Registered', style:'color:#ED8810; font-size:28px'};
+    div#foo(custom-attrib="EdgeTech")&attributes(attrs) Check out these attributes!
+
+    //  Creating links, one with a button the other just a link
+    a(href='https://github.com/pugjs/pug'): button The Pug github repo
+    p: a(href='https://pugjs.org/api/getting-started.html') Getting started with Pug
+
+    //  these next 3 paragraphs show how Pug interprets or doesn't interpret key works
+    p
+      Pug is a #[u terse] and simple templating language with a
+      strong focus on performance and powerful features.
+    p.
+      Pug is a #[u terse] and simple templating language with a
+      strong focus on performance and powerful features.
+    p
+      |   Pug is a #[u terse] and simple templating language with a
+      |   #[strong strong] focus on performance and powerful features.
+
+    // create a div with class from the array classes, followed by a ul list
+    ul(class=classes)
+      each genre in genres
+        +showGenre(genre)
+
+    ul.genreList
+      each genre in genres0
+        +showGenre(genre)
+      else
+        h3 no genres here

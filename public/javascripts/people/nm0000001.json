@@ -1,0 +1,2777 @@
+{
+  "data": {
+    "names": [
+      {
+        "dateOfBirth": "10 May 1899",
+        "placeOfBirth": " Omaha, Nebraska, USA",
+        "birthName": "Frederic Austerlitz Jr.",
+        "height": "5' 9\" (1.75 m)",
+        "bio": "Fred Astaire was born in Omaha, Nebraska, to Johanna (Geilus) and Fritz Austerlitz, a brewer. Fred entered show business at age 5. He was successful both in vaudeville and on Broadway in partnership with his sister, Adele Astaire. After Adele retired to marry in 1932, Astaire headed to Hollywood. Signed to RKO, he was loaned to MGM to appear in Dancing Lady (1933) before starting work on RKO's Flying Down to Rio (1933). In the latter film, he began his highly successful partnership with Ginger Rogers, with whom he danced in 9 RKO pictures. During these years, he was also active in recording and radio. On film, Astaire later appeared opposite a number of partners through various studios. After a temporary retirement in 1945-7, during which he opened Fred Astaire Dance Studios, Astaire returned to film to star in more musicals through 1957. He subsequently performed a number of straight dramatic roles in film and TV.",
+        "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU0NDYzMjA1MF5BMl5BanBnXkFtZTYwMTIzNjM2._V1.jpg",
+        "urlIMDB": "http://www.imdb.com/name/nm0000001",
+        "name": "Fred Astaire",
+        "idIMDB": "nm0000001",
+        "filmographies": [
+          {
+            "section": "Soundtrack",
+            "filmography": [
+              {
+                "title": "Gilmore Girls: A Year in the Life",
+                "year": " 2016",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt5435008"
+              },
+              {
+                "title": "20th Century Women",
+                "year": " 2016",
+                "remarks": [
+                  "(performer: \"This Heart of Mine\")"
+                ],
+                "imdbid": "tt4385888"
+              },
+              {
+                "title": "Cuéntame",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0302447"
+              },
+              {
+                "title": "Call the Midwife",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt1983079"
+              },
+              {
+                "title": "Dancing with the Stars",
+                "year": " 2006-2014",
+                "remarks": [
+                  "(TV Series)",
+                  "(2 episodes)"
+                ],
+                "imdbid": "tt0463398"
+              },
+              {
+                "title": "Cake",
+                "year": " 2014/II",
+                "remarks": [
+                  "(performer: \"Dig It\")"
+                ],
+                "imdbid": "tt3442006"
+              },
+              {
+                "title": "Broadway Therapy",
+                "year": " 2014",
+                "remarks": [
+                  "(performer: \"Cheek to Cheek\", \"Steppin' Out With My Baby\")"
+                ],
+                "imdbid": "tt1767372"
+              },
+              {
+                "title": "Supernatural",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0460681"
+              },
+              {
+                "title": "Mildred Pierce",
+                "year": " ",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(performer - 1 episode, 2011)",
+                  "(writer - 1 episode, 2011)"
+                ],
+                "imdbid": "tt1492030"
+              },
+              {
+                "title": "Moguls & Movie Stars: A History of Hollywood",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Mini-Series documentary)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt1759310"
+              },
+              {
+                "title": "Step Up 3D",
+                "year": " 2010",
+                "remarks": [
+                  "(performer: \"I Won't Dance\")"
+                ],
+                "imdbid": "tt1193631"
+              },
+              {
+                "title": "Doctors",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0241383"
+              },
+              {
+                "title": "Johnny Mercer: The Dream's on Me",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(music: \"I'm Building Up to an Awful Let-Down\")",
+                  "/ (performer: \"One for My Baby (and One More for the Road)",
+                  "\", \"That's Entertainment\", \"Dearly Beloved\", \"Something's Gotta Give\")"
+                ],
+                "imdbid": "tt1543216"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical History - The 1930s: Dancing Away the Great Depression",
+                "year": " 2009",
+                "remarks": [
+                  "(Video documentary)",
+                  "(performer: \"Carioca\", \"Poor Mr. Chisholm\", \"Night and Day\", \"I Won't Dance\" - uncredited)"
+                ],
+                "imdbid": "tt1359579"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical History - The 1940s: Stars, Stripes and Singing",
+                "year": " 2009",
+                "remarks": [
+                  "(Video documentary)",
+                  "(performer: \"Dig It\", \"Poor Mr. Chisholm\" - uncredited)"
+                ],
+                "imdbid": "tt1359580"
+              },
+              {
+                "title": "Banda sonora",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt1126592"
+              },
+              {
+                "title": "A Trip to Swadades",
+                "year": " 2008",
+                "remarks": [
+                  "(performer: \"This Heart of Mine\")"
+                ],
+                "imdbid": "tt1270796"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical Treasure",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(performer: \"Carioca\", \"Waltz in Swing Time\", \"You're All the World to Me\" - uncredited)"
+                ],
+                "imdbid": "tt1147738"
+              },
+              {
+                "title": "Ramsay's Kitchen Nightmares",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0409608"
+              },
+              {
+                "title": "Secret Diary of a Call Girl",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt1000734"
+              },
+              {
+                "title": "American Masters",
+                "year": " 1999-2007",
+                "remarks": [
+                  "(TV Series documentary)",
+                  "(performer - 2 episodes)"
+                ],
+                "imdbid": "tt0364151"
+              },
+              {
+                "title": "Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence",
+                "year": " 2007",
+                "remarks": [
+                  "(performer: \"Cheek to Cheek\")"
+                ],
+                "imdbid": "tt0973844"
+              },
+              {
+                "title": "ShowBusiness: The Road to Broadway",
+                "year": " 2007",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Puttin' on the Ritz\")"
+                ],
+                "imdbid": "tt0456004"
+              },
+              {
+                "title": "Gilmore Girls",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0238784"
+              },
+              {
+                "title": "La caravane de l'étrange",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0319969"
+              },
+              {
+                "title": "Los nuevos y clásicos bloopers",
+                "year": " 2004",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt5607020"
+              },
+              {
+                "title": "Angels in America",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0318997"
+              },
+              {
+                "title": "Pepper Chocolate",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer: \"Puttin' on the Ritz\")"
+                ],
+                "imdbid": "tt0380096"
+              },
+              {
+                "title": "The Dreamers",
+                "year": " 2003",
+                "remarks": [
+                  "(performer: \"No Strings (I'm Fancy Free)",
+                  "\" (1935)",
+                  ")"
+                ],
+                "imdbid": "tt0309987"
+              },
+              {
+                "title": "The Human Stain",
+                "year": " 2003",
+                "remarks": [
+                  "(performer: \"Cheek to Cheek\" (1936)",
+                  ")"
+                ],
+                "imdbid": "tt0308383"
+              },
+              {
+                "title": "A.I. Artificial Intelligence",
+                "year": " 2001",
+                "remarks": [
+                  "(performer: \"Cheek To Cheek\")"
+                ],
+                "imdbid": "tt0212720"
+              },
+              {
+                "title": "Billy Elliot",
+                "year": " 2000",
+                "remarks": [
+                  "(performer: \"Top Hat, White Tie, and Tails\")"
+                ],
+                "imdbid": "tt0249462"
+              },
+              {
+                "title": "The Next Best Thing",
+                "year": " 2000",
+                "remarks": [
+                  "(performer: \"Steppin' Out With My Baby\")"
+                ],
+                "imdbid": "tt0156841"
+              },
+              {
+                "title": "The Green Mile",
+                "year": " 1999",
+                "remarks": [
+                  "(performer: \"Cheek to Cheek\")"
+                ],
+                "imdbid": "tt0120689"
+              },
+              {
+                "title": "The Life and Times of Hank Greenberg",
+                "year": " 1998",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Night and Day\")"
+                ],
+                "imdbid": "tt0208261"
+              },
+              {
+                "title": "Déjà Vu",
+                "year": " 1997",
+                "remarks": [
+                  "(performer: \"Dearly Beloved\")"
+                ],
+                "imdbid": "tt0119033"
+              },
+              {
+                "title": "The English Patient",
+                "year": " 1996",
+                "remarks": [
+                  "(performer: \"Cheek to Cheek\" (1935)",
+                  ")"
+                ],
+                "imdbid": "tt0116209"
+              },
+              {
+                "title": "Fallen Angels",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0105994"
+              },
+              {
+                "title": "That's Entertainment! III",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"Here's to the Girls\" (1945)",
+                  ", \"It Only Happens When I Dance with You\" (1947)",
+                  ", \"Heigh-Ho, the Gang's All Here\" (1933)",
+                  ", \"Jukebox Dance\" (1940)",
+                  ", \"Coffee Time\" (1945)",
+                  ", \"Drum Crazy\" (1948)",
+                  ", \"The Girl Hunt\" (1952)",
+                  ", \"Swing Trot\" (1948)",
+                  ", \"I Wanna Be a Dancin' Man\" (1951)",
+                  ", \"Stereophonic Sound\" 1955 - uncredited)"
+                ],
+                "imdbid": "tt0111408"
+              },
+              {
+                "title": "Wrestling Ernest Hemingway",
+                "year": " 1993",
+                "remarks": [
+                  "(performer: \"TOP HAT, WHITE TIE AND TAILS\")"
+                ],
+                "imdbid": "tt0108596"
+              },
+              {
+                "title": "Great Performances",
+                "year": " ",
+                "remarks": [
+                  "(TV Series)",
+                  "(music - 1 episode, 1991)",
+                  "(performer - 1 episode, 1991)"
+                ],
+                "imdbid": "tt0159876"
+              },
+              {
+                "title": "Loverboy",
+                "year": " 1989",
+                "remarks": [
+                  "(performer: \"They Can't Take That Away From Me\")"
+                ],
+                "imdbid": "tt0097790"
+              },
+              {
+                "title": "Rain Man",
+                "year": " 1988",
+                "remarks": [
+                  "(performer: \"Bouncin' the Blues\" (1948)",
+                  ", \"They Can't Take That Away from Me\" (1937)",
+                  ", \"Shoes with Wings On\" (1948)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0095953"
+              },
+              {
+                "title": "The Purple Rose of Cairo",
+                "year": " 1985",
+                "remarks": [
+                  "(\"Cheek to Cheek\" (1935)",
+                  ")"
+                ],
+                "imdbid": "tt0089853"
+              },
+              {
+                "title": "That's Dancing!",
+                "year": " 1985",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"I Won't Dance\", \"Night and Day\", \"Pick Yourself Up\", \"I Left My Hat in Haiti\", \"Thinking of You\", \"A Shine on Your Shoes\")"
+                ],
+                "imdbid": "tt0090152"
+              },
+              {
+                "title": "Blame It on Rio",
+                "year": " 1984",
+                "remarks": [
+                  "(performer: \"Flying Down To Rio\")"
+                ],
+                "imdbid": "tt0086973"
+              },
+              {
+                "title": "Pennies from Heaven",
+                "year": " 1981",
+                "remarks": [
+                  "(performer: \"Let's Face the Music and Dance\" (1936)",
+                  ")"
+                ],
+                "imdbid": "tt0082894"
+              },
+              {
+                "title": "The Magic of David Copperfield IV: The Vanishing Airplane",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Special)",
+                  "(performer: \"Nice Work If You Can Get It\")"
+                ],
+                "imdbid": "tt0293373"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to Fred Astaire",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(\"A Foggy Day\", \"A Fine Romance\")",
+                  "/ (performer: \"Putting All my Eggs in One Basket\", \"All Aboard for Alabam\", \"The Carioca\", \"Begin the Beguine\", \"'S Wonderful\", \"Something's Gotta Give\", \"Change Partners and Dance\", \"Cheek to Cheek\", \"Night and Day\", \"Hold That Tiger\", \"Puttin' on the Ritz\", \"Top Hat\", \"The Continental\")"
+                ],
+                "imdbid": "tt0262744"
+              },
+              {
+                "title": "The Man in the Santa Claus Suit",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"Once a Year Night\")"
+                ],
+                "imdbid": "tt0077898"
+              },
+              {
+                "title": "Better Late Than Never",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"You're Never Too Young\")"
+                ],
+                "imdbid": "tt0078855"
+              },
+              {
+                "title": "The Easter Bunny Is Comin' to Town",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"The Easter Bunny Is Comin' To Town Today\", \"All You Have To Do Is Think 'Can Do'\")"
+                ],
+                "imdbid": "tt0075971"
+              },
+              {
+                "title": "Dinah!",
+                "year": " ",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode, 1976)",
+                  "(writer - 1 episode, 1976)"
+                ],
+                "imdbid": "tt0070982"
+              },
+              {
+                "title": "That's Entertainment, Part II",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)",
+                  "(performer: \"That's Entertainment\" (1953)",
+                  ", \"I Wanna Be a Dancin' Man\" (1951)",
+                  ", \"Be a Clown\" (1948)",
+                  ", \"All of You\" (1955)",
+                  ", \"Easter Parade\" (1933)",
+                  ", \"Three Little Words\" (1930)",
+                  ", \"Shubert Alley\" (1976)",
+                  ", \"Triplets\" (1937)",
+                  ", \"Steppin' Out with My Baby\" (1948)",
+                  ", \"Cartoon Sequence\" (1976)",
+                  ", \"A Couple of Swells\" (1948)",
+                  ", \"Bouncin' the Blues\" (1948)",
+                  ", \"Finale\" (1976)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0075323"
+              },
+              {
+                "title": "The Tonight Show Starring Johnny Carson",
+                "year": " ",
+                "remarks": [
+                  "(TV Series)",
+                  "(writer - 2 episodes, 1975 - 1976)",
+                  "(performer - 1 episode, 1976)"
+                ],
+                "imdbid": "tt0055708"
+              },
+              {
+                "title": "That's Entertainment!",
+                "year": " 1974",
+                "remarks": [
+                  "(performer: \"Begin the Beguine\" (1935)",
+                  ", \"The Babbitt and the Bromide\" (1927)",
+                  ", \"They Can't Take That Away from Me\" (1937)",
+                  ", \"Heigh-Ho, the Gang's All Here\" (1933)",
+                  ", \"Let's Go Bavarian\" (1933)",
+                  ", \"I Guess I'll Have to Change My Plan\" (1929)",
+                  ", \"Sunday Jumps\" (1951)",
+                  ", \"Shoes with Wings On\" (1948)",
+                  ", \"You're All the World to Me\" (1950)",
+                  ", \"Dancing in the Dark\" (1931)",
+                  ", \"By Myself\" (1937)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0072272"
+              },
+              {
+                "title": "A Safe Place",
+                "year": " 1971",
+                "remarks": [
+                  "(performer: \"I'm Old-Fashioned\")"
+                ],
+                "imdbid": "tt0067699"
+              },
+              {
+                "title": "Santa Claus Is Comin' to Town",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie)",
+                  "(performer: \"Santa Claus is Comin' to Town\", \"What Better Way to Tell You\" (uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0066327"
+              },
+              {
+                "title": "Finian's Rainbow",
+                "year": " 1968",
+                "remarks": [
+                  "(performer: \"Look To The Rainbow\" (1946)",
+                  ", \"If This Isn't Love\" (1946)",
+                  ", \"When The Idle Poor Become The Idle Rich\" (1946)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0062974"
+              },
+              {
+                "title": "Bob Hope Presents the Chrysler Theatre",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0056742"
+              },
+              {
+                "title": "Paris When It Sizzles",
+                "year": " 1964",
+                "remarks": [
+                  "(performer: \"That Face\")"
+                ],
+                "imdbid": "tt0058453"
+              },
+              {
+                "title": "Hollywood and the Stars",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0056765"
+              },
+              {
+                "title": "The Pleasure of His Company",
+                "year": " 1961",
+                "remarks": [
+                  "(performer: \"Lover\" - uncredited)"
+                ],
+                "imdbid": "tt0055307"
+              },
+              {
+                "title": "An Evening with Fred Astaire",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Special)",
+                  "(performer: \"Isn't This A Lovely Day (To be Caught in the Rain)",
+                  "\")"
+                ],
+                "imdbid": "tt0327699"
+              },
+              {
+                "title": "Silk Stockings",
+                "year": " 1957",
+                "remarks": [
+                  "(performer: \"Too Bad (We Can't Go Back to Moscow)",
+                  "\", \"Paris Loves Lovers\", \"Stereophonic Sound\", \"All of You\", \"Fated to Be Mated\", \"The Ritz Roll and Rock\" - uncredited)"
+                ],
+                "imdbid": "tt0050972"
+              },
+              {
+                "title": "Funny Face",
+                "year": " 1957",
+                "remarks": [
+                  "(performer: \"Overture: Funny Face/'S Wonderful/Think Pink!\", \"Funny Face\", \"Bonjour, Paris!\", \"Let's Kiss and Make Up\", \"He Loves and She Loves\", \"Clap Yo' Hands\", \"'S Wonderful\")"
+                ],
+                "imdbid": "tt0050419"
+              },
+              {
+                "title": "MGM Parade",
+                "year": " 1955-1956",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 2 episodes)"
+                ],
+                "imdbid": "tt0047753"
+              },
+              {
+                "title": "Daddy Long Legs",
+                "year": " 1955",
+                "remarks": [
+                  "(\"History of the Beat\")",
+                  "/ (performer: \"Something's Gotta Give\", \"Dream\", \"Sluefoot\", \"Texas Millionaire\", \"International Playboy\", \"Guardian Angel\", \"Nightmare Ballet (Paris, Hong Kong, Rio)",
+                  "\")"
+                ],
+                "imdbid": "tt0047969"
+              },
+              {
+                "title": "What's My Line?",
+                "year": " 1955",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0042168"
+              },
+              {
+                "title": "The Band Wagon",
+                "year": " 1953",
+                "remarks": [
+                  "(\"That's Entertainment\" (1953)",
+                  ", uncredited)",
+                  "/ (performer: \"By Myself\" (1937)",
+                  ", \"A Shine on Your Shoes\" (1932)",
+                  ", \"That's Entertainment\" (1953)",
+                  ", \"Dancing in the Dark\" (1931)",
+                  ", \"You and the Night and the Music\" (1934)",
+                  ", \"I Love Louisa\" (1931)",
+                  ", \"I Guess I'll Have to Change My Plan\" (1929)",
+                  ", \"Triplets\" (1937)",
+                  ", \"The Girl Hunt\" (1953)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0045537"
+              },
+              {
+                "title": "The Belle of New York",
+                "year": " 1952",
+                "remarks": [
+                  "(performer: \"Who Wants to Kiss the Bridegroom?\", \"Seeing's Believing\", \"Baby Doll\", \"Oops\", \"A Bride's Wedding Day Song (Currier and Ives)",
+                  "\", \"I Wanna Be a Dancin' Man\" - uncredited)"
+                ],
+                "imdbid": "tt0044408"
+              },
+              {
+                "title": "Royal Wedding",
+                "year": " 1951",
+                "remarks": [
+                  "(performer: \"EV'RY NIGHT AT SEVEN\", \"SUNDAY JUMPS\", \"OPEN YOUR EYES\", \"YOU'RE ALL THE WORLD TO ME\", \"I LEFT MY HAT IN HAITI\", \"HOW COULD YOU BELIEVE ME WHEN I SAID I LOVED YOU WHEN YOU KNOW I'VE BEEN A LIAR ALL MY LIFE\" - uncredited)"
+                ],
+                "imdbid": "tt0043983"
+              },
+              {
+                "title": "Let's Dance",
+                "year": " 1950",
+                "remarks": [
+                  "(music: \"Piano Dance\" - uncredited)",
+                  "/ (performer: \"Can't Stop Talking About Him\", \"Piano Dance\", \"Jack and the Beanstalk\", \"Oh Them Dudes\", \"The Hyacinth\", \"Tunnel of Love\" - uncredited)"
+                ],
+                "imdbid": "tt0042674"
+              },
+              {
+                "title": "Three Little Words",
+                "year": " 1950",
+                "remarks": [
+                  "(performer: \"Where Did You Get That Girl?\", \"Mr. and Mrs. Hoofer at Home\" (uncredited)",
+                  ", \"My Sunny Tennessee\", \"So Long! Oo-Long (How Long You Gonna Be Gone?)",
+                  "\", \"Test Dance\" (uncredited)",
+                  ", \"Nevertheless\", \"Thinking of You\", \"Three Little Words\")"
+                ],
+                "imdbid": "tt0043044"
+              },
+              {
+                "title": "The Barkleys of Broadway",
+                "year": " 1949",
+                "remarks": [
+                  "(performer: \"They Can't Take That Away from Me\" (1937)",
+                  ", \"Swing Trot\" (1949)",
+                  "(uncredited)",
+                  ", \"You'd Be Hard to Replace\" (1949)",
+                  "(uncredited)",
+                  ", \"Bouncin' the Blues\" (1949)",
+                  "(uncredited)",
+                  ", \"My One and Only Highland Fling\" (1949)",
+                  "(uncredited)",
+                  ", \"Week-End in the Country\" (1949)",
+                  "(uncredited)",
+                  ", \"Shoes with Wings On\" (1949)",
+                  ", \"Manhattan Downbeat\" (1949)",
+                  "(uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0041158"
+              },
+              {
+                "title": "Easter Parade",
+                "year": " 1948",
+                "remarks": [
+                  "(performer: \"Happy Easter\", \"Drum Crazy\", \"It Only Happens When I Dance with You\", \"Beautiful Faces Need Beautiful Clothes\", \"I Love a Piano\", \"Snooky Ookums\", \"Ragtime Violin\", \"When the Midnight Choo Choo Leaves for Alabam'\", \"Steppin' Out with My Baby\", \"A Couple of Swells\", \"Easter Parade\" - uncredited)"
+                ],
+                "imdbid": "tt0040308"
+              },
+              {
+                "title": "Blue Skies",
+                "year": " 1946",
+                "remarks": [
+                  "(music: \"Heat Wave\")",
+                  "/ (performer: \"A Pretty Girl Is Like a Melody\", \"Puttin' on the Ritz\", \"A Couple of Song and Dance Men\", \"Heat Wave\")"
+                ],
+                "imdbid": "tt0038370"
+              },
+              {
+                "title": "Yolanda and the Thief",
+                "year": " 1945",
+                "remarks": [
+                  "(performer: \"Coffee Time\", \"Yolanda\" - uncredited)"
+                ],
+                "imdbid": "tt0038262"
+              },
+              {
+                "title": "Ziegfeld Follies",
+                "year": " 1945",
+                "remarks": [
+                  "(performer: \"Here's to the Girls\", \"This Heart of Mine\", \"Limehouse Blues\", \"The Babbitt and the Bromide\")"
+                ],
+                "imdbid": "tt0039116"
+              },
+              {
+                "title": "The Sky's the Limit",
+                "year": " 1943/I",
+                "remarks": [
+                  "(performer: \"My Shining Hour\", \"A Lot in Common with You\", \"Cuban Sugar Mill\", \"One for My Baby (and One More for the Road)",
+                  "\" - uncredited)"
+                ],
+                "imdbid": "tt0036363"
+              },
+              {
+                "title": "You Were Never Lovelier",
+                "year": " 1942",
+                "remarks": [
+                  "(performer: \"You Were Never Lovelier\" (1942)",
+                  ", \"Dearly Beloved\" (1942)",
+                  ", \"Audition Dance\", \"Los Hijos de Buda\", \"Bim Bam Bum\", \"Hungarian Rhapsody No.2 in C Sharp Minor\" (1847)",
+                  ", \"Eco\", \"I'm Old Fashioned\" (1942)",
+                  ", \"The Shorty George\" (1942)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0035583"
+              },
+              {
+                "title": "Holiday Inn",
+                "year": " 1942",
+                "remarks": [
+                  "(performer: \"I'll Capture Your Heart Singing\" (1942)",
+                  ", \"You're Easy to Dance With\" (1942)",
+                  ", \"Be Careful, It's My Heart\" (1942)",
+                  ", \"I Can't Tell a Lie\" (1942)",
+                  ", \"Let's Say It with Firecrackers\" (1942)",
+                  ", \"Ending Medley\")"
+                ],
+                "imdbid": "tt0034862"
+              },
+              {
+                "title": "You'll Never Get Rich",
+                "year": " 1941",
+                "remarks": [
+                  "(performer: \"Boogie Barcarolle\", \"Shootin' the Works for Uncle Sam\", \"Since I Kissed My Baby Goodbye\", \"March Milastaire (A-Stairable Rag)",
+                  "\", \"So Near and Yet So Far\" - uncredited)"
+                ],
+                "imdbid": "tt0034409"
+              },
+              {
+                "title": "Second Chorus",
+                "year": " 1940",
+                "remarks": [
+                  "(performer: \"Sugar\" (uncredited)",
+                  ", \"Sweet Sue Just You\" (uncredited)",
+                  ", \"Would You Like to Be the Love of My Life\", \"I'm Yours\" (uncredited)",
+                  ", \"The New Moon Is Shining\" (uncredited)",
+                  ", \"Would You Like to Be the Love of My Life\" (reprise)",
+                  ", \"Poor Mr. Chisholm\", \"Poor Mr. Chisholm\" (reprise)",
+                  ", \"Dig It\")"
+                ],
+                "imdbid": "tt0033029"
+              },
+              {
+                "title": "Broadway Melody of 1940",
+                "year": " 1940",
+                "remarks": [
+                  "(performer: \"Please Don't Monkey with Broadway\" (1939)",
+                  ", \"I've Got My Eye on You\" (1939)",
+                  ", \"Jukebox Dance\" (1939)",
+                  ", \"I Concentrate on You\" (1939)",
+                  ", \"Begin the Beguine\" (1935)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0032284"
+              },
+              {
+                "title": "The Story of Vernon and Irene Castle",
+                "year": " 1939",
+                "remarks": [
+                  "(\"Cecile Waltz\", \"Nights of Gladness\", \"Missouri Waltz\", uncredited)",
+                  "/ (performer: \"Only When You're in My Arms\" (1939)",
+                  ", \"By the Light of the Silvery Moon\" (uncredited)",
+                  ", \"King Chanticleer\" (uncredited)",
+                  ", \"Waiting for the Robert E. Lee\" (uncredited)",
+                  ", \"The Syncopated Walk\" (uncredited)",
+                  ", \"Too Much Mustard (Tres Moutarde)",
+                  "\" (uncredited)",
+                  ", \"Rose Room\" (uncredited)",
+                  ", \"Tres Jolie\" (uncredited)",
+                  ", \"Little Brown Jug\" (uncredited)",
+                  ", \"Dengozo\" (uncredited)",
+                  ", \"You're Here and I'm Here\" (uncredited)",
+                  ", \"Chicago\" (uncredited)",
+                  ", \"Hello, Frisco, Hello\" (uncredited)",
+                  ", \"Way Down Yonder in New Orleans\" (uncredited)",
+                  ", \"Take Me Back to New York Town\" (uncredited)",
+                  ", \"Hello! Hello! Who's Your Lady Friend\" (uncredited)",
+                  ", \"La Marseillaise\" (uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0031983"
+              },
+              {
+                "title": "Carefree",
+                "year": " 1938",
+                "remarks": [
+                  "(performer: \"Since They Turned Loch Lomand into Swing\" (1938)",
+                  ", \"Carefree\" (1938)",
+                  ", \"I Used To Be Color Blind\" (1938)",
+                  ", \"The Yam\" (1938)",
+                  ", \"Change Partners\" (1938)",
+                  ", \"Jingle Bells\" (1857)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0029971"
+              },
+              {
+                "title": "A Damsel in Distress",
+                "year": " 1937",
+                "remarks": [
+                  "(performer: \"I Can't Be Bothered Now\" (1937)",
+                  ", \"The Jolly Tar and the Milkmaid\" (1937)",
+                  ", \"Put Me to the Test\" (I've Just Begun to Live)",
+                  "(1937)",
+                  ", \"Stiff Upper Lip\" (1937)",
+                  ", \"Things Are Looking Up\" (1937)",
+                  ", \"A Foggy Day\" (1937)",
+                  ", \"Nice Work If You Can Get It\" (1937)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0028757"
+              },
+              {
+                "title": "Shall We Dance",
+                "year": " 1937",
+                "remarks": [
+                  "(performer: \"Slap That Bass\" (1937)",
+                  ", \"Let's Call The Whole Thing Off\" (1937)",
+                  ", \"They Can't Take That Away from Me\" (1937)",
+                  ", \"Shall We Dance\" (1937)",
+                  ", \"They All Laughed\" (1937)",
+                  ", \"Beginner's Luck\" (1937)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0029546"
+              },
+              {
+                "title": "Swing Time",
+                "year": " 1936",
+                "remarks": [
+                  "(\"The Way You Look Tonight\" (1936)",
+                  ", \"A Fine Romance\" (1936)",
+                  ", uncredited)",
+                  "/ (performer: \"Pick Yourself Up\" (1936)",
+                  ", \"The Way You Look Tonight\" (1936)",
+                  ", \"Waltz in Swing Time\" (1936)",
+                  ", \"A Fine Romance\" (1936)",
+                  ", \"Bojangles of Harlem\" (1936)",
+                  ", \"Never Gonna Dance\" (1936)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0028333"
+              },
+              {
+                "title": "Follow the Fleet",
+                "year": " 1936",
+                "remarks": [
+                  "(performer: \"We Saw the Sea\" (1936)",
+                  ", \"Let Yourself Go\" (1936)",
+                  ", \"I'd Rather Lead a Band\" (1936)",
+                  ", \"I'm Putting All My Eggs in One Basket\" (1936)",
+                  ", \"Let's Face the Music and Dance\" (1932)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0027630"
+              },
+              {
+                "title": "Top Hat",
+                "year": " 1935",
+                "remarks": [
+                  "(performer: \"No Strings (I'm Fancy Free)",
+                  "\" (1935)",
+                  ", \"Isn't This a Lovely Day (to Be Caught in the Rain)",
+                  "?\" (1935)",
+                  ", \"Top Hat, White Tie and Tails\" (1935)",
+                  ", \"Cheek to Cheek\" (1935)",
+                  ", \"The Piccolino\" (1935)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0027125"
+              },
+              {
+                "title": "Roberta",
+                "year": " 1935",
+                "remarks": [
+                  "(performer: \"Let's Begin\" (1933)",
+                  ", \"I'll Be Hard to Handle\" (1933)",
+                  ", \"I Won't Dance\" (1934)",
+                  ", \"Lovely to Look At\" (1935)",
+                  ", \"Smoke Gets in Your Eyes\" (1933)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0026942"
+              },
+              {
+                "title": "The Gay Divorcee",
+                "year": " 1934",
+                "remarks": [
+                  "(performer: \"Don't Let It Bother You\" (1934)",
+                  ", \"A Needle In a Haystack\" (1934)",
+                  ", \"Night and Day\" (1932)",
+                  ", \"The Continental\" (1934)",
+                  ", \"The Continental\" (1934)",
+                  "(uncredited)",
+                  ")"
+                ],
+                "imdbid": "tt0025164"
+              },
+              {
+                "title": "Flying Down to Rio",
+                "year": " 1933",
+                "remarks": [
+                  "(performer: \"Carioca\" (1933)",
+                  ", \"Orchids in the Moonlight\" (1933)",
+                  ", \"Music Makes Me\" (1933)",
+                  ", \"Flying Down to Rio\" (1933)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0024025"
+              },
+              {
+                "title": "Dancing Lady",
+                "year": " 1933",
+                "remarks": [
+                  "(performer: \"Heigh-Ho, the Gang's All Here\" (1933)",
+                  ", \"Let's Go Bavarian\" (1933)",
+                  ")"
+                ],
+                "imdbid": "tt0023926"
+              }
+            ]
+          },
+          {
+            "section": "Actor",
+            "filmography": [
+              {
+                "title": "Ghost Story",
+                "year": " 1981",
+                "remarks": null,
+                "imdbid": "tt0082449"
+              },
+              {
+                "title": "The Man in the Santa Claus Suit",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0077898"
+              },
+              {
+                "title": "Battlestar Galactica",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0076984"
+              },
+              {
+                "title": "A Family Upside Down",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0077536"
+              },
+              {
+                "title": "The Purple Taxi",
+                "year": " 1977",
+                "remarks": null,
+                "imdbid": "tt0076851"
+              },
+              {
+                "title": "The Easter Bunny Is Comin' to Town",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Movie)",
+                  "S.D. Kluger (narrator)",
+                  "(voice)"
+                ],
+                "imdbid": "tt0075971"
+              },
+              {
+                "title": "The Amazing Dobermans",
+                "year": " 1976",
+                "remarks": null,
+                "imdbid": "tt0074130"
+              },
+              {
+                "title": "The Towering Inferno",
+                "year": " 1974",
+                "remarks": null,
+                "imdbid": "tt0072308"
+              },
+              {
+                "title": "Santa Claus Is Comin' to Town",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie)",
+                  "Narrator - S.D. Kluger (voice)"
+                ],
+                "imdbid": "tt0066327"
+              },
+              {
+                "title": "The Over-the-Hill Gang Rides Again",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0066194"
+              },
+              {
+                "title": "It Takes a Thief",
+                "year": " 1969-1970",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0062572"
+              },
+              {
+                "title": "Midas Run",
+                "year": " 1969",
+                "remarks": null,
+                "imdbid": "tt0064664"
+              },
+              {
+                "title": "Finian's Rainbow",
+                "year": " 1968",
+                "remarks": null,
+                "imdbid": "tt0062974"
+              },
+              {
+                "title": "Dr. Kildare",
+                "year": " 1965",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0054535"
+              },
+              {
+                "title": "Bob Hope Presents the Chrysler Theatre",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0056742"
+              },
+              {
+                "title": "Alcoa Premiere",
+                "year": " 1962",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0054513"
+              },
+              {
+                "title": "The Notorious Landlady",
+                "year": " 1962",
+                "remarks": null,
+                "imdbid": "tt0056289"
+              },
+              {
+                "title": "The Pleasure of His Company",
+                "year": " 1961",
+                "remarks": null,
+                "imdbid": "tt0055307"
+              },
+              {
+                "title": "On the Beach",
+                "year": " 1959",
+                "remarks": null,
+                "imdbid": "tt0053137"
+              },
+              {
+                "title": "General Electric Theater",
+                "year": " 1957-1959",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0045395"
+              },
+              {
+                "title": "Silk Stockings",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0050972"
+              },
+              {
+                "title": "Funny Face",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0050419"
+              },
+              {
+                "title": "Daddy Long Legs",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0047969"
+              },
+              {
+                "title": "The Band Wagon",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0045537"
+              },
+              {
+                "title": "The Belle of New York",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044408"
+              },
+              {
+                "title": "Royal Wedding",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0043983"
+              },
+              {
+                "title": "Let's Dance",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0042674"
+              },
+              {
+                "title": "Three Little Words",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0043044"
+              },
+              {
+                "title": "The Barkleys of Broadway",
+                "year": " 1949",
+                "remarks": null,
+                "imdbid": "tt0041158"
+              },
+              {
+                "title": "Easter Parade",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040308"
+              },
+              {
+                "title": "Blue Skies",
+                "year": " 1946",
+                "remarks": null,
+                "imdbid": "tt0038370"
+              },
+              {
+                "title": "Yolanda and the Thief",
+                "year": " 1945",
+                "remarks": null,
+                "imdbid": "tt0038262"
+              },
+              {
+                "title": "Ziegfeld Follies",
+                "year": " 1945",
+                "remarks": [
+                  "/ Raffles ('This Heart of Mine')",
+                  "/ Tai Long ('Limehouse Blues')"
+                ],
+                "imdbid": "tt0039116"
+              },
+              {
+                "title": "Twenty Years After",
+                "year": " 1944",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt0165521"
+              },
+              {
+                "title": "The Sky's the Limit",
+                "year": " 1943/I",
+                "remarks": null,
+                "imdbid": "tt0036363"
+              },
+              {
+                "title": "You Were Never Lovelier",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0035583"
+              },
+              {
+                "title": "Holiday Inn",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034862"
+              },
+              {
+                "title": "You'll Never Get Rich",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0034409"
+              },
+              {
+                "title": "Second Chorus",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0033029"
+              },
+              {
+                "title": "Broadway Melody of 1940",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0032284"
+              },
+              {
+                "title": "The Story of Vernon and Irene Castle",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031983"
+              },
+              {
+                "title": "Carefree",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0029971"
+              },
+              {
+                "title": "A Damsel in Distress",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0028757"
+              },
+              {
+                "title": "Shall We Dance",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029546"
+              },
+              {
+                "title": "Swing Time",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0028333"
+              },
+              {
+                "title": "Follow the Fleet",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027630"
+              },
+              {
+                "title": "Top Hat",
+                "year": " 1935",
+                "remarks": null,
+                "imdbid": "tt0027125"
+              },
+              {
+                "title": "Roberta",
+                "year": " 1935",
+                "remarks": null,
+                "imdbid": "tt0026942"
+              },
+              {
+                "title": "The Gay Divorcee",
+                "year": " 1934",
+                "remarks": null,
+                "imdbid": "tt0025164"
+              },
+              {
+                "title": "Flying Down to Rio",
+                "year": " 1933",
+                "remarks": null,
+                "imdbid": "tt0024025"
+              },
+              {
+                "title": "Dancing Lady",
+                "year": " 1933",
+                "remarks": null,
+                "imdbid": "tt0023926"
+              }
+            ]
+          },
+          {
+            "section": "Miscellaneous Crew",
+            "filmography": [
+              {
+                "title": "The Pleasure of His Company",
+                "year": " 1961",
+                "remarks": [
+                  "(choreographer)"
+                ],
+                "imdbid": "tt0055307"
+              },
+              {
+                "title": "Funny Face",
+                "year": " 1957",
+                "remarks": [
+                  "(choreographer)"
+                ],
+                "imdbid": "tt0050419"
+              },
+              {
+                "title": "Daddy Long Legs",
+                "year": " 1955",
+                "remarks": [
+                  "(dances staged by)"
+                ],
+                "imdbid": "tt0047969"
+              },
+              {
+                "title": "Three Little Words",
+                "year": " 1950",
+                "remarks": [
+                  "(choreographer - uncredited)"
+                ],
+                "imdbid": "tt0043044"
+              },
+              {
+                "title": "Easter Parade",
+                "year": " 1948",
+                "remarks": [
+                  "(choreographer - uncredited)"
+                ],
+                "imdbid": "tt0040308"
+              },
+              {
+                "title": "The Sky's the Limit",
+                "year": " 1943/I",
+                "remarks": [
+                  "(dances created and staged by)"
+                ],
+                "imdbid": "tt0036363"
+              },
+              {
+                "title": "You Were Never Lovelier",
+                "year": " 1942",
+                "remarks": [
+                  "(choreographer - uncredited)"
+                ],
+                "imdbid": "tt0035583"
+              },
+              {
+                "title": "A Damsel in Distress",
+                "year": " 1937",
+                "remarks": [
+                  "(choreographer - uncredited)"
+                ],
+                "imdbid": "tt0028757"
+              },
+              {
+                "title": "Top Hat",
+                "year": " 1935",
+                "remarks": [
+                  "(choreographer - uncredited)"
+                ],
+                "imdbid": "tt0027125"
+              },
+              {
+                "title": "Roberta",
+                "year": " 1935",
+                "remarks": [
+                  "(dances arranged by)"
+                ],
+                "imdbid": "tt0026942"
+              }
+            ]
+          },
+          {
+            "section": "Producer",
+            "filmography": [
+              {
+                "title": "The Fred Astaire Show",
+                "year": " 1968",
+                "remarks": [
+                  "(TV Movie)",
+                  "(executive producer)",
+                  "/ (producer)"
+                ],
+                "imdbid": "tt0857216"
+              },
+              {
+                "title": "Astaire Time",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Movie)",
+                  "(producer)"
+                ],
+                "imdbid": "tt0857198"
+              },
+              {
+                "title": "Another Evening with Fred Astaire",
+                "year": " 1959",
+                "remarks": [
+                  "(TV Special)",
+                  "(executive producer)"
+                ],
+                "imdbid": "tt0326732"
+              },
+              {
+                "title": "An Evening with Fred Astaire",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Special)",
+                  "(executive producer)"
+                ],
+                "imdbid": "tt0327699"
+              },
+              {
+                "title": "Second Chorus",
+                "year": " 1940",
+                "remarks": [
+                  "(associate producer - uncredited)"
+                ],
+                "imdbid": "tt0033029"
+              }
+            ]
+          },
+          {
+            "section": "Music department",
+            "filmography": [
+              {
+                "title": "Blue Skies",
+                "year": " 1946",
+                "remarks": [
+                  "(composer: additional music - uncredited)"
+                ],
+                "imdbid": "tt0038370"
+              }
+            ]
+          },
+          {
+            "section": "Thanks",
+            "filmography": [
+              {
+                "title": "The New Bike",
+                "year": " 2009",
+                "remarks": [
+                  "(Short)",
+                  "(acknowledgment)"
+                ],
+                "imdbid": "tt1774622"
+              },
+              {
+                "title": "The Purple Rose of Cairo",
+                "year": " 1985",
+                "remarks": [
+                  "(the producers also thank)"
+                ],
+                "imdbid": "tt0089853"
+              }
+            ]
+          },
+          {
+            "section": "Self",
+            "filmography": [
+              {
+                "title": "The Tonight Show Starring Johnny Carson 25th Anniversary Special",
+                "year": " 1987",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1146442"
+              },
+              {
+                "title": "Hollywood the Golden Years: The RKO Story",
+                "year": " 1987",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0133010"
+              },
+              {
+                "title": "All-Star Party for 'Dutch' Reagan",
+                "year": " 1985",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt1193453"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to Gene Kelly",
+                "year": " 1985",
+                "remarks": [
+                  "(TV Special documentary)"
+                ],
+                "imdbid": "tt0268602"
+              },
+              {
+                "title": "Hollywood '84",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt3028002"
+              },
+              {
+                "title": "George Stevens: A Filmmaker's Journey",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0087322"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to Lillian Gish",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Special documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0268610"
+              },
+              {
+                "title": "La nuit des Césars",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0341901"
+              },
+              {
+                "title": "The 1982 Annual Vision Awards",
+                "year": " 1982",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2387583"
+              },
+              {
+                "title": "Today",
+                "year": " 1976-1982",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0044298"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to Fred Astaire",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0262744"
+              },
+              {
+                "title": "Fred Astaire: Change Partners and Dance",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0080759"
+              },
+              {
+                "title": "Fred Astaire: Puttin' on His Top Hat",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0080760"
+              },
+              {
+                "title": "The Tonight Show Starring Johnny Carson",
+                "year": " 1975-1979",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0055708"
+              },
+              {
+                "title": "The Magic of Dance",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0133943"
+              },
+              {
+                "title": "The 36th Annual Golden Globes Awards",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2391875"
+              },
+              {
+                "title": "The Kennedy Center Honors: A Celebration of the Performing Arts",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0382778"
+              },
+              {
+                "title": "Dinah!",
+                "year": " 1975-1978",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0070982"
+              },
+              {
+                "title": "Hollywood's Diamond Jubilee",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt3007134"
+              },
+              {
+                "title": "The 30th Annual Primetime Emmy Awards",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0341210"
+              },
+              {
+                "title": "Bing Crosby: His Life and Legend",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0334948"
+              },
+              {
+                "title": "The 50th Annual Academy Awards",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0271340"
+              },
+              {
+                "title": "The Mike Douglas Show",
+                "year": " 1976-1978",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0170980"
+              },
+              {
+                "title": "The Late Late Show",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0264270"
+              },
+              {
+                "title": "That's Entertainment, Part II",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0075323"
+              },
+              {
+                "title": "Parkinson",
+                "year": " 1976",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0168358"
+              },
+              {
+                "title": "Friars Club Tribute to Gene Kelly",
+                "year": " 1976",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt2387473"
+              },
+              {
+                "title": "The Lion Roars Again",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0360744"
+              },
+              {
+                "title": "Bing Crosby and Fred Astaire: A Couple of Song and Dance Men",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Special documentary)"
+                ],
+                "imdbid": "tt0321452"
+              },
+              {
+                "title": "The 29th Annual Tony Awards",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt1047435"
+              },
+              {
+                "title": "At Long Last Cole",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0315231"
+              },
+              {
+                "title": "The 47th Annual Academy Awards",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0353133"
+              },
+              {
+                "title": "The Merv Griffin Show",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0055691"
+              },
+              {
+                "title": "Just One More Time",
+                "year": " 1974",
+                "remarks": [
+                  "(Short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0328003"
+              },
+              {
+                "title": "Fred Astaire Salutes the Fox Musicals",
+                "year": " 1974",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0315605"
+              },
+              {
+                "title": "ABC Late Night",
+                "year": " 1974",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0176356"
+              },
+              {
+                "title": "The 1974 Annual Entertainment Hall of Fame Awards",
+                "year": " 1974",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2387577"
+              },
+              {
+                "title": "That's Entertainment!",
+                "year": " 1974",
+                "remarks": null,
+                "imdbid": "tt0072272"
+              },
+              {
+                "title": "Magnavox Presents Frank Sinatra",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Special documentary)",
+                  "Himself - Audience Member (uncredited)"
+                ],
+                "imdbid": "tt0365247"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to John Ford",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Special documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0268607"
+              },
+              {
+                "title": "Imagine",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0172586"
+              },
+              {
+                "title": "Make Mine Red, White and Blue",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0301589"
+              },
+              {
+                "title": "'S Wonderful, 'S Marvelous, 'S Gershwin",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0329952"
+              },
+              {
+                "title": "The Dick Cavett Show",
+                "year": " 1970-1971",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0063894"
+              },
+              {
+                "title": "The 42nd Annual Academy Awards",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0276746"
+              },
+              {
+                "title": "The Joey Bishop Show",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0061268"
+              },
+              {
+                "title": "The Fred Astaire Show",
+                "year": " 1968",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0857216"
+              },
+              {
+                "title": "The World Premiere of 'Finian's Rainbow'",
+                "year": " 1968",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt1047547"
+              },
+              {
+                "title": "The 39th Annual Academy Awards",
+                "year": " 1967",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0353124"
+              },
+              {
+                "title": "The Hollywood Palace",
+                "year": " 1965-1966",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0057755"
+              },
+              {
+                "title": "The 37th Annual Academy Awards",
+                "year": " 1965",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0350487"
+              },
+              {
+                "title": "Alcoa Premiere",
+                "year": " 1961-1963",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0054513"
+              },
+              {
+                "title": "Here's Hollywood",
+                "year": " 1961-1962",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0353065"
+              },
+              {
+                "title": "The 14th Annual Primetime Emmy Awards",
+                "year": " 1962",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2378489"
+              },
+              {
+                "title": "The 34th Annual Academy Awards",
+                "year": " 1962",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0348518"
+              },
+              {
+                "title": "Astaire Time",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0857198"
+              },
+              {
+                "title": "The 12th Annual Primetime Emmy Awards",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2510524"
+              },
+              {
+                "title": "The Steve Allen Plymouth Show",
+                "year": " 1959-1960",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0048899"
+              },
+              {
+                "title": "Another Evening with Fred Astaire",
+                "year": " 1959",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0326732"
+              },
+              {
+                "title": "The Ed Sullivan Show",
+                "year": " 1954-1959",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0040053"
+              },
+              {
+                "title": "The Jack Paar Tonight Show",
+                "year": " 1959",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0050030"
+              },
+              {
+                "title": "The 11th Annual Primetime Emmy Awards",
+                "year": " 1959",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2093247"
+              },
+              {
+                "title": "The Garry Moore Show",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0051276"
+              },
+              {
+                "title": "An Evening with Fred Astaire",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0327699"
+              },
+              {
+                "title": "What's My Line?",
+                "year": " 1955-1958",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0042168"
+              },
+              {
+                "title": "The Oscar Levant Show",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0278226"
+              },
+              {
+                "title": "The 30th Annual Academy Awards",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0343334"
+              },
+              {
+                "title": "Home",
+                "year": " 1957",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0159877"
+              },
+              {
+                "title": "Person to Person",
+                "year": " 1957",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0045431"
+              },
+              {
+                "title": "Cinépanorama",
+                "year": " 1956",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0341719"
+              },
+              {
+                "title": "I've Got a Secret",
+                "year": " 1955",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0044270"
+              }
+            ]
+          },
+          {
+            "section": "Archive footage",
+            "filmography": [
+              {
+                "title": "The Emperor of Ice Cream",
+                "year": " 2015",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt5589270"
+              },
+              {
+                "title": "Michael Jackson's Journey from Motown to Off the Wall",
+                "year": " 2016",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt5275844"
+              },
+              {
+                "title": "American Masters",
+                "year": " 1987-2014",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0364151"
+              },
+              {
+                "title": "Britain's Best Loved Double Acts",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt3666894"
+              },
+              {
+                "title": "A History of Dance on Screen",
+                "year": " 2014",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt5142294"
+              },
+              {
+                "title": "Welcome to the Basement",
+                "year": " 2013-2014",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt4416750"
+              },
+              {
+                "title": "Talking Pictures",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt4666458"
+              },
+              {
+                "title": "Secrets of the Manor House",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2738094"
+              },
+              {
+                "title": "Wogan on Wodehouse",
+                "year": " 2011",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt2053480"
+              },
+              {
+                "title": "Darcey Bussell Dances Hollywood",
+                "year": " 2011",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt3632842"
+              },
+              {
+                "title": "Michael Feinstein's American Songbook",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt1747305"
+              },
+              {
+                "title": "Never Sleep Again: The Elm Street Legacy",
+                "year": " 2010",
+                "remarks": [
+                  "(Video documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt1510985"
+              },
+              {
+                "title": "The 82nd Annual Academy Awards",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt1541775"
+              },
+              {
+                "title": "The Legendary Bing Crosby",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt2217973"
+              },
+              {
+                "title": "Johnny Mercer: The Dream's on Me",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1543216"
+              },
+              {
+                "title": "1939: Hollywood's Greatest Year",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1454902"
+              },
+              {
+                "title": "Hollywood Singing & Dancing: A Musical History - 1970's",
+                "year": " 2009",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt1487921"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical History - The 1930s: Dancing Away the Great Depression",
+                "year": " 2009",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt1359579"
+              },
+              {
+                "title": "Waiting for Hockney",
+                "year": " 2008",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0858494"
+              },
+              {
+                "title": "Un jour, un destin",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt3514536"
+              },
+              {
+                "title": "Hollywood Singing and Dancing: A Musical Treasure",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1147738"
+              },
+              {
+                "title": "Royal Wedding: June, Judy and Jane",
+                "year": " 2007",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt1159965"
+              },
+              {
+                "title": "Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence",
+                "year": " 2007",
+                "remarks": [
+                  "(segment \"Cinéma de Boulevard\")"
+                ],
+                "imdbid": "tt0973844"
+              },
+              {
+                "title": "Emile Norman: By His Own Design",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1261835"
+              },
+              {
+                "title": "Michael Parkinson's Greatest Entertainers",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0943972"
+              },
+              {
+                "title": "Astaire and Rogers: Partners in Rhythm",
+                "year": " 2006",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0918653"
+              },
+              {
+                "title": "Great Performances",
+                "year": " 1991-2005",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0159876"
+              },
+              {
+                "title": "Ban the Sadist Videos!",
+                "year": " 2005",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0480344"
+              },
+              {
+                "title": "Follow the Fleet: The Origins of Those Dancing Feet",
+                "year": " 2005",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt0816501"
+              },
+              {
+                "title": "Astaire and Rogers Sing George and Ira Gershwin",
+                "year": " 2005",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt4184834"
+              },
+              {
+                "title": "Broadway: The American Musical",
+                "year": " 2004",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0423623"
+              },
+              {
+                "title": "Los nuevos y clásicos bloopers",
+                "year": " 2004",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt5607020"
+              },
+              {
+                "title": "The 100 Greatest Musicals",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0395313"
+              },
+              {
+                "title": "Biography",
+                "year": " 2001-2003",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0092322"
+              },
+              {
+                "title": "Complicated Women",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0365076"
+              },
+              {
+                "title": "Nelson Freire",
+                "year": " 2003",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0360833"
+              },
+              {
+                "title": "Begin the Beguine",
+                "year": " 2003",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0363465"
+              },
+              {
+                "title": "Satin and Silk",
+                "year": " 2003",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt0363979"
+              },
+              {
+                "title": "Bourne to Dance",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0303790"
+              },
+              {
+                "title": "Petula Clark: This Is My Song",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0930878"
+              },
+              {
+                "title": "Omnibus",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0200358"
+              },
+              {
+                "title": "72nd Annual Academy Awards Pre-Show",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Special)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0268876"
+              },
+              {
+                "title": "ABC 2000: The Millennium",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0403832"
+              },
+              {
+                "title": "The Green Mile",
+                "year": " 1999",
+                "remarks": [
+                  "actor in 'Top Hat' (uncredited)"
+                ],
+                "imdbid": "tt0120689"
+              },
+              {
+                "title": "The Lady with the Torch",
+                "year": " 1999",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0166682"
+              },
+              {
+                "title": "A Bing Crosby Christmas",
+                "year": " 1998",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0259894"
+              },
+              {
+                "title": "The Churchills",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0169423"
+              },
+              {
+                "title": "Legends of Entertainment Video",
+                "year": " 1995",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0276277"
+              },
+              {
+                "title": "The Fantasy Worlds of Irwin Allen",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0160266"
+              },
+              {
+                "title": "The First 100 Years: A Celebration of American Movies",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0113068"
+              },
+              {
+                "title": "A Personal Journey with Martin Scorsese Through American Movies",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0112120"
+              },
+              {
+                "title": "100 Years at the Movies",
+                "year": " 1994",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt0179624"
+              },
+              {
+                "title": "That's Entertainment! III",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary)",
+                  "Performer in Clips from 'Easter Parade' / 'The Band Wagon' and Others (uncredited)"
+                ],
+                "imdbid": "tt0111408"
+              },
+              {
+                "title": "The Tonight Show Starring Johnny Carson",
+                "year": " 1992",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0055708"
+              },
+              {
+                "title": "Memories of 1970-1991",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt5617594"
+              },
+              {
+                "title": "Hollywood on Parade",
+                "year": " 1990",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0322578"
+              },
+              {
+                "title": "AFI Life Achievement Award: A Tribute to Jack Lemmon",
+                "year": " 1988",
+                "remarks": [
+                  "(TV Special documentary)"
+                ],
+                "imdbid": "tt0268605"
+              },
+              {
+                "title": "South of Reno",
+                "year": " 1988",
+                "remarks": [
+                  "Clip from 'Second Chorus' (uncredited)"
+                ],
+                "imdbid": "tt0096147"
+              },
+              {
+                "title": "Le cinéma dans les yeux",
+                "year": " 1987",
+                "remarks": null,
+                "imdbid": "tt0208054"
+              },
+              {
+                "title": "ABC News Nightline",
+                "year": " 1987",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0154053"
+              },
+              {
+                "title": "Cocoon",
+                "year": " 1985",
+                "remarks": [
+                  "Himself, film clip from 'The Gay Divorcee' (uncredited)"
+                ],
+                "imdbid": "tt0088933"
+              },
+              {
+                "title": "The Purple Rose of Cairo",
+                "year": " 1985",
+                "remarks": [
+                  "Jerry Travers (uncredited)"
+                ],
+                "imdbid": "tt0089853"
+              },
+              {
+                "title": "That's Dancing!",
+                "year": " 1985",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0090152"
+              },
+              {
+                "title": "Going Hollywood: The '30s",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0322431"
+              },
+              {
+                "title": "Showbiz Goes to War",
+                "year": " 1982",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1570368"
+              },
+              {
+                "title": "Red Skelton: A Comedy Scrapbook",
+                "year": " 1981",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt4218122"
+              },
+              {
+                "title": "Bob Hope's Overseas Christmas Tours: Around the World with the Troops - 1941-1972",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0331439"
+              },
+              {
+                "title": "The Mike Douglas Show",
+                "year": " 1976",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0170980"
+              },
+              {
+                "title": "Hooray for Hollywood",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0073122"
+              },
+              {
+                "title": "Brother Can You Spare a Dime",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0072742"
+              },
+              {
+                "title": "The All Talking, All Singing, All Dancing Show",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt5357702"
+              },
+              {
+                "title": "Hollywood: The Dream Factory",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0408854"
+              },
+              {
+                "title": "The Dick Cavett Show",
+                "year": " 1971",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0063894"
+              },
+              {
+                "title": "Our American Musical Heritage",
+                "year": " 1971",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1709195"
+              },
+              {
+                "title": "The Hollywood Palace",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0057755"
+              },
+              {
+                "title": "Hollywood: The Selznick Years",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Actor 'Dancing Lady' (uncredited)"
+                ],
+                "imdbid": "tt0193225"
+              },
+              {
+                "title": "Hollywood and the Stars",
+                "year": " 1963-1964",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0056765"
+              },
+              {
+                "title": "The Ed Sullivan Show",
+                "year": " 1955-1963",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0040053"
+              },
+              {
+                "title": "Hollywood: The Great Stars",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Actor 'You'll Never Get Rich' (uncredited)"
+                ],
+                "imdbid": "tt0853119"
+              },
+              {
+                "title": "Alan Melville Takes You from A-Z",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0239153"
+              },
+              {
+                "title": "MGM Parade",
+                "year": " 1955-1956",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0047753"
+              },
+              {
+                "title": "The Metro-Goldwyn-Mayer Story",
+                "year": " 1951",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0151547"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.6",
+    "serverTime": "2017/01/15 14:35:48"
+  }
+}

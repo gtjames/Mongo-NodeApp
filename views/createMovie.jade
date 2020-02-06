@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('../images/MovieBackground1.png') left top / contain repeat fixed ";
+
+  form(action="/movies/created" method="POST")
+    table.white
+      tr
+        td.label Movie ID:
+        td
+          input(type="text"   placeholder="Movie ID" name="_id")
+      tr
+        td.label Movie Title:
+        td: input(type="text" placeholder="Title"    name="title")
+      tr
+        td.label Year Released:
+        td: input(type="text" placeholder="Year"     name="year")
+      tr
+        td.label Plot:
+        td: textarea(rows="5"             cols="80"  name="simplePlot")
+      tr
+        td: button(type="submit") Create Movie
+      tr
+        td: a(href='/movies') Movies List

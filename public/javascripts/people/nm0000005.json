@@ -1,0 +1,1947 @@
+{
+  "data": {
+    "names": [
+      {
+        "dateOfBirth": "14 July 1918",
+        "placeOfBirth": " Uppsala, Uppsala län, Sweden",
+        "birthName": "Ernst Ingmar Bergman",
+        "height": "5' 10½\" (1.79 m)",
+        "bio": "Ernst Ingmar Bergman was born July fourteenth, 1918, the son of a priest. The film and T.V. series, The Best Intentions (1992) is biographical and shows the early marriage of his parents. The film 'Söndagsbarn' depicts a bicycle journey with his father. In the miniseries Private Confessions (1996) is the trilogy closed. Here, as in 'Den Goda Viljan' Pernilla August play his mother. Note that all three movies are not always full true biographical stories. He began his career early with a puppet theatre which he, his sister and their friends played with. But he was the manager. Strictly professional he begun writing in 1941. He had written a play called 'Kaspers död' (A.K.A. 'Kaspers Death') which was produced the same year. It became his entrance into the movie business as Stina Bergman (not a close relative), from the company S.F. (Swedish Filmindustry), had seen the play and thought that there must be some dramatic talent in young Ingmar. His first job was to save other more famous writers' poor scripts. Under one of that script-saving works he remembered that he had written a novel about his last year as a student. He took the novel, did the save-poor-script job first, then wrote a screenplay on his own novel. When he went back to S.F., he delivered two scripts rather than one. The script was Torment (1944) and was the fist Bergman screenplay that was put into film (by Alf Sjöberg). It was also in that movie Bergman did his first professional film-director job. Because Alf Sjöberg was busy, Bergman got the order to shoot the last sequence of the film. Ingmar Bergman is the father of Daniel Bergman, director, and Mats Bergman, actor at the Swedish Royal Dramatic Theater. Ingmar Bergman was also C.E.O. of the same theatre between 1963-1966, where he hired almost every professional actor in Sweden. In 1976 he had a famous tax problem. Bergman had trusted other people to advise him on his finances, but it turned out to be very bad advice. Bergman had to leave the country immediately, and so went to Germany. A few years later he returned to Sweden and made his last theatrical film Fanny and Alexander (1982) (A.K.A. 'Fanny and Alexander'). In later life he retired from movie directing, but still wrote scripts for film and T.V. and directed plays at the Swedish Royal Dramatic Theatre for many years. He died peacefully in his sleep on July 30, 2007.",
+        "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MjQwMzY0N15BMl5BanBnXkFtZTcwNTI1NTM1MQ@@._V1.jpg",
+        "urlIMDB": "http://www.imdb.com/name/nm0000005",
+        "name": "Ingmar Bergman",
+        "idIMDB": "nm0000005",
+        "filmographies": [
+          {
+            "section": "Writer",
+            "filmography": [
+              {
+                "title": "Sixty-Four Minutes with Rebecka",
+                "year": " 2018",
+                "remarks": [
+                  "(original screenplay)"
+                ],
+                "imdbid": "tt6193564"
+              },
+              {
+                "title": "A Spiritual Matter",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Movie)",
+                  "(play: En Själslig Angelägenhet)"
+                ],
+                "imdbid": "tt4287014"
+              },
+              {
+                "title": "Skines apo ena gamo",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie)",
+                  "(original scenario)"
+                ],
+                "imdbid": "tt4526522"
+              },
+              {
+                "title": "Bergmanova sonata",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Movie)",
+                  "(play)"
+                ],
+                "imdbid": "tt0452151"
+              },
+              {
+                "title": "Saraband",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0299478"
+              },
+              {
+                "title": "Persona",
+                "year": " 2002",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt0374952"
+              },
+              {
+                "title": "Infidèle",
+                "year": " 2000",
+                "remarks": null,
+                "imdbid": "tt0157122"
+              },
+              {
+                "title": "En présence d'un clown",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0119496"
+              },
+              {
+                "title": "Private Confessions",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0115164"
+              },
+              {
+                "title": "Harald & Harald",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Short)"
+                ],
+                "imdbid": "tt2516292"
+              },
+              {
+                "title": "The Last Gasp",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie)",
+                  "(play)",
+                  "/ (screenplay)"
+                ],
+                "imdbid": "tt0111204"
+              },
+              {
+                "title": "Sunday's Children",
+                "year": " 1992",
+                "remarks": null,
+                "imdbid": "tt0105511"
+              },
+              {
+                "title": "The Best Intentions",
+                "year": " 1992",
+                "remarks": null,
+                "imdbid": "tt0104350"
+              },
+              {
+                "title": "The Best Intentions",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(4 episodes)"
+                ],
+                "imdbid": "tt0101108"
+              },
+              {
+                "title": "Live from Lincoln Center",
+                "year": " 1990",
+                "remarks": [
+                  "(TV Series)",
+                  "(by: was suggested by a film - 1 episode)"
+                ],
+                "imdbid": "tt0165042"
+              },
+              {
+                "title": "The Making of Fanny and Alexander",
+                "year": " 1986",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0090955"
+              },
+              {
+                "title": "After the Rehearsal",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0087193"
+              },
+              {
+                "title": "Karin's Face",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0091327"
+              },
+              {
+                "title": "Fanny and Alexander",
+                "year": " 1982",
+                "remarks": [
+                  "(written by)"
+                ],
+                "imdbid": "tt0083922"
+              },
+              {
+                "title": "From the Life of the Marionettes",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0080397"
+              },
+              {
+                "title": "Autumn Sonata",
+                "year": " 1978",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0077711"
+              },
+              {
+                "title": "The Serpent's Egg",
+                "year": " 1977",
+                "remarks": null,
+                "imdbid": "tt0076686"
+              },
+              {
+                "title": "A Little Night Music",
+                "year": " 1977",
+                "remarks": [
+                  "(suggested by: a film by \"Sommarnattens leende\")"
+                ],
+                "imdbid": "tt0076319"
+              },
+              {
+                "title": "De fördömda kvinnornas dans",
+                "year": " 1976",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt2265239"
+              },
+              {
+                "title": "Face to Face",
+                "year": " 1976",
+                "remarks": null,
+                "imdbid": "tt0074147"
+              },
+              {
+                "title": "The Magic Flute",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Movie)",
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0073822"
+              },
+              {
+                "title": "Scenes from a Marriage",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(6 episodes)"
+                ],
+                "imdbid": "tt0070644"
+              },
+              {
+                "title": "The Lie",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0336749"
+              },
+              {
+                "title": "Cries & Whispers",
+                "year": " 1972",
+                "remarks": null,
+                "imdbid": "tt0069467"
+              },
+              {
+                "title": "The Touch",
+                "year": " 1971",
+                "remarks": [
+                  "(screenplay - uncredited)"
+                ],
+                "imdbid": "tt0066826"
+              },
+              {
+                "title": "Play for Today",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Series)",
+                  "(writer - 1 episode)"
+                ],
+                "imdbid": "tt0165592"
+              },
+              {
+                "title": "The Lie",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0066292"
+              },
+              {
+                "title": "Sliki na drvo",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie)",
+                  "(play)"
+                ],
+                "imdbid": "tt1431319"
+              },
+              {
+                "title": "The Passion of Anna",
+                "year": " 1969",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0064793"
+              },
+              {
+                "title": "Le rite",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0064897"
+              },
+              {
+                "title": "Shame",
+                "year": " 1968",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0063611"
+              },
+              {
+                "title": "Hour of the Wolf",
+                "year": " 1968",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0063759"
+              },
+              {
+                "title": "Stimulantia",
+                "year": " 1967",
+                "remarks": [
+                  "(segment \"Daniel\")"
+                ],
+                "imdbid": "tt0062306"
+              },
+              {
+                "title": "Persona",
+                "year": " 1966",
+                "remarks": [
+                  "(story and screenplay)"
+                ],
+                "imdbid": "tt0060827"
+              },
+              {
+                "title": "All These Women",
+                "year": " 1964",
+                "remarks": [
+                  "(written by)"
+                ],
+                "imdbid": "tt0058124"
+              },
+              {
+                "title": "The Silence",
+                "year": " 1963",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0057611"
+              },
+              {
+                "title": "Painting-On-Wood",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0181087"
+              },
+              {
+                "title": "Les communiants",
+                "year": " 1963",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0057358"
+              },
+              {
+                "title": "Staden",
+                "year": " 1962",
+                "remarks": [
+                  "(TV Movie)",
+                  "(play)"
+                ],
+                "imdbid": "tt1459969"
+              },
+              {
+                "title": "The Pleasure Garden",
+                "year": " 1961",
+                "remarks": [
+                  "(written by - as Buntel Ericsson)"
+                ],
+                "imdbid": "tt0055103"
+              },
+              {
+                "title": "Through a Glass Darkly",
+                "year": " 1961",
+                "remarks": null,
+                "imdbid": "tt0055499"
+              },
+              {
+                "title": "The Devil's Eye",
+                "year": " 1960",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0053772"
+              },
+              {
+                "title": "The Magician",
+                "year": " 1958",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0051365"
+              },
+              {
+                "title": "Brink of Life",
+                "year": " 1958",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0052017"
+              },
+              {
+                "title": "Wild Strawberries",
+                "year": " 1957",
+                "remarks": [
+                  "(written by)"
+                ],
+                "imdbid": "tt0050986"
+              },
+              {
+                "title": "Night Light",
+                "year": " 1957",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0050756"
+              },
+              {
+                "title": "The Seventh Seal",
+                "year": " 1957",
+                "remarks": [
+                  "(play \"Trämålning\")",
+                  "/ (screenplay)"
+                ],
+                "imdbid": "tt0050976"
+              },
+              {
+                "title": "Last Pair Out",
+                "year": " 1956",
+                "remarks": null,
+                "imdbid": "tt0049763"
+              },
+              {
+                "title": "Smiles of a Summer Night",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048641"
+              },
+              {
+                "title": "Dreams",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048272"
+              },
+              {
+                "title": "A Lesson in Love",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0047167"
+              },
+              {
+                "title": "Sawdust and Tinsel",
+                "year": " 1953",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0045848"
+              },
+              {
+                "title": "Summer with Monika",
+                "year": " 1953",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0046345"
+              },
+              {
+                "title": "Waiting Women",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044811"
+              },
+              {
+                "title": "Divorced",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0043566"
+              },
+              {
+                "title": "Summer Interlude",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0044060"
+              },
+              {
+                "title": "While the City Sleeps",
+                "year": " 1950",
+                "remarks": [
+                  "(synopsis)"
+                ],
+                "imdbid": "tt0042723"
+              },
+              {
+                "title": "Vers la joie",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0043048"
+              },
+              {
+                "title": "Prison",
+                "year": " 1949",
+                "remarks": [
+                  "(writer)"
+                ],
+                "imdbid": "tt0041399"
+              },
+              {
+                "title": "Eva",
+                "year": " 1948",
+                "remarks": [
+                  "(screenplay)",
+                  "/ (short story \"Trumpetaren och Vår Herre\")"
+                ],
+                "imdbid": "tt0040330"
+              },
+              {
+                "title": "Port of Call",
+                "year": " 1948",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0040418"
+              },
+              {
+                "title": "A Ship Bound for India",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039834"
+              },
+              {
+                "title": "Woman Without a Face",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039543"
+              },
+              {
+                "title": "It Rains on Our Love",
+                "year": " 1946",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0038468"
+              },
+              {
+                "title": "Crisis",
+                "year": " 1946",
+                "remarks": [
+                  "(screenplay)"
+                ],
+                "imdbid": "tt0038675"
+              },
+              {
+                "title": "Torment",
+                "year": " 1944",
+                "remarks": null,
+                "imdbid": "tt0036914"
+              }
+            ]
+          },
+          {
+            "section": "Director",
+            "filmography": [
+              {
+                "title": "On Set Home Movies",
+                "year": " 2008",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt2706558"
+              },
+              {
+                "title": "Spöksonaten",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Movie)",
+                  "(stage director)"
+                ],
+                "imdbid": "tt2526036"
+              },
+              {
+                "title": "Saraband",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0299478"
+              },
+              {
+                "title": "The Image Makers",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0303764"
+              },
+              {
+                "title": "En présence d'un clown",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0119496"
+              },
+              {
+                "title": "Harald & Harald",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Short)"
+                ],
+                "imdbid": "tt2516292"
+              },
+              {
+                "title": "The Last Gasp",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0111204"
+              },
+              {
+                "title": "Backanterna",
+                "year": " 1993",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0313247"
+              },
+              {
+                "title": "La marquise de Sade",
+                "year": " 1992",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0104819"
+              },
+              {
+                "title": "The Making of Fanny and Alexander",
+                "year": " 1986",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0090955"
+              },
+              {
+                "title": "The Blessed Ones",
+                "year": " 1986",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0090222"
+              },
+              {
+                "title": "Dom Juan",
+                "year": " 1985",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1194576"
+              },
+              {
+                "title": "After the Rehearsal",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0087193"
+              },
+              {
+                "title": "Karin's Face",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0091327"
+              },
+              {
+                "title": "Hustruskolan",
+                "year": " 1983",
+                "remarks": [
+                  "(TV Movie)",
+                  "(tv director)"
+                ],
+                "imdbid": "tt0130010"
+              },
+              {
+                "title": "Fanny and Alexander",
+                "year": " 1982",
+                "remarks": null,
+                "imdbid": "tt0083922"
+              },
+              {
+                "title": "From the Life of the Marionettes",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0080397"
+              },
+              {
+                "title": "Mon île, Faro",
+                "year": " 1979",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0079187"
+              },
+              {
+                "title": "Autumn Sonata",
+                "year": " 1978",
+                "remarks": null,
+                "imdbid": "tt0077711"
+              },
+              {
+                "title": "The Serpent's Egg",
+                "year": " 1977",
+                "remarks": null,
+                "imdbid": "tt0076686"
+              },
+              {
+                "title": "De fördömda kvinnornas dans",
+                "year": " 1976",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt2265239"
+              },
+              {
+                "title": "Face to Face",
+                "year": " 1976",
+                "remarks": null,
+                "imdbid": "tt0074147"
+              },
+              {
+                "title": "The Magic Flute",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Movie)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0073822"
+              },
+              {
+                "title": "The Misanthrope",
+                "year": " 1974",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0184741"
+              },
+              {
+                "title": "Scenes from a Marriage",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(6 episodes)"
+                ],
+                "imdbid": "tt0070644"
+              },
+              {
+                "title": "Cries & Whispers",
+                "year": " 1972",
+                "remarks": null,
+                "imdbid": "tt0069467"
+              },
+              {
+                "title": "The Touch",
+                "year": " 1971",
+                "remarks": null,
+                "imdbid": "tt0066826"
+              },
+              {
+                "title": "Fårö dokument",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0064355"
+              },
+              {
+                "title": "The Passion of Anna",
+                "year": " 1969",
+                "remarks": null,
+                "imdbid": "tt0064793"
+              },
+              {
+                "title": "Le rite",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0064897"
+              },
+              {
+                "title": "Shame",
+                "year": " 1968",
+                "remarks": null,
+                "imdbid": "tt0063611"
+              },
+              {
+                "title": "Hour of the Wolf",
+                "year": " 1968",
+                "remarks": null,
+                "imdbid": "tt0063759"
+              },
+              {
+                "title": "Stimulantia",
+                "year": " 1967",
+                "remarks": [
+                  "(segment \"Daniel\")"
+                ],
+                "imdbid": "tt0062306"
+              },
+              {
+                "title": "Persona",
+                "year": " 1966",
+                "remarks": null,
+                "imdbid": "tt0060827"
+              },
+              {
+                "title": "Don Juan",
+                "year": " 1965",
+                "remarks": [
+                  "(TV Mini-Series)"
+                ],
+                "imdbid": "tt0173542"
+              },
+              {
+                "title": "All These Women",
+                "year": " 1964",
+                "remarks": null,
+                "imdbid": "tt0058124"
+              },
+              {
+                "title": "The Silence",
+                "year": " 1963",
+                "remarks": null,
+                "imdbid": "tt0057611"
+              },
+              {
+                "title": "A Dream Play",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0129891"
+              },
+              {
+                "title": "Les communiants",
+                "year": " 1963",
+                "remarks": null,
+                "imdbid": "tt0057358"
+              },
+              {
+                "title": "Through a Glass Darkly",
+                "year": " 1961",
+                "remarks": null,
+                "imdbid": "tt0055499"
+              },
+              {
+                "title": "The Devil's Eye",
+                "year": " 1960",
+                "remarks": null,
+                "imdbid": "tt0053772"
+              },
+              {
+                "title": "The Virgin Spring",
+                "year": " 1960",
+                "remarks": null,
+                "imdbid": "tt0053976"
+              },
+              {
+                "title": "Storm Weather",
+                "year": " 1960",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0130171"
+              },
+              {
+                "title": "The Magician",
+                "year": " 1958",
+                "remarks": null,
+                "imdbid": "tt0051365"
+              },
+              {
+                "title": "Rabies",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0130204"
+              },
+              {
+                "title": "Brink of Life",
+                "year": " 1958",
+                "remarks": null,
+                "imdbid": "tt0052017"
+              },
+              {
+                "title": "The Venetian",
+                "year": " 1958",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0130344"
+              },
+              {
+                "title": "Wild Strawberries",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0050986"
+              },
+              {
+                "title": "Mr. Sleeman Is Coming",
+                "year": " 1957",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0050502"
+              },
+              {
+                "title": "The Seventh Seal",
+                "year": " 1957",
+                "remarks": null,
+                "imdbid": "tt0050976"
+              },
+              {
+                "title": "Bakomfilm Smultronstället",
+                "year": " 1957",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0460405"
+              },
+              {
+                "title": "Smiles of a Summer Night",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048641"
+              },
+              {
+                "title": "Dreams",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048272"
+              },
+              {
+                "title": "A Lesson in Love",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0047167"
+              },
+              {
+                "title": "Sawdust and Tinsel",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0045848"
+              },
+              {
+                "title": "Summer with Monika",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0046345"
+              },
+              {
+                "title": "Waiting Women",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044811"
+              },
+              {
+                "title": "Summer Interlude",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0044060"
+              },
+              {
+                "title": "Cela ne se produirait pas ici",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0043019"
+              },
+              {
+                "title": "Vers la joie",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0043048"
+              },
+              {
+                "title": "Thirst",
+                "year": " 1949",
+                "remarks": null,
+                "imdbid": "tt0041998"
+              },
+              {
+                "title": "Prison",
+                "year": " 1949",
+                "remarks": null,
+                "imdbid": "tt0041399"
+              },
+              {
+                "title": "Port of Call",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040418"
+              },
+              {
+                "title": "Music in Darkness",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040622"
+              },
+              {
+                "title": "A Ship Bound for India",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039834"
+              },
+              {
+                "title": "It Rains on Our Love",
+                "year": " 1946",
+                "remarks": null,
+                "imdbid": "tt0038468"
+              },
+              {
+                "title": "Crisis",
+                "year": " 1946",
+                "remarks": null,
+                "imdbid": "tt0038675"
+              }
+            ]
+          },
+          {
+            "section": "Actor",
+            "filmography": [
+              {
+                "title": "En présence d'un clown",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie)",
+                  "Mental patient (uncredited)"
+                ],
+                "imdbid": "tt0119496"
+              },
+              {
+                "title": "The Magic Flute",
+                "year": " 1975",
+                "remarks": [
+                  "(TV Movie)",
+                  "Man in Audience (uncredited)"
+                ],
+                "imdbid": "tt0073822"
+              },
+              {
+                "title": "Scenes from a Marriage",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Mini-Series)"
+                ],
+                "imdbid": "tt0070644"
+              },
+              {
+                "title": "Cries & Whispers",
+                "year": " 1972",
+                "remarks": [
+                  "Narrator (voice, uncredited)"
+                ],
+                "imdbid": "tt0069467"
+              },
+              {
+                "title": "The Passion of Anna",
+                "year": " 1969",
+                "remarks": [
+                  "Narrator (voice, uncredited)"
+                ],
+                "imdbid": "tt0064793"
+              },
+              {
+                "title": "Le rite",
+                "year": " 1969",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0064897"
+              },
+              {
+                "title": "Dreams",
+                "year": " 1955",
+                "remarks": [
+                  "Man with poodle (uncredited)"
+                ],
+                "imdbid": "tt0048272"
+              },
+              {
+                "title": "A Lesson in Love",
+                "year": " 1954",
+                "remarks": [
+                  "Narrator / Man with Cap at Railway Station (uncredited)"
+                ],
+                "imdbid": "tt0047167"
+              },
+              {
+                "title": "Waiting Women",
+                "year": " 1952",
+                "remarks": [
+                  "Man in the stairs at the gynecologist's (uncredited)"
+                ],
+                "imdbid": "tt0044811"
+              },
+              {
+                "title": "Vers la joie",
+                "year": " 1950",
+                "remarks": [
+                  "Expecting Father at the Maternity Ward (uncredited)"
+                ],
+                "imdbid": "tt0043048"
+              },
+              {
+                "title": "Thirst",
+                "year": " 1949",
+                "remarks": [
+                  "Train Passenger (uncredited)"
+                ],
+                "imdbid": "tt0041998"
+              },
+              {
+                "title": "Music in Darkness",
+                "year": " 1948",
+                "remarks": [
+                  "Man with Newspaper on the Train (uncredited)"
+                ],
+                "imdbid": "tt0040622"
+              },
+              {
+                "title": "A Ship Bound for India",
+                "year": " 1947",
+                "remarks": [
+                  "Man wearing a beret at the funfair (uncredited)"
+                ],
+                "imdbid": "tt0039834"
+              },
+              {
+                "title": "Torment",
+                "year": " 1944",
+                "remarks": [
+                  "Voice on the Radio (voice, uncredited)"
+                ],
+                "imdbid": "tt0036914"
+              }
+            ]
+          },
+          {
+            "section": "Producer",
+            "filmography": [
+              {
+                "title": "Gotska Sandön",
+                "year": " 1987",
+                "remarks": [
+                  "(Documentary)",
+                  "(producer)"
+                ],
+                "imdbid": "tt2342127"
+              },
+              {
+                "title": "Sally and Freedom",
+                "year": " 1981",
+                "remarks": [
+                  "(producer)"
+                ],
+                "imdbid": "tt0083025"
+              },
+              {
+                "title": "From the Life of the Marionettes",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie)",
+                  "(producer)"
+                ],
+                "imdbid": "tt0080397"
+              },
+              {
+                "title": "My Beloved",
+                "year": " 1979",
+                "remarks": [
+                  "(producer)"
+                ],
+                "imdbid": "tt0079558"
+              },
+              {
+                "title": "Rätt ut i luften",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Movie)",
+                  "(producer)"
+                ],
+                "imdbid": "tt0237677"
+              },
+              {
+                "title": "Paradis d'été",
+                "year": " 1977",
+                "remarks": [
+                  "(producer)"
+                ],
+                "imdbid": "tt0076524"
+              },
+              {
+                "title": "De fördömda kvinnornas dans",
+                "year": " 1976",
+                "remarks": [
+                  "(Short)",
+                  "(producer)"
+                ],
+                "imdbid": "tt2265239"
+              },
+              {
+                "title": "Cries & Whispers",
+                "year": " 1972",
+                "remarks": [
+                  "(producer)"
+                ],
+                "imdbid": "tt0069467"
+              },
+              {
+                "title": "The Touch",
+                "year": " 1971",
+                "remarks": [
+                  "(producer - uncredited)"
+                ],
+                "imdbid": "tt0066826"
+              },
+              {
+                "title": "Persona",
+                "year": " 1966",
+                "remarks": [
+                  "(producer)"
+                ],
+                "imdbid": "tt0060827"
+              },
+              {
+                "title": "The Virgin Spring",
+                "year": " 1960",
+                "remarks": [
+                  "(producer - uncredited)"
+                ],
+                "imdbid": "tt0053976"
+              },
+              {
+                "title": "Bakomfilm Smultronstället",
+                "year": " 1957",
+                "remarks": [
+                  "(Documentary short)",
+                  "(producer)"
+                ],
+                "imdbid": "tt0460405"
+              }
+            ]
+          },
+          {
+            "section": "Miscellaneous Crew",
+            "filmography": [
+              {
+                "title": "Backanterna",
+                "year": " 1993",
+                "remarks": [
+                  "(TV Movie)",
+                  "(stage director)"
+                ],
+                "imdbid": "tt0313247"
+              },
+              {
+                "title": "Scenes from a Marriage",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Mini-Series)",
+                  "(speaker - 6 episodes)"
+                ],
+                "imdbid": "tt0070644"
+              },
+              {
+                "title": "The Minister of Uddarbo",
+                "year": " 1957",
+                "remarks": [
+                  "(script consultant - uncredited)"
+                ],
+                "imdbid": "tt0050863"
+              }
+            ]
+          },
+          {
+            "section": "Soundtrack",
+            "filmography": [
+              {
+                "title": "The Seventh Seal",
+                "year": " 1957",
+                "remarks": [
+                  "(lyrics: \"HÅLLAS MELLAN RONA\", \"DET SITTER EN DUVA\", \"ÖDET ÄR EN RACKARE\", \"HÄSTEN SITTER I TRÄDET\", \"SKATS SÅNG\")"
+                ],
+                "imdbid": "tt0050976"
+              },
+              {
+                "title": "Last Pair Out",
+                "year": " 1956",
+                "remarks": [
+                  "(lyrics: \"DET ÄR LÖRDAG I DAG\")"
+                ],
+                "imdbid": "tt0049763"
+              },
+              {
+                "title": "Smiles of a Summer Night",
+                "year": " 1955",
+                "remarks": [
+                  "(writer: \"BORT MED SORG OCH BITTERHET\")"
+                ],
+                "imdbid": "tt0048641"
+              },
+              {
+                "title": "Waiting Women",
+                "year": " 1952",
+                "remarks": [
+                  "(lyrics: \"(Marta är)",
+                  "Ett rosende träd\")",
+                  "/ (writer: \"(Marta är)",
+                  "Ett rosende träd\")"
+                ],
+                "imdbid": "tt0044811"
+              }
+            ]
+          },
+          {
+            "section": "Cinematographer",
+            "filmography": [
+              {
+                "title": "Images from the Playground",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt1568803"
+              },
+              {
+                "title": "Stimulantia",
+                "year": " 1967",
+                "remarks": null,
+                "imdbid": "tt0062306"
+              }
+            ]
+          },
+          {
+            "section": "Art director",
+            "filmography": [
+              {
+                "title": "A Lesson in Love",
+                "year": " 1954",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0047167"
+              }
+            ]
+          },
+          {
+            "section": "Second Unit Director or Assistant Director",
+            "filmography": [
+              {
+                "title": "Torment",
+                "year": " 1944",
+                "remarks": [
+                  "(assistant director)"
+                ],
+                "imdbid": "tt0036914"
+              }
+            ]
+          },
+          {
+            "section": "Camera and Electrical Department",
+            "filmography": [
+              {
+                "title": "Liv & Ingmar",
+                "year": " 2012",
+                "remarks": [
+                  "(Documentary)",
+                  "(cinematographer: archive footage)"
+                ],
+                "imdbid": "tt2327430"
+              }
+            ]
+          },
+          {
+            "section": "Thanks",
+            "filmography": [
+              {
+                "title": "The Well",
+                "year": " 2016",
+                "remarks": [
+                  "(Short)",
+                  "(the director wishes to thank)"
+                ],
+                "imdbid": "tt5768664"
+              },
+              {
+                "title": "Nosferatu vs. Father Pipecock & Sister Funk",
+                "year": " 2014",
+                "remarks": [
+                  "(special thanks)"
+                ],
+                "imdbid": "tt3587202"
+              },
+              {
+                "title": "The Debridement of Rome",
+                "year": " 2012",
+                "remarks": [
+                  "(Short)",
+                  "(acknowledgment)"
+                ],
+                "imdbid": "tt2354128"
+              },
+              {
+                "title": "Acid Head: The Buzzard Nuts County Slaughter",
+                "year": " 2011",
+                "remarks": [
+                  "(special thanks)"
+                ],
+                "imdbid": "tt1672166"
+              },
+              {
+                "title": "The Pain of Creation",
+                "year": " 2011",
+                "remarks": [
+                  "(Short)",
+                  "(special thanks for inspiration)"
+                ],
+                "imdbid": "tt1978561"
+              },
+              {
+                "title": "Amor o Muerte",
+                "year": " 2009",
+                "remarks": [
+                  "(Short)",
+                  "(in memoriam)"
+                ],
+                "imdbid": "tt1805146"
+              },
+              {
+                "title": "Rendez-vous à Palerme",
+                "year": " 2008",
+                "remarks": [
+                  "(in memory of)"
+                ],
+                "imdbid": "tt1008017"
+              },
+              {
+                "title": "Milk",
+                "year": " 2008/II",
+                "remarks": [
+                  "(Short)",
+                  "(dedicatee - as Ernst Ingmar Bergman)"
+                ],
+                "imdbid": "tt1362100"
+              },
+              {
+                "title": "777",
+                "year": " 2007",
+                "remarks": [
+                  "(Short)",
+                  "(dedicatee)"
+                ],
+                "imdbid": "tt1481521"
+              },
+              {
+                "title": "Tehzeeb",
+                "year": " 2003",
+                "remarks": [
+                  "(this one's for you; the inspiration)"
+                ],
+                "imdbid": "tt0348172"
+              },
+              {
+                "title": "Dansaren",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary)",
+                  "(thanks)"
+                ],
+                "imdbid": "tt0109538"
+              },
+              {
+                "title": "Dieter & Andreas",
+                "year": " 1989",
+                "remarks": [
+                  "(Short)",
+                  "(grateful acknowledgment)"
+                ],
+                "imdbid": "tt1836778"
+              },
+              {
+                "title": "Ingrid",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)",
+                  "(thanks)"
+                ],
+                "imdbid": "tt0089340"
+              },
+              {
+                "title": "Summer Wishes, Winter Dreams",
+                "year": " 1973",
+                "remarks": [
+                  "(acknowledgment: \"Wild Strawberries\" sequence courtesy - as Mr. Ingmar Bergman)"
+                ],
+                "imdbid": "tt0070748"
+              }
+            ]
+          },
+          {
+            "section": "Self",
+            "filmography": [
+              {
+                "title": "Gomorron",
+                "year": " 2000-2009",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0930831"
+              },
+              {
+                "title": "Ingmar Bergman: Intermezzo",
+                "year": " 2004",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt0366615"
+              },
+              {
+                "title": "Bergman Island",
+                "year": " 2004",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0469772"
+              },
+              {
+                "title": "I Bergmans regi",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0477724"
+              },
+              {
+                "title": "Ljuset håller mig sällskap",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0151372"
+              },
+              {
+                "title": "Ingmar Bergman on Life and Work",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0412852"
+              },
+              {
+                "title": "The Voice of Bergman",
+                "year": " 1997",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0133268"
+              },
+              {
+                "title": "Liv Ullmann scener fra et liv",
+                "year": " 1997",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0163721"
+              },
+              {
+                "title": "Bergman: On Stage",
+                "year": " 1994",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0810365"
+              },
+              {
+                "title": "The European Film Awards",
+                "year": " 1988",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0876447"
+              },
+              {
+                "title": "Ingmar Bergman: The Magic Lantern",
+                "year": " 1988",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0816534"
+              },
+              {
+                "title": "Ingmar Bergman in Iceland",
+                "year": " 1986",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt4571764"
+              },
+              {
+                "title": "The Making of Fanny and Alexander",
+                "year": " 1986",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0090955"
+              },
+              {
+                "title": "Inför Scener ur ett äktenskap",
+                "year": " 1986",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt2375120"
+              },
+              {
+                "title": "Ingmar Bergman tar farväl av filmen",
+                "year": " 1984",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt6114644"
+              },
+              {
+                "title": "Victor Seastrom",
+                "year": " 1981",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0083283"
+              },
+              {
+                "title": "A Look at Liv",
+                "year": " 1979",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0076325"
+              },
+              {
+                "title": "The South Bank Show",
+                "year": " 1978",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0077082"
+              },
+              {
+                "title": "The Bergman File",
+                "year": " 1978",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0140845"
+              },
+              {
+                "title": "Ingmar Bergman inszeniert",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1267423"
+              },
+              {
+                "title": "Apropos Film",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2303071"
+              },
+              {
+                "title": "Three Scenes with Ingmar Bergman",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0141352"
+              },
+              {
+                "title": "Film Night",
+                "year": " 1970-1971",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1008209"
+              },
+              {
+                "title": "The Dick Cavett Show",
+                "year": " 1971",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0063894"
+              },
+              {
+                "title": "Hinter der Leinwand",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2829960"
+              },
+              {
+                "title": "The 42nd Annual Academy Awards",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0276746"
+              },
+              {
+                "title": "Fårö dokument",
+                "year": " 1970",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0064355"
+              },
+              {
+                "title": "Begegnung mit Ingmar Bergman",
+                "year": " 1964",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt5206078"
+              },
+              {
+                "title": "Ingmar Bergman Makes a Movie",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0407888"
+              }
+            ]
+          },
+          {
+            "section": "Archive footage",
+            "filmography": [
+              {
+                "title": "Ammatti: elokuvaohjaaja - Jörn Donner",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt2765512"
+              },
+              {
+                "title": "Liv & Ingmar",
+                "year": " 2012",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2327430"
+              },
+              {
+                "title": "Palme",
+                "year": " 2012",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2070768"
+              },
+              {
+                "title": "Viaggio in Bergmania",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2056773"
+              },
+              {
+                "title": "Corman's World: Exploits of a Hollywood Rebel",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1185371"
+              },
+              {
+                "title": "The South Bank Show",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0077082"
+              },
+              {
+                "title": "Hollywood on the Tiber",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1484991"
+              },
+              {
+                "title": "Images from the Playground",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt1568803"
+              },
+              {
+                "title": "The 80th Annual Academy Awards",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt1103965"
+              },
+              {
+                "title": "The Orange British Academy Film Awards",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1067080"
+              },
+              {
+                "title": "On Set Home Movies",
+                "year": " 2008",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt2706558"
+              },
+              {
+                "title": "How Soon Is Now?",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Mini-Series)"
+                ],
+                "imdbid": "tt0892701"
+              },
+              {
+                "title": "Allsång på Skansen",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0444985"
+              },
+              {
+                "title": "Un écran nommé désir",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0807061"
+              },
+              {
+                "title": "The Originals",
+                "year": " 2005",
+                "remarks": [
+                  "(Documentary short)"
+                ],
+                "imdbid": "tt3364058"
+              },
+              {
+                "title": "Filmmakers in Action",
+                "year": " 2005",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0486090"
+              },
+              {
+                "title": "Hour of the Wolf: The Search for Sanity",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0405976"
+              },
+              {
+                "title": "Away from Home",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0407192"
+              },
+              {
+                "title": "Passion of Anna: Disintegration of Passion",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0407102"
+              },
+              {
+                "title": "Fellini Narrates: A Discovered Self-Portrait",
+                "year": " 2000",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0262414"
+              },
+              {
+                "title": "Cinema Europe: The Other Hollywood",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0115134"
+              },
+              {
+                "title": "Karin's Face",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0091327"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.6",
+    "serverTime": "2017/01/14 22:00:54"
+  }
+}

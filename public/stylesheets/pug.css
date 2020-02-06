@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    color:  darkslateblue;
+}
+
+.Comedy      { background: url('../images/genres.jpg')  -0px  0; }
+.Sci-Fi      { background: url('../images/genres.jpg')  -0px  -60px; }
+.Western     { background: url('../images/genres.jpg') -60px  -60px; }
+
+.imgAttr     {  width: 30px;
+                height: 30px;
+                float: left;
+                background-size: 150px 150px; }
+
+p       {   margin: 4px; }

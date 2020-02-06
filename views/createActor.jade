@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('../images/ActorBackground1.png') left top / contain repeat fixed ";
+
+  form(action='/actors/created' method='POST')
+    table.white
+      tr
+        td.label Actor ID:
+        td
+          input(type="text"   placeholder="Actor ID"      name="idIMDB")
+      tr
+        td.label Name:
+        td: input(type="text" placeholder="Name"          name="name")
+      tr
+        td.label Date of Birth:
+        td: input(type="text" placeholder="Date Of Birth" name="dateOfBirth")
+      tr
+        td.label Bio:
+        td: textarea(rows="5" cols="80"                   name="bio")
+      tr
+        td: button(type="submit") Create Actor
+      tr
+        td: a(href='/actors') Actors List

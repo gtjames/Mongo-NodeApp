@@ -1,0 +1,2647 @@
+{
+  "data": {
+    "movies": [
+      {
+        "title": "What's Up, Doc?",
+        "originalTitle": "",
+        "year": "1972",
+        "releaseDate": "19720310",
+        "directors": [
+          {
+            "name": "Peter Bogdanovich",
+            "id": "nm0000953"
+          }
+        ],
+        "writers": [
+          {
+            "name": "Buck Henry",
+            "id": "nm0377750"
+          },
+          {
+            "name": "David Newman",
+            "id": "nm0628058"
+          }
+        ],
+        "runtime": "94 min",
+        "urlPoster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDVjNWFlYmQtODhjNy00NDUwLWI0NTYtZmI5OTRjNzc1NzA1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1.jpg",
+        "countries": [
+          "USA"
+        ],
+        "languages": [
+          "English"
+        ],
+        "genres": [
+          "Comedy"
+        ],
+        "plot": "Two researchers have come to San Francisco to compete for a research grant in Music. One seems a bit distracted, and that was before he meets her. A strange woman seems to have devoted her life to confusing and embarassing him. At the same time a woman has her jewels stolen and a government whistle blower arrives with his stolen top secret papers. All, of course have the same style and color overnight bag.",
+        "simplePlot": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
+        "actors": [
+          {
+            "actorName": "Barbra Streisand",
+            "urlProfile": "http://www.imdb.com/name/nm0000659",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMwOTQ3NTg1MF5BMl5BanBnXkFtZTcwMjc4MjQ4OA@@._V1_UX32_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0000659",
+            "character": "Judy Maxwell",
+            "urlCharacter": "http://www.imdb.com/character/ch0022206",
+            "main": true
+          },
+          {
+            "actorName": "Ryan O'Neal",
+            "urlProfile": "http://www.imdb.com/name/nm0641939",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUxOTMwMTI1N15BMl5BanBnXkFtZTcwOTUxMDkwMw@@._V1_UY44_CR1,0,32,44_AL_.jpg",
+            "actorId": "nm0641939",
+            "character": "Howard Bannister",
+            "urlCharacter": "http://www.imdb.com/character/ch0022208",
+            "main": true
+          },
+          {
+            "actorName": "Madeline Kahn",
+            "urlProfile": "http://www.imdb.com/name/nm0001404",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkzMDkzMTI0OF5BMl5BanBnXkFtZTcwNTUzOTAxNQ@@._V1_UY44_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0001404",
+            "character": "Eunice Burns",
+            "urlCharacter": "http://www.imdb.com/character/ch0022207",
+            "main": true
+          },
+          {
+            "actorName": "Kenneth Mars",
+            "urlProfile": "http://www.imdb.com/name/nm0550318",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4ODQ1NTIwNF5BMl5BanBnXkFtZTcwMzIxOTQ3MQ@@._V1_UY44_CR5,0,32,44_AL_.jpg",
+            "actorId": "nm0550318",
+            "character": "Hugh Simon",
+            "urlCharacter": "http://www.imdb.com/character/ch0022209",
+            "main": true
+          },
+          {
+            "actorName": "Austin Pendleton",
+            "urlProfile": "http://www.imdb.com/name/nm0671721",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMzY4NjY1MzNeQTJeQWpwZ15BbWU3MDIzNjIzNjI@._V1_UY44_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0671721",
+            "character": "Frederick Larrabee",
+            "urlCharacter": "http://www.imdb.com/character/ch0022211",
+            "main": true
+          },
+          {
+            "actorName": "Michael Murphy",
+            "urlProfile": "http://www.imdb.com/name/nm0614526",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0MTIyNzAxMF5BMl5BanBnXkFtZTgwNjkzMTc5NTE@._V1_UY44_CR1,0,32,44_AL_.jpg",
+            "actorId": "nm0614526",
+            "character": "Mr. Smith",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Philip Roth",
+            "urlProfile": "http://www.imdb.com/name/nm0744981",
+            "urlPhoto": "",
+            "actorId": "nm0744981",
+            "character": "Mr. Jones",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Sorrell Booke",
+            "urlProfile": "http://www.imdb.com/name/nm0095368",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxOTQ2NzY1NF5BMl5BanBnXkFtZTYwNzIwNzM2._V1_UX32_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0095368",
+            "character": "Harry",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Stefan Gierasch",
+            "urlProfile": "http://www.imdb.com/name/nm0317369",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTU2NDk5OTc2NV5BMl5BanBnXkFtZTcwMjkwMjYxOA@@._V1_UX32_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0317369",
+            "character": "Fritz",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Mabel Albertson",
+            "urlProfile": "http://www.imdb.com/name/nm0016781",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA1MjkxNjQ1MjdeQTJeQWpwZ15BbWU4MDAwNzA4MzIx._V1_UY44_CR13,0,32,44_AL_.jpg",
+            "actorId": "nm0016781",
+            "character": "Mrs. Van Hoskins",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Liam Dunn",
+            "urlProfile": "http://www.imdb.com/name/nm0242668",
+            "urlPhoto": "",
+            "actorId": "nm0242668",
+            "character": "Judge Maxwell",
+            "urlCharacter": "http://www.imdb.com/character/ch0022212",
+            "main": true
+          },
+          {
+            "actorName": "John Hillerman",
+            "urlProfile": "http://www.imdb.com/name/nm0384916",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyODA0MDQxM15BMl5BanBnXkFtZTcwNDM2MzYwOA@@._V1_UY44_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0384916",
+            "character": "Hotel Manager",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "George Morfogen",
+            "urlProfile": "http://www.imdb.com/name/nm0604420",
+            "urlPhoto": "",
+            "actorId": "nm0604420",
+            "character": "Headwaiter",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Graham Jarvis",
+            "urlProfile": "http://www.imdb.com/name/nm0419054",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MTI1OTY0M15BMl5BanBnXkFtZTgwMzM0ODA1NTE@._V1_UY44_CR23,0,32,44_AL_.jpg",
+            "actorId": "nm0419054",
+            "character": "Bailiff",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          },
+          {
+            "actorName": "Randy Quaid",
+            "urlProfile": "http://www.imdb.com/name/nm0001642",
+            "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NDEwMjU3N15BMl5BanBnXkFtZTcwNjk2MTc1MQ@@._V1_UX32_CR0,0,32,44_AL_.jpg",
+            "actorId": "nm0001642",
+            "character": "Professor Hosquith",
+            "urlCharacter": "http://www.imdb.com",
+            "main": true
+          }
+        ],
+        "idIMDB": "tt0069495",
+        "urlIMDB": "http://www.imdb.com/title/tt0069495",
+        "rating": "7.8",
+        "rated": "G",
+        "votes": "14,858",
+        "type": "Movie",
+        "quotes": [
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: Love means never having to say you're sorry.",
+              "Howard: That's the dumbest thing I ever heard."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Eunice: Don't you know the meaning of propriety?",
+              "Judy: Propriety; noun: conformity to established standards of behavior or manner, suitability, rightness, or justice. See \"etiquette.\""
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: You don't wanna marry someone who's gonna get all wrinkled, lined and flabby!",
+              "Howard: Everyone gets wrinkled, lined and flabby!",
+              "Judy: By next week?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Eunice: [while Judge Maxwell is making a list of crimes with which to charge a group of people] They tried to molest me.",
+              "Judge Maxwell: That's...",
+              "Judge Maxwell: unbelievable."
+            ],
+            "remark": "[looks at Eunice]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: I think I want to skip over this part, too.",
+              "Howard: That night, I went back to my room and she was in the bath.",
+              "Judge Maxwell: Who was there? No, don't tell me, just go on.",
+              "Howard: When Eunice walked in and the drapes caught fire, everything burned. They asked me to leave. I really don't blame them.",
+              "Judge Maxwell: Good boy. Is there more?",
+              "Howard: Sure.",
+              "Judge Maxwell: There's more.",
+              "Howard: Well, the next day, today, Mr. Larrabee asked me to his house with my rocks and to bring Eunice. Or rather, Burnsy, the one he thinks is Eunice. Is that clear?",
+              "Judge Maxwell: No, but it's consistent.",
+              "Howard: Shall I go back over it?",
+              "Judge Maxwell: No, please, I beg you, don't. Just go on.",
+              "Howard: It gets kind of complicated now. First, there was this trouble between me and Hugh.",
+              "Judge Maxwell: You and me?",
+              "Howard: No, not you. Hugh.",
+              "Hugh: I am Hugh.",
+              "Judge Maxwell: You are me?",
+              "Hugh: No, I am Hugh.",
+              "Judge Maxwell: Stop saying that!",
+              "Judge Maxwell: Make him stop saying that!",
+              "Hugh: Don't touch me, I'm a doctor.",
+              "Judge Maxwell: Of what?",
+              "Hugh: Music.",
+              "Judge Maxwell: Can you fix a hi-fi?",
+              "Hugh: No, sir.",
+              "Judge Maxwell: Then shut up!"
+            ],
+            "remark": "[to bayliff]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Mr Kaltenborn",
+                "id": "nm0384916"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Mr Kaltenborn",
+                "id": "nm0384916"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Mr Kaltenborn",
+                "id": "nm0384916"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Mr Kaltenborn",
+                "id": "nm0384916"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Mr Kaltenborn",
+                "id": "nm0384916"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: Good morning.",
+              "Mr Kaltenborn: No, I don't think so. I'm Mr Kaltenborn, the manager of what's left of the hotel.",
+              "Howard: I'm sorry about all this whole mess here. Usually this doesn't happen.",
+              "Mr Kaltenborn: Dr Bannister, I have a message for you from the staff of the hotel.",
+              "Howard: What is it?",
+              "Mr Kaltenborn: Goodbye.",
+              "Howard: That's the entire message?",
+              "Mr Kaltenborn: We would appreciate it if you would check out.",
+              "Howard: When?",
+              "Mr Kaltenborn: Yesterday.",
+              "Howard: That soon?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Hugh: I find that as difficult to swallow as this potage au gelee.",
+              "Judy: How would you like to swallow one sandwich d'knuckles?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Howard: You! You!",
+              "Judy: Eu-nice. Eunice. We've almost gotten that stammer cured.",
+              "Howard: How! How!",
+              "Judy: How-ard. Howard. He always gets stuck on names. It must be the excitement of meeting you for the first time."
+            ],
+            "remark": "[Meeting Mr. Larabee]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Has anyone ever told you that you are very, very sexy?",
+              "Hugh: Well, actually no.",
+              "Judy: They never will."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Eunice: I'm not looking for romance, Howard.",
+              "Howard: Oh?",
+              "Eunice: No, I'm looking for something more important than that, something stronger. As the years go by, romance fades and something else takes its place. Do you know what that is?",
+              "Howard: Senility?",
+              "Eunice: Trust!",
+              "Howard: That's what I meant."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Eunice: Now, tell me how you are going to introduce yourself.",
+              "Howard: What? Oh, well, I'll probably say something like \"Hello there, Mr Larrabee. I'm Howard.\"",
+              "Eunice: You are not.",
+              "Howard: I am not Howard.",
+              "Eunice: You are not going to say \"Hi, my name's Howard.\" Anyone could say that! Anyone.",
+              "Howard: Anyone named Howard."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: What's up, Doc?",
+              "Howard: I beg your pardon?",
+              "Judy: We've gotta stop meeting like this.",
+              "Howard: I think you're making a mistake. You see, I just came in here for something for a headache.",
+              "Judy: You're gonna need an awful big glass of water to get that down.",
+              "Howard: What? Oh no, no you see I'm a musicologist. I was just testing this specimen for inherent tonal qualities. I have this theory about early man's musical relationship to igneous rock formations. But I guess you're not really interested in igneous rock formations.",
+              "Judy: Not as much as I am in the sedimentary or metamorphic rock categories. I mean, I can take your igneous rocks or leave 'em. I relate primarily to micas, quartz, feldspar. You can keep your Pyroxenes, magnetites and coarse grained plutonics as far as I'm concerned.",
+              "Howard: I forgot why I came in here.",
+              "Judy: Headache.",
+              "Howard: Oh, yes. Thank you. And good bye."
+            ],
+            "remark": "[Howard walks into the hotel gift shop, wanders around, picks up a big rock, a souvenir of Alcatraz, and taps it with a tuning fork]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Eunice: [fighting off a waiter trying to restrain her] Howard! Howard Bannister! They're trying, they're trying to keep me out!",
+              "Frederick Larrabee: [to Howard] Who is that dangerously unbalanced woman?",
+              "Eunice: Howard! Howard! Tell them who I am. Tell them who I am. I *demand* that you tell them who I am right this minute.",
+              "Howard: [after a long pause] I never saw this woman before in my life."
+            ],
+            "remark": "[Eunice faints and is dragged from the room, leaving scuff marks on the floor. Judy whistles]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              }
+            ],
+            "quote": [
+              "Hugh: I think the Hugh Simon theory will stand the test of time.",
+              "Judy: Exactly what *is* that theory Mr Simon?",
+              "Hugh: I doubt you are qualified to understand it but it says that the 16th and 17th century composers developed a uniform scale platform based upon the intervals utilised in the mountaineer yodel.",
+              "Judy: And you developed this theory? That should come as a shock to Professor Findelmeyer.",
+              "Hugh: I don't know what you're talking about.",
+              "Judy: Sure you do, the Findelmeyer Proposition.",
+              "Hugh: I don't know what you're talking about, besides that has never been translated.",
+              "Judy: Just once. Harvard Musicological review, 1925. It's probably out of print now...",
+              "Frederick Larrabee: Of course! Professor Heinrich Findelmeyer, the university of Zurich, 1911, the controversial Findelmeyer Proposition, no wonder it sounded so familiar. I'm sorry Simon",
+              "Hugh: This is despicable.",
+              "Frederick Larrabee: Hugh, you're a bad loser, you're a plagiarist and you're nasty. I don't like you and I want you to go away."
+            ],
+            "remark": "[rips up the grant check]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Arresting Officer",
+                "id": "nm0001826"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: Officer! What are these people being charged with",
+              "Arresting Officer: It's kind of hard to explain, Judge.",
+              "Judge Maxwell: Give it a shot.",
+              "Arresting Officer: Well we picked most of them out of San Francisco bay.",
+              "Judge Maxwell: Entering the country illegally?",
+              "Arresting Officer: No sir, they drove in.",
+              "Judge Maxwell: Into the country?",
+              "Arresting Officer: Into the bay.",
+              "Judge Maxwell: Ah, that's better. Unauthorized use of public water.",
+              "Arresting Officer: Mostly in stolen cars.",
+              "Judge Maxwell: Ah ha, that's grand larceny.",
+              "Arresting Officer: Then there was a shooting...",
+              "Judge Maxwell: That's assault with a deadly weapon.",
+              "Frederick Larrabee: They broke into my home.",
+              "Judge Maxwell: That's breaking and entering.",
+              "Frederick Larrabee: [indicating Eunice] And brought her with them forcibly!",
+              "Judge Maxwell: That's kidnapping.",
+              "Eunice: They tried to molest me.",
+              "Judge Maxwell: That's... unbelievable."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: I know I'm different, but from now on I'm going to try and be the same.",
+              "Howard: The same as what?",
+              "Judy: The same as people who aren't different."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: Sir, my name is Howard Bannister and I'm from Ames, Iowa.",
+              "Judge Maxwell: No excuse.",
+              "Howard: No, sir, it all started when I bumped my head in the taxi... on the way in from the airport.",
+              "Judge Maxwell: Are you pleading insanity or amnesia?",
+              "Howard: Neither. I went to the drugstore to get something for a headache... the druggist tried to charge me for a radio. She said her husband would pay for it. But I didn't, of course.",
+              "Judge Maxwell: Of course.",
+              "Howard: She ripped my jacket and when Eunice came along...",
+              "Judge Maxwell: Who's Eunice?",
+              "Howard: Eunice is my fiancée.",
+              "Judge Maxwell: You have a wife AND a fiancée?",
+              "Howard: No, sir. But, she kept calling me \"Steve.\"",
+              "Judge Maxwell: Your own fiancée calls you \"Steve?\"",
+              "Howard: No, sir, my wife. Or rather, the one who ISN'T my wife.",
+              "Judge Maxwell: What does the one who isn't your FIANCEE call you? Howard?",
+              "Howard: No, sir, the one who isn't my fiancée doesn't call me Howard and the one who isn't my wife doesn't call me Howard because the one who isn't my fiancée is also the one who isn't my wife. The other one who ISN'T my wife, the one who IS my fiancée... she doesn't call me \"Steve.\" She calls me Howard. Do you see?",
+              "Judge Maxwell: Let's just skip over this part, and move on.",
+              "Howard: That night at the banquet she was there again.",
+              "Judge Maxwell: Who was there, your wife or your fiancée?",
+              "Howard: Neither.",
+              "Judge Maxwell: There's a third?",
+              "Howard: No, sir, the one who isn't either. Everyone was calling her \"Burnsy.\"",
+              "Judge Maxwell: Why?",
+              "Howard: That's short for Burns, Eunice's last name.",
+              "Judge Maxwell: Eunice WAS there.",
+              "Howard: No, sir, BURNSY was there. Or rather, the one who ISN'T Burnsy."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: What am I gonna tell Eunice?",
+              "Judy: That's the easy part. You go up to her room. She answers the door; now she will have been crying so her eyes will be all bloodshot and her nose will be all red and runny, but you look past all that. You stare purposefully into those red-rimmed, swollen eyes, and you say, \"Eunice, my dear, there's been a terrible mistake. I've behaved like a cad, a bounder! But now I see everything clearly and I've decided that Judy and I are gonna put you into a home.\"",
+              "Howard: That is not funny!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Headwaiter",
+                "id": "nm0112593"
+              }
+            ],
+            "quote": [
+              "Headwaiter: [to waiter, while looking at Howard and Judy's table, whose occupants are now under it, talking to each other] What kind of wine are you serving at table one?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: You see this yellow pill?",
+              "Bailiff: Yes sir.",
+              "Judge Maxwell: You know what it's for?",
+              "Bailiff: What, Judge?",
+              "Judge Maxwell: To remind me to take this BLUE pill!",
+              "Bailiff: What's the blue one for, Judge?",
+              "Judge Maxwell: I don't know. They're afraid to tell me."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: I'm not repeating myself. I'm not repeating myself. Oh, God, I'm repeating myself."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Steve, you didn't tell me you were married.",
+              "Howard: We're not married.",
+              "Judy: Congratulations.",
+              "Eunice: But we will be soon.",
+              "Judy: Condolences."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Headwaiter",
+                "id": "nm0604420"
+              }
+            ],
+            "quote": [
+              "Howard: Mr. Larrabee, it's a privilege to meet you. I'm Doctor Howard Bannister.",
+              "Headwaiter: And I'm your headwaiter, Rudy."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Musicologist",
+                "id": "nm0743829"
+              },
+              {
+                "name": "Musicologist",
+                "id": "nm0247665"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Professor Hosquith",
+                "id": "nm0001642"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Musicologist",
+                "id": "nm0743829"
+              },
+              {
+                "name": "Musicologist",
+                "id": "nm0247665"
+              }
+            ],
+            "quote": [
+              "Frederick Larrabee: What's going on down here? You two just can't keep away from each other, can you?",
+              "Howard: Oh, we were just talking.",
+              "Hugh: [Joins them] Are you all right Mr Larrabee? Can I help?",
+              "Frederick Larrabee: No, it's fine, we were just chatting.",
+              "Musicologist: [Joins them] What's the matter?",
+              "Musicologist: [Joins them] Anything wrong?",
+              "Frederick Larrabee: No.",
+              "Judy: We're just testing a theory Howard has about Vocal Reverberation Under Spinal Pressure.",
+              "Professor Hosquith: [Joins them] What? Vocal Reverberation Under Spinal Pressure?",
+              "Judy: You know, V.R.U.S.P.?",
+              "Musicologist: Oh yes!",
+              "Musicologist: I think I read a monograph on that."
+            ],
+            "remark": "[Judy and Howard have their heads under the table, Howard is trying to convince Judy to leave, Frederick joins them]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: [calling from the bathroom] Hello out there.",
+              "Howard: [responding automatically] Hello.",
+              "Judy: [calling from the bathroom] What?",
+              "Judy: I believe you dropped something.",
+              "Howard: What do you think you are doing?",
+              "Judy: I think I'm taking a bath aren't I?",
+              "Howard: If you're not out of here in two minutes, I'm calling the police.",
+              "Judy: Who do you think they'll arrest? The girl in the tub or the guy with his pants down?",
+              "Howard: I am not joking now. I do not like to act rashly, but you are the last straw that breaks my camel's back, you are the plague, you bring havoc and chaos to everyone, but why to me? Why me? Why?",
+              "Judy: Because you look cute in your pyjamas, Steve.",
+              "Howard: GET OUT!",
+              "Judy: Right now?",
+              "Howard: YES!",
+              "Howard: No! Wait a minute!"
+            ],
+            "remark": "[Howard returns to his room after the dinner and starts changing into his pyjamas]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              }
+            ],
+            "quote": [
+              "Howard: Sir, I must point out to you...",
+              "Frederick Larrabee: I must point out to you that foolish consistency is the hobgoblin of little minds.",
+              "Judy: Emerson!",
+              "Frederick Larrabee: I beg your pardon?",
+              "Judy: Ralph Waldo Emerson, born 1803 died 1882.",
+              "Frederick Larrabee: You like Emerson?",
+              "Judy: I adore him.",
+              "Frederick Larrabee: I adore anyone who adores Emerson.",
+              "Judy: And I adore anyone who adores anyone who adores Emerson, your turn!",
+              "Frederick Larrabee: She's a delight Bannister, a delight and you're a lucky dog.",
+              "Howard: I...",
+              "Frederick Larrabee: Admit it! Admit you're a lucky dog.",
+              "Howard: I'm a lucky dog.",
+              "Frederick Larrabee: Miss Burns, may I call you Eunice?",
+              "Howard: No!",
+              "Frederick Larrabee: What's that?",
+              "Judy: What Howard means is that back where we come from everyone calls me Burnsey.",
+              "Frederick Larrabee: Burnsey! I like that."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Howard: Eunice. Eunice. Eunice, please open the door, I have wonderful news.",
+              "Eunice: I do not want your apologies Howard. I think it is too late for that.",
+              "Howard: All right. No apologies.",
+              "Eunice: Have you no heart? I would have thought after all you have done you would come crawling for forgiveness."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Howard: What are you doing? This is a one way street!",
+              "Judy: We're only going one way."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              }
+            ],
+            "quote": [
+              "Fritz: You will enter Mrs. Van Hoskins' room, through the adjoining room and you will take the jewel case to the basement.",
+              "Harry: What if she wakes up and sees me?",
+              "Fritz: You will tell her you are smitten with her, that you have have followed her all night, and you will make passionate love to her.",
+              "Harry: Couldn't I just kill her?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: I think I'll get dressed now.",
+              "Eunice: [on telephone] Howard, who was that?",
+              "Howard: Who was what?",
+              "Eunice: I heard a voice say something about getting dressed.",
+              "Howard: It's the television set, Eunice. There's a movie on, a war movie. They're getting dressed for the big battle.",
+              "Eunice: It was a woman's voice!",
+              "Howard: Yes, they're lady soldiers, Eunice. It's called the \"Fighting WACs\"."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: You. You in the blanket! You seem to have caused all this trouble. Exactly what have you got to say for yourself?",
+              "Judge Maxwell: Judy!",
+              "Judy: Hello, Daddy..."
+            ],
+            "remark": "[Judy lowers the blanket]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: We can make it...",
+              "Howard: No.",
+              "Judy: We can make it...",
+              "Howard: No.",
+              "Judy: [the beetle arcs gracefully into San Francisco Bay] I don't think we can make it."
+            ],
+            "remark": "[Judy and Howard's Volkswagen Beetle is speeding along a pier towards a departing ferry]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Banquet Receptionist",
+                "id": "nm0954169"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Banquet Receptionist: This woman claims to be a Eunice Burns.",
+              "Eunice: I am not \"A\" Eunice Burns, I am \"THE\" Eunice Burns!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              }
+            ],
+            "quote": [
+              "Hugh: I don't know who *he* is, but *she* is de*fin*itely not herself!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Frederick Larrabee: We would like to hear the story that Miss Burns...",
+              "Judy: Burnsey!",
+              "Frederick Larrabee: That Burnsey...",
+              "Howard: He's calling her Burnsey.",
+              "Frederick Larrabee: That Burnsey was telling us. What was it Howard? Some incredible adventure you had on your flight here?",
+              "Howard: Yes. No.",
+              "Judy: I'm afraid my Howard is too modest to tell you the story himself. It all started when we passed the point of no return.",
+              "Howard: I think we just passed it.",
+              "Judy: One of the engines failed and the flux valve refused to disconnect. One of the pilots fainted from an over supply of fear and went into this power dive. So Howard took his rocks into the cockpit and selected two of them with a particularly high magnetic content and set up an electrically induced field pattern on the giro counter...",
+              "Howard: I'm having a nightmare."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: It wasn't all bad was it? Although it was terrible they took the grant away from you.",
+              "Howard: They had to do that. You see, the foundation just isn't used to having to bail its founder out of jail."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Eunice: Well come in, I'll do your tie.",
+              "Howard: What tie is that Eunice?",
+              "Eunice: Your tie. The tie in your hand."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: I can't see!",
+              "Judy: Here, I'll clean your glasses.",
+              "Howard: Now I really can't see. Judy, I can't see.",
+              "Howard: Oh God. I can see."
+            ],
+            "remark": "[removes his glasses]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: Ooh, hey look at that! Go up there!",
+              "Howard: What? No!",
+              "Judy: Yes!",
+              "Howard: Now what?",
+              "Judy: Back up.",
+              "Howard: I knew you'd say that."
+            ],
+            "remark": "[they drive onto a car transport full of other vw beetles]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Harry",
+                "id": "nm0095368"
+              }
+            ],
+            "quote": [
+              "Fritz: [Mrs. Van Hoskins approaches] Here she comes now, did you get the jewels out of the hotel?",
+              "Harry: Nah, I stashed 'em in 1714, I didn't have time...",
+              "Fritz: 1714? What kind of house detective are you? Cannot commit a simple burglary.",
+              "Harry: I'm ashamed.",
+              "Fritz: Nevermind. I will return the case to her room, while you detain her.",
+              "Harry: How do I do that?",
+              "Fritz: Use your charm!",
+              "Harry: Charm... use your charm."
+            ],
+            "remark": "[walks away]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: I forgot. I forgot to give you this letter. It was under your door when I came back to your room last night.",
+              "Howard: Did you open this?",
+              "Judy: How else could I have read it?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: [introducing himself to Mr. Larrabee] Mr. Priviledge, it's a Larrabee to meet you, sir. No that's not right. Anyway it's nice to see you, sir."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Eunice: Why are your rocks in the bathroom?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: [to operator on hotel phone] Uh, Miss Eunice Burns, please.",
+              "Eunice: [Answers phone] Yes?",
+              "Judy: [Switches to heavy Brooklyn accent] Miss Burns, uh this is Sylvia, Mr. Larrabee's personal secretary. There's been a little mixup in the invitation for this afternoon.",
+              "Eunice: Yes.",
+              "Judy: Yes. The luncheon has been switched from Mr. Larrabee's home to one of the Larrabee Foundation offices.",
+              "Eunice: Oh, but Mr. Bannister has already gone for the...",
+              "Judy: Oh yes, I managed to catch Mr. Bannister on his way out and tell him. The address of the luncheon is - uh do you have a pencil, darling?",
+              "Eunice: Yes.",
+              "Judy: 459 Dirello Street.",
+              "Eunice: Dirello...",
+              "Judy: Yes, Second floor.",
+              "Eunice: I see. Well thank you, Miss...",
+              "Judy: Uh Louise.",
+              "Eunice: I thought you said 'Sylvia'?",
+              "Judy: Uh yes, Sylvia-Louise, you know, with a hyphen."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: [dressed in a towel on the ledge looking at the burning hotel room] Miss Burns what are you doing in Howard Banister's bedroom? Don't you know the meaning of propriety?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Eunice: What is that?",
+              "Howard: It's a bath, Eunice. I was going to take a bath.",
+              "Eunice: Since when do you take bubble baths?",
+              "Howard: It came out of the faucet that way."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Bailiff: Is Your Honor feeling alright?",
+              "Judge Maxwell: No, my honor is not feeling alright! My head is pounding, my metabolism has practically ceased to function, and my nerves are completely shot."
+            ],
+            "remark": "[Judge Maxwell sneezes]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Fritz: Don't touch his rocks.",
+              "Eunice: I'll take care of those."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Eunice: Don't kick those rocks, you Philistine!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: They're a foul and depraved looking lot, bailiff.",
+              "Bailiff: Those are just the spectators, your Honor."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Eunice? That's a person named Eunice."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Mrs. Van Hoskins",
+                "id": "nm0016781"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Mrs. Van Hoskins",
+                "id": "nm0016781"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Mrs. Van Hoskins",
+                "id": "nm0016781"
+              }
+            ],
+            "quote": [
+              "Fritz: [beaming] Mrs. Van Hoskins! It's so nice to have you back with us.",
+              "Mrs. Van Hoskins: Hello, Hans.",
+              "Fritz: Fritz.",
+              "Mrs. Van Hoskins: What happened to Hans?",
+              "Fritz: There is no Hans. Only me, Fritz.",
+              "Mrs. Van Hoskins: Oh, what a shame."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              }
+            ],
+            "quote": [
+              "Hugh: [threatened by man with a gun] Don't shoot! I'm part Italian!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Yeah, you know Banister? As in \"sliding down the-\"?"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: I can't see!",
+              "Howard: There's nothing to see really, we're inside a Chinese dragon."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Judy: Well, this last time was not my fault.",
+              "Howard: What happened?",
+              "Judy: Nothing, nothing, really. It was just a little classroom, it sort of burned down.",
+              "Howard: Burned down?",
+              "Judy: Well, blew up actually.",
+              "Howard: Political activism?",
+              "Judy: Chemistry major.",
+              "Howard: I see."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Fritz",
+                "id": "nm0317369"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              }
+            ],
+            "quote": [
+              "Fritz: I am afraid one of our guests has lost something.",
+              "Eunice: Well, I fail to see how it could possibly be in here unless it crawled here under its own power.",
+              "Fritz: Precisely Miss Burns.",
+              "Eunice: What are you saying?",
+              "Fritz: It appears one of our guests, a wealthy eccentric, has lost his pet snake.",
+              "Fritz: Calm yourself, Miss Burns. May I suggest you shut yourself in the bathroom for a few moments while I search your room?",
+              "Eunice: What if it's in there?",
+              "Fritz: Impossible, madam. Snakes, as you know, live in mortal fear of... tile.",
+              "Fritz: [reaches under bed and pulls out one of the cases] It's all right Miss Burns. You can come out now.",
+              "Eunice: What more can they do to me?"
+            ],
+            "remark": "[Eunice screams and jumps onto the bed]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Delivery Boy",
+                "id": "nm0641915"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Delivery Boy: I want my bike back!",
+              "Judge Maxwell: I'll give you your bike back - I'll give you a broken back if you don't be quiet."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              }
+            ],
+            "quote": [
+              "Frederick Larrabee: Don't you *dare* strike that brave, unbalanced woman."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              }
+            ],
+            "quote": [
+              "Judy: ...just possibly saving 120 passengers from a tragic firey death.",
+              "Frederick Larrabee: I find that story intensely moving."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              },
+              {
+                "name": "Bailiff",
+                "id": "nm0419054"
+              },
+              {
+                "name": "Judge Maxwell",
+                "id": "nm0242668"
+              }
+            ],
+            "quote": [
+              "Judge Maxwell: Do you have any idea what it's like to sit here night after night and watch this endless parade of human debris floating by?",
+              "Bailiff: Yes sir, I have.",
+              "Judge Maxwell: Oh no you don't!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              },
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Hugh",
+                "id": "nm0550318"
+              }
+            ],
+            "quote": [
+              "Eunice: Mr Larrabee.",
+              "Frederick Larrabee: Frederick.",
+              "Eunice: Frederick. Will you help me?",
+              "Frederick Larrabee: Yes, I will. Who are you?",
+              "Eunice: I am Eunice Burns.",
+              "Hugh: Who cares who she is. We're going to be killed."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Ah, I got an idea.",
+              "Howard: What?",
+              "Judy: Stick with me. Stick with me kid.",
+              "Howard: This is a terrible thing we're doing.",
+              "Judy: Nonsense, you're gonna love it."
+            ],
+            "remark": "[they hijack a blue VW Beetle that has been decorarted as a get away car]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: I think there's a good road right down there."
+            ],
+            "remark": "[the road turns out to be a long flight of steps]"
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Eunice",
+                "id": "nm0001404"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Eunice: Since when have you taken bubble baths?",
+              "Howard: It came out of the faucet that way, Eunice."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: [resisting hiding on the ledge outside the window] I can't I'm terrified of heights.",
+              "Howard: There's a ledge.",
+              "Judy: I have ledge-o-phobia.",
+              "Howard: [Eunice bangs on door] Just until I can get rid of her.",
+              "Judy: I can't!",
+              "Howard: [Eunice bangs again] She's got a terrible temper!",
+              "Judy: I can't!",
+              "Howard: She studies karate.",
+              "Judy: Maybe I can."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Frederick Larrabee",
+                "id": "nm0671721"
+              }
+            ],
+            "quote": [
+              "Frederick Larrabee: [as Eunice and the jewel thieves burst into Larabee's home] Don't you dare strike that brave, unbalanced woman!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: I am not repeating myself, I am not repeating myself... Oh God, I'm repeating myself!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: I don't know who he is but I hate him."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              }
+            ],
+            "quote": [
+              "Howard: See? Now the phone is ringing."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Having fun?",
+              "Howard: I can't find my rocks.",
+              "Judy: Lets grab the cases.",
+              "Howard: Which ones?",
+              "Judy: All of them."
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Jewel Thief",
+                "id": "nm0770671"
+              }
+            ],
+            "quote": [
+              "Jewel Thief: [walks into Larrabee's living room with a gun] Don't nobody do nuttin!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Jewel Thief",
+                "id": "nm0770671"
+              }
+            ],
+            "quote": [
+              "Jewel Thief: [to Harry] You little fink!"
+            ],
+            "remark": null
+          },
+          {
+            "type": "Quote",
+            "nameId": [
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              },
+              {
+                "name": "Howard",
+                "id": "nm0641939"
+              },
+              {
+                "name": "Judy",
+                "id": "nm0000659"
+              }
+            ],
+            "quote": [
+              "Judy: Aw come-on, Steve, you don't want to marry Eunice.",
+              "Howard: I'm not Steve. I'm Howard.",
+              "Judy: Well neither of you wants to marry Eunice.",
+              "Howard: Why do you say that?",
+              "Judy: Because you don't want to marry someone who's gonna get all wrinkled, lined, and flabby.",
+              "Howard: Everybody gets wrinkled, lined, and flabby!",
+              "Judy: By next week?"
+            ],
+            "remark": null
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.27.0",
+    "serverTime": "2017/02/22 23:18:41"
+  }
+}

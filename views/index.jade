@@ -1,0 +1,17 @@
+extends layout
+
+block nav
+
+block content
+  h1= title
+  p Welcome to #{title}
+  li
+    a(href='/users') Users
+  li
+    a(href='/request') What does the Request Object contain?
+  li
+    a(href='/movies') Movies
+  li
+    a(href='/actors') Actors
+
+block footer

@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('#{actor.urlPhoto}')  left top / contain repeat fixed ";
+
+  form(action="/actors/deleted" method="POST")
+    table.white
+      tr
+        td.label Actor ID:
+        td= actor._id
+          input(type="hidden" name="_id" value="#{actor._id}")
+      tr
+        td.label Name:
+        td= actor.name
+      tr
+        td.label Date of Birth
+        td= actor.dateOfBirth
+      tr
+        td.label Bio:
+        td: textarea(readonly rows="5"    cols="80") #{actor.bio}
+      tr
+        td: button(type="submit") Delete Actor
+      tr
+        td
+          a(href='/actors/' + actor._id)
+            .button Back to '#{actor.name}'

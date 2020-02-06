@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('#{movie.urlPoster}') left top / contain repeat fixed ";
+
+  form(action="/movies/updated" method="POST")
+    table.white
+      tr
+        td.label Movie ID:
+        td= movie._id
+          input(type="hidden"                             name="_id"          value="#{movie._id}")
+      tr
+        td.label Movie Title:
+        td: input(type="text" placeholder="Title"         name="title"        value="#{movie.title}")
+      tr
+        td.label Year Released:
+        td: input(type="text" placeholder="Year"          name="year"         value="#{movie.year}")
+      tr
+        td.label Plot:
+        td: textarea(rows="#{movie.rows}" cols="80"       name="simplePlot")         #{movie.simplePlot}
+      tr
+        td: button(type="submit") Update Movie
+      tr
+        td
+          a(href='/movies/' + movie._id)
+            .button Back to '#{movie.title}'

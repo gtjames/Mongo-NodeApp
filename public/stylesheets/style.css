@@ -1,0 +1,152 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+h1{
+  width: 260px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  top: 40%
+}
+
+#right{
+  margin: 20px 10px;
+  border-radius: 25px;
+  width: 15%;
+  display: inline-block;
+  float:right;
+}
+
+#left{
+  margin: 20px 10px;
+  border-radius: 25px;
+  width: 15%;
+  display: inline-block;
+  float:left;
+}
+
+#leftSearch{
+  margin: 15px 5px;
+  float:left;
+}
+#rightSearch{
+  margin: 15px 5px;
+  float:right;
+}
+
+.button {
+  background-color: slategrey;
+  color: white;
+  border: 2px solid lightgrey;
+  border-radius: 4px 18px;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid slategrey;
+  box-shadow: 10px 10px 10px 0 rgba(96,96,96,0.70);
+}
+
+.label {
+  color:blue;
+}
+
+.white{
+  background-color: white
+}
+
+.banner{
+  background: url("../images/marquee blue.png") top / contain no-repeat;
+  width: 260px;
+  height: 130px;
+  position: absolute;
+  z-index: 1;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right:0;
+}
+
+header{
+  margin: 0;
+  background: url("../images/filmBorder.jpg") repeat top / contain ;
+  height: 100px;
+  top: 0;
+
+}
+
+footer{
+  background: url("../images/filmBorder.jpg") bottom / 100% 100%;
+  bottom: 6px;
+  padding: 45px;
+}
+
+.calmBGColor {
+  background-color: #e6e4d8;
+}
+
+.box {
+  background-color: #e6e4d8;
+  border-radius: 4px 18px;
+  margin: 5px;
+  padding: 3px;
+  border: 1px solid #333D31;
+}
+.short{ width: 25%; text-align: center}
+
+.movieCard {
+  min-width: 150px;
+  max-width: 250px;
+  display:inline-block;
+}
+
+.after-box {
+  clear: left;
+  border: 1px solid black
+}
+
+.Comedy      { background: url('../images/genres.jpg')  -0px  0; }
+.Drama       { background: url('../images/genres.jpg') -30px  0; }
+.Thriller    { background: url('../images/genres.jpg') -60px  0; }
+.Crime       { background: url('../images/genres.jpg') -60px  0; }
+.Sport       { background: url('../images/genres.jpg') -90px  0; }
+
+.Animation   { background: url('../images/genres.jpg')  -0px  -30px; }
+.Action      { background: url('../images/genres.jpg') -30px  -30px; }
+.Romance     { background: url('../images/genres.jpg') -60px  -30px; }
+.Documentary { background: url('../images/genres.jpg') -90px  -30px; }
+.Biography   { background: url('../images/genres.jpg') -90px  -30px; }
+
+.Sci-Fi      { background: url('../images/genres.jpg')  -0px  -60px; }
+.Horror      { background: url('../images/genres.jpg') -30px  -60px; }
+.Western     { background: url('../images/genres.jpg') -60px  -60px; }
+.War         { background: url('../images/genres.jpg') -90px  -60px; }
+
+.Mystery     { background: url('../images/genres.jpg')  -0px  -90px; }
+.Fantasy     { background: url('../images/genres.jpg') -30px  -90px; }
+.Musical     { background: url('../images/genres.jpg') -60px  -90px; }
+.Music       { background: url('../images/genres.jpg') -60px  -90px; }
+.History     { background: url('../images/genres.jpg') -90px  -90px; }
+
+.Film-Noir   { background: url('../images/genres.jpg')  -0px  -120px; }
+.Adventure   { background: url('../images/genres.jpg') -30px  -120px; }
+.Short       { background: url('../images/genres.jpg') -60px  -120px; }
+.Family      { background: url('../images/genres.jpg') -90px  -120px; }
+
+.dot    {    border-radius: 8px; width: 30px; height: 30px; color:white; float: left; background-size: 150px 150px; }

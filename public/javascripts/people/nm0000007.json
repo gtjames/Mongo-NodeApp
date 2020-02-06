@@ -1,0 +1,1766 @@
+{
+  "data": {
+    "names": [
+      {
+        "dateOfBirth": "25 December 1899",
+        "placeOfBirth": " New York City, New York, USA",
+        "birthName": "Humphrey DeForest Bogart",
+        "height": "5' 8\" (1.73 m)",
+        "bio": "Humphrey DeForest Bogart was born in New York City, New York, to Maud Humphrey, a famed magazine illustrator and suffragette, and Belmont DeForest Bogart, a moderately wealthy surgeon (who was secretly addicted to opium). Bogart was educated at Trinity School, NYC, and was sent to Phillips Academy in Andover, Massachusetts, in preparation for medical studies at Yale. He was expelled from Phillips and joined the U.S. Naval Reserve. From 1920 to 1922, he managed a stage company owned by family friend William A. Brady (the father of actress Alice Brady), performing a variety of tasks at Brady's film studio in New York. He then began regular stage performances. Alexander Woollcott described his acting in a 1922 play as inadequate. In 1930, he gained a contract with Fox, his feature film debut in a ten-minute short, Broadway's Like That (1930), co-starring Ruth Etting and Joan Blondell. Fox released him after two years. After five years of stage and minor film roles, he had his breakthrough role in The Petrified Forest (1936) from Warner Bros. He won the part over Edward G. Robinson only after the star, Leslie Howard, threatened Warner Bros. that he would quit unless Bogart was given the key role of Duke Mantee, which he had played in the Broadway production with Howard. The film was a major success and led to a long-term contract with Warner Bros. From 1936 to 1940, Bogart appeared in 28 films, usually as a gangster, twice in Westerns and even a horror film. His landmark year was 1941 (often capitalizing on parts George Raft had stupidly rejected) with roles in classics such as High Sierra (1941) and as Sam Spade in one of his most fondly remembered films, The Maltese Falcon (1941). These were followed by Casablanca (1942), The Big Sleep (1946), and Key Largo (1948). Bogart, despite his erratic education, was incredibly well-read and he favored writers and intellectuals within his small circle of friends. In 1947, he joined wife Lauren Bacall and other actors protesting the House Un-American Activities Committee witch hunts. He also formed his own production company, and the next year made The Treasure of the Sierra Madre (1948). Bogie won the best actor Academy Award for The African Queen (1951) and was nominated for Casablanca (1942) and as Captain Queeg in The Caine Mutiny (1954), a film made when he was already seriously ill. He died in his sleep at his Hollywood home following surgeries and a battle with throat cancer.",
+        "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyOTE3MDM5Ml5BMl5BanBnXkFtZTYwMzA2MTM2._V1.jpg",
+        "urlIMDB": "http://www.imdb.com/name/nm0000007",
+        "name": "Humphrey Bogart",
+        "nicknames": [
+          "Bogie"
+        ],
+        "idIMDB": "nm0000007",
+        "filmographies": [
+          {
+            "section": "Actor",
+            "filmography": [
+              {
+                "title": "The Harder They Fall",
+                "year": " 1956",
+                "remarks": null,
+                "imdbid": "tt0049291"
+              },
+              {
+                "title": "The Desperate Hours",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0047985"
+              },
+              {
+                "title": "The Left Hand of God",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048291"
+              },
+              {
+                "title": "We're No Angels",
+                "year": " 1955",
+                "remarks": null,
+                "imdbid": "tt0048801"
+              },
+              {
+                "title": "Producers' Showcase",
+                "year": " 1955",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0046637"
+              },
+              {
+                "title": "La comtesse aux pieds nus",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0046754"
+              },
+              {
+                "title": "Sabrina",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0047437"
+              },
+              {
+                "title": "The Caine Mutiny",
+                "year": " 1954",
+                "remarks": null,
+                "imdbid": "tt0046816"
+              },
+              {
+                "title": "Beat the Devil",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0046414"
+              },
+              {
+                "title": "The Jack Benny Program",
+                "year": " 1953",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0042116"
+              },
+              {
+                "title": "Battle Circus",
+                "year": " 1953",
+                "remarks": null,
+                "imdbid": "tt0045544"
+              },
+              {
+                "title": "Deadline - U.S.A.",
+                "year": " 1952",
+                "remarks": null,
+                "imdbid": "tt0044533"
+              },
+              {
+                "title": "The African Queen",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0043265"
+              },
+              {
+                "title": "Sirocco",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0044040"
+              },
+              {
+                "title": "The Enforcer",
+                "year": " 1951",
+                "remarks": null,
+                "imdbid": "tt0043503"
+              },
+              {
+                "title": "In a Lonely Place",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0042593"
+              },
+              {
+                "title": "Chain Lightning",
+                "year": " 1950",
+                "remarks": null,
+                "imdbid": "tt0042324"
+              },
+              {
+                "title": "Tokyo Joe",
+                "year": " 1949",
+                "remarks": null,
+                "imdbid": "tt0041967"
+              },
+              {
+                "title": "Knock on Any Door",
+                "year": " 1949",
+                "remarks": null,
+                "imdbid": "tt0041555"
+              },
+              {
+                "title": "Key Largo",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040506"
+              },
+              {
+                "title": "The Treasure of the Sierra Madre",
+                "year": " 1948",
+                "remarks": null,
+                "imdbid": "tt0040897"
+              },
+              {
+                "title": "Always Together",
+                "year": " 1947",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0040089"
+              },
+              {
+                "title": "Dark Passage",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039302"
+              },
+              {
+                "title": "The Two Mrs. Carrolls",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039926"
+              },
+              {
+                "title": "Dead Reckoning",
+                "year": " 1947",
+                "remarks": null,
+                "imdbid": "tt0039305"
+              },
+              {
+                "title": "Never Say Goodbye",
+                "year": " 1946",
+                "remarks": [
+                  "Phil's Bogart impression (voice)"
+                ],
+                "imdbid": "tt0038773"
+              },
+              {
+                "title": "The Big Sleep",
+                "year": " 1946",
+                "remarks": null,
+                "imdbid": "tt0038355"
+              },
+              {
+                "title": "Two Guys from Milwaukee",
+                "year": " 1946",
+                "remarks": [
+                  "Humphrey Bogart (uncredited)"
+                ],
+                "imdbid": "tt0039053"
+              },
+              {
+                "title": "Hollywood Victory Caravan",
+                "year": " 1945",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt0219795"
+              },
+              {
+                "title": "Conflict",
+                "year": " 1945",
+                "remarks": null,
+                "imdbid": "tt0037611"
+              },
+              {
+                "title": "I Am an American",
+                "year": " 1944",
+                "remarks": [
+                  "(Short)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0198551"
+              },
+              {
+                "title": "To Have and Have Not",
+                "year": " 1944",
+                "remarks": null,
+                "imdbid": "tt0037382"
+              },
+              {
+                "title": "Passage to Marseille",
+                "year": " 1944",
+                "remarks": null,
+                "imdbid": "tt0037166"
+              },
+              {
+                "title": "Thank Your Lucky Stars",
+                "year": " 1943",
+                "remarks": null,
+                "imdbid": "tt0036422"
+              },
+              {
+                "title": "Sahara",
+                "year": " 1943/I",
+                "remarks": null,
+                "imdbid": "tt0036323"
+              },
+              {
+                "title": "Action in the North Atlantic",
+                "year": " 1943",
+                "remarks": null,
+                "imdbid": "tt0035608"
+              },
+              {
+                "title": "Casablanca",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034583"
+              },
+              {
+                "title": "Across the Pacific",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034428"
+              },
+              {
+                "title": "The Big Shot",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034513"
+              },
+              {
+                "title": "All Through the Night",
+                "year": " 1942",
+                "remarks": null,
+                "imdbid": "tt0034449"
+              },
+              {
+                "title": "The Maltese Falcon",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0033870"
+              },
+              {
+                "title": "The Wagons Roll at Night",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0034370"
+              },
+              {
+                "title": "High Sierra",
+                "year": " 1941",
+                "remarks": null,
+                "imdbid": "tt0033717"
+              },
+              {
+                "title": "They Drive by Night",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0033149"
+              },
+              {
+                "title": "Brother Orchid",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0032285"
+              },
+              {
+                "title": "It All Came True",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0032643"
+              },
+              {
+                "title": "Virginia City",
+                "year": " 1940",
+                "remarks": null,
+                "imdbid": "tt0033226"
+              },
+              {
+                "title": "Invisible Stripes",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0032636"
+              },
+              {
+                "title": "The Return of Doctor X",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031851"
+              },
+              {
+                "title": "The Roaring Twenties",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031867"
+              },
+              {
+                "title": "Dark Victory",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031210"
+              },
+              {
+                "title": "You Can't Get Away with Murder",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0032153"
+              },
+              {
+                "title": "The Oklahoma Kid",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031747"
+              },
+              {
+                "title": "King of the Underworld",
+                "year": " 1939",
+                "remarks": null,
+                "imdbid": "tt0031536"
+              },
+              {
+                "title": "Swingtime in the Movies",
+                "year": " 1938",
+                "remarks": [
+                  "(Short)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0030823"
+              },
+              {
+                "title": "Angels with Dirty Faces",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0029870"
+              },
+              {
+                "title": "The Amazing Dr. Clitterhouse",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0029864"
+              },
+              {
+                "title": "Racket Busters",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0030650"
+              },
+              {
+                "title": "Men Are Such Fools",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0030433"
+              },
+              {
+                "title": "Crime School",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0030026"
+              },
+              {
+                "title": "Swing Your Lady",
+                "year": " 1938",
+                "remarks": null,
+                "imdbid": "tt0030820"
+              },
+              {
+                "title": "Stand-In",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029605"
+              },
+              {
+                "title": "Dead End",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0028773"
+              },
+              {
+                "title": "Kid Galahad",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029080"
+              },
+              {
+                "title": "San Quentin",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029511"
+              },
+              {
+                "title": "Marked Woman",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0029217"
+              },
+              {
+                "title": "The Great O'Malley",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0028955"
+              },
+              {
+                "title": "Black Legion",
+                "year": " 1937",
+                "remarks": null,
+                "imdbid": "tt0027367"
+              },
+              {
+                "title": "Isle of Fury",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027805"
+              },
+              {
+                "title": "China Clipper",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027445"
+              },
+              {
+                "title": "Two Against the World",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0028426"
+              },
+              {
+                "title": "Bullets or Ballots",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0027407"
+              },
+              {
+                "title": "The Petrified Forest",
+                "year": " 1936",
+                "remarks": null,
+                "imdbid": "tt0028096"
+              },
+              {
+                "title": "Midnight",
+                "year": " 1934",
+                "remarks": null,
+                "imdbid": "tt0025499"
+              },
+              {
+                "title": "Three on a Match",
+                "year": " 1932",
+                "remarks": null,
+                "imdbid": "tt0023590"
+              },
+              {
+                "title": "Big City Blues",
+                "year": " 1932",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0022676"
+              },
+              {
+                "title": "Love Affair",
+                "year": " 1932",
+                "remarks": null,
+                "imdbid": "tt0023153"
+              },
+              {
+                "title": "A Holy Terror",
+                "year": " 1931",
+                "remarks": null,
+                "imdbid": "tt0021966"
+              },
+              {
+                "title": "Women of All Nations",
+                "year": " 1931",
+                "remarks": [
+                  "Stone (scenes deleted)"
+                ],
+                "imdbid": "tt0022576"
+              },
+              {
+                "title": "The Bad Sister",
+                "year": " 1931",
+                "remarks": null,
+                "imdbid": "tt0021636"
+              },
+              {
+                "title": "Body and Soul",
+                "year": " 1931",
+                "remarks": null,
+                "imdbid": "tt0021680"
+              },
+              {
+                "title": "A Devil with Women",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt0020822"
+              },
+              {
+                "title": "Up the River",
+                "year": " 1930",
+                "remarks": null,
+                "imdbid": "tt0021508"
+              },
+              {
+                "title": "Broadway's Like That",
+                "year": " 1930",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt0020714"
+              },
+              {
+                "title": "The Dancing Town",
+                "year": " 1928",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt0018811"
+              }
+            ]
+          },
+          {
+            "section": "Soundtrack",
+            "filmography": [
+              {
+                "title": "The Left Hand of God",
+                "year": " 1955",
+                "remarks": [
+                  "(performer: \"A LOAF OF BREAD\")"
+                ],
+                "imdbid": "tt0048291"
+              },
+              {
+                "title": "We're No Angels",
+                "year": " 1955",
+                "remarks": [
+                  "(performer: \"Three Angels\" - uncredited)"
+                ],
+                "imdbid": "tt0048801"
+              },
+              {
+                "title": "Sabrina",
+                "year": " 1954",
+                "remarks": [
+                  "(performer: \"Boola Boola\" - uncredited)"
+                ],
+                "imdbid": "tt0047437"
+              },
+              {
+                "title": "The Jack Benny Program",
+                "year": " 1953",
+                "remarks": [
+                  "(TV Series)",
+                  "(performer - 1 episode)"
+                ],
+                "imdbid": "tt0042116"
+              },
+              {
+                "title": "The African Queen",
+                "year": " 1951",
+                "remarks": [
+                  "(performer: \"Bold Fisherman\" - uncredited)"
+                ],
+                "imdbid": "tt0043265"
+              },
+              {
+                "title": "It All Came True",
+                "year": " 1940",
+                "remarks": [
+                  "(performer: \"The Fountain in the Park\" (1884)",
+                  "- uncredited)"
+                ],
+                "imdbid": "tt0032643"
+              },
+              {
+                "title": "Black Legion",
+                "year": " 1937",
+                "remarks": [
+                  "(\"The Lady in Red\" (1935)",
+                  ", uncredited)",
+                  "/ (performer: \"I've Been Working on the Railroad\" - uncredited)"
+                ],
+                "imdbid": "tt0027367"
+              }
+            ]
+          },
+          {
+            "section": "Producer",
+            "filmography": [
+              {
+                "title": "Beat the Devil",
+                "year": " 1953",
+                "remarks": [
+                  "(producer - uncredited)"
+                ],
+                "imdbid": "tt0046414"
+              }
+            ]
+          },
+          {
+            "section": "Miscellaneous Crew",
+            "filmography": [
+              {
+                "title": "The Man Who Came Back",
+                "year": " 1931",
+                "remarks": [
+                  "(voice coach: Charles Farrell - uncredited)"
+                ],
+                "imdbid": "tt0022114"
+              }
+            ]
+          },
+          {
+            "section": "Thanks",
+            "filmography": [
+              {
+                "title": "Frankenpimp's Revenge: The Romeo and Juliet Massacre",
+                "year": " ",
+                "remarks": [
+                  "(special thanks)"
+                ],
+                "imdbid": "tt1590031"
+              }
+            ]
+          },
+          {
+            "section": "Self",
+            "filmography": [
+              {
+                "title": "The 27th Annual Academy Awards",
+                "year": " 1955",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt0338682"
+              },
+              {
+                "title": "Person to Person",
+                "year": " 1954",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0045431"
+              },
+              {
+                "title": "The Love Lottery",
+                "year": " 1954",
+                "remarks": [
+                  "Himself: Cameo Appearance (uncredited)"
+                ],
+                "imdbid": "tt0046013"
+              },
+              {
+                "title": "The Jackie Gleason Show",
+                "year": " 1953",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0044272"
+              },
+              {
+                "title": "The Ed Sullivan Show",
+                "year": " 1951-1953",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0040053"
+              },
+              {
+                "title": "U.S. Savings Bonds Trailer",
+                "year": " 1952",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt0287064"
+              },
+              {
+                "title": "Olympic Fund Telethon",
+                "year": " 1952",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt3471526"
+              },
+              {
+                "title": "The Actor's Society Benefit Gala",
+                "year": " 1949",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt2387585"
+              },
+              {
+                "title": "Blow Ups of 1947",
+                "year": " 1947",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt5992306"
+              },
+              {
+                "title": "Report from the Front",
+                "year": " 1944",
+                "remarks": [
+                  "(Short documentary)"
+                ],
+                "imdbid": "tt0313522"
+              },
+              {
+                "title": "Breakdowns of 1942",
+                "year": " 1942",
+                "remarks": [
+                  "(Short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt3701368"
+              },
+              {
+                "title": "For Auld Lang Syne",
+                "year": " 1938",
+                "remarks": [
+                  "(Documentary short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0317520"
+              },
+              {
+                "title": "Breakdowns of 1938",
+                "year": " 1938",
+                "remarks": [
+                  "(Documentary short)",
+                  "Turkey Morgan / Ed Hatch (Swing Your Lady / Kid Galahad outtakes)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0385569"
+              },
+              {
+                "title": "Breakdowns of 1937",
+                "year": " 1937",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt2945790"
+              },
+              {
+                "title": "Breakdowns of 1936",
+                "year": " 1936",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt2742326"
+              }
+            ]
+          },
+          {
+            "section": "Archive footage",
+            "filmography": [
+              {
+                "title": "Trumbo",
+                "year": " 2015",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt3203606"
+              },
+              {
+                "title": "Les couples mythiques du cinéma",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt4682398"
+              },
+              {
+                "title": "Sinatra: All or Nothing at All",
+                "year": " 2015",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt3838978"
+              },
+              {
+                "title": "Welcome to the Basement",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt4416750"
+              },
+              {
+                "title": "Les amitiés invisibles",
+                "year": " 2014",
+                "remarks": [
+                  "Ed Hutcheson (uncredited)"
+                ],
+                "imdbid": "tt3341718"
+              },
+              {
+                "title": "Pioneers of Television",
+                "year": " 2014",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0964941"
+              },
+              {
+                "title": "Hollywood Rebellen",
+                "year": " 2013",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt3246948"
+              },
+              {
+                "title": "Cinéphiles de notre temps",
+                "year": " 2012",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt2418204"
+              },
+              {
+                "title": "Ruby Sparks",
+                "year": " 2012",
+                "remarks": [
+                  "Linus Larrabee in Sabrina (uncredited)"
+                ],
+                "imdbid": "tt1839492"
+              },
+              {
+                "title": "Reagan",
+                "year": " 2011",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1822382"
+              },
+              {
+                "title": "American Experience",
+                "year": " 2011",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0094416"
+              },
+              {
+                "title": "Chess History",
+                "year": " 2011",
+                "remarks": [
+                  "(Video documentary short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt6202962"
+              },
+              {
+                "title": "Moguls & Movie Stars: A History of Hollywood",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt1759310"
+              },
+              {
+                "title": "Embracing Chaos: Making the African Queen",
+                "year": " 2010",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt1753774"
+              },
+              {
+                "title": "Cameraman: The Life and Work of Jack Cardiff",
+                "year": " 2010",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1626811"
+              },
+              {
+                "title": "BBC Inside Out Yorkshire and Lincolnshire",
+                "year": " 2010",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt1578603"
+              },
+              {
+                "title": "Dome Project",
+                "year": " 2010",
+                "remarks": [
+                  "(Video short)"
+                ],
+                "imdbid": "tt1724548"
+              },
+              {
+                "title": "Smash His Camera",
+                "year": " 2010",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1280015"
+              },
+              {
+                "title": "Johnny Mercer: The Dream's on Me",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1543216"
+              },
+              {
+                "title": "Hollywood on the Tiber",
+                "year": " 2009",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1484991"
+              },
+              {
+                "title": "1939: Hollywood's Greatest Year",
+                "year": " 2009",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1454902"
+              },
+              {
+                "title": "Warner at War",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1323555"
+              },
+              {
+                "title": "Public Enemies: The Golden Age of the Gangster Film",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1323535"
+              },
+              {
+                "title": "Hollywood contra Franco",
+                "year": " 2008",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt1314772"
+              },
+              {
+                "title": "The O'Reilly Factor",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0284767"
+              },
+              {
+                "title": "American Masters",
+                "year": " 2008",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0364151"
+              },
+              {
+                "title": "Spisok korabley",
+                "year": " 2008",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt2034782"
+              },
+              {
+                "title": "I.O.U.S.A.",
+                "year": " 2008",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0963807"
+              },
+              {
+                "title": "Paris Hilton Inc.: The Selling of Celebrity",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1990302"
+              },
+              {
+                "title": "Trumbo",
+                "year": " 2007",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0889671"
+              },
+              {
+                "title": "On the Lot",
+                "year": " 2007",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0790557"
+              },
+              {
+                "title": "La rentadora",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0874656"
+              },
+              {
+                "title": "Headline News",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0256555"
+              },
+              {
+                "title": "Billy Wilder Speaks",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0823715"
+              },
+              {
+                "title": "¿De qué te ríes?",
+                "year": " 2006",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0812410"
+              },
+              {
+                "title": "Boffo! Tinseltown's Bombs and Blockbusters",
+                "year": " 2006",
+                "remarks": [
+                  "(Documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0805497"
+              },
+              {
+                "title": "Bullets Over Hollywood",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0490824"
+              },
+              {
+                "title": "Private Screenings",
+                "year": " 2005",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0287263"
+              },
+              {
+                "title": "Filmmakers vs. Tycoons",
+                "year": " 2005",
+                "remarks": [
+                  "(Documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0480892"
+              },
+              {
+                "title": "Behind the Tunes: Looney Tunes Go Hollywood",
+                "year": " 2004",
+                "remarks": [
+                  "(Video documentary short)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0456848"
+              },
+              {
+                "title": "Imaginary Witness: Hollywood and the Holocaust",
+                "year": " 2004",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0379158"
+              },
+              {
+                "title": "As Time Goes By: The Children Remember",
+                "year": " 2003",
+                "remarks": [
+                  "(Video documentary short)"
+                ],
+                "imdbid": "tt0387104"
+              },
+              {
+                "title": "Biography",
+                "year": " 1994-2003",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0092322"
+              },
+              {
+                "title": "Humphrey Bogart and John Huston",
+                "year": " 2003",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0372337"
+              },
+              {
+                "title": "Pulp Cinema",
+                "year": " 2001",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0339541"
+              },
+              {
+                "title": "Marilyn Monroe: The Final Days",
+                "year": " 2001",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0286809"
+              },
+              {
+                "title": "The Audrey Hepburn Story",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt0163887"
+              },
+              {
+                "title": "Devil's Island",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1780815"
+              },
+              {
+                "title": "Humphrey Bogart and Lauren Bacall",
+                "year": " 2000",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt0336607"
+              },
+              {
+                "title": "ABC 2000: The Millennium",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0403832"
+              },
+              {
+                "title": "The Best of Film Noir",
+                "year": " 1999",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0222809"
+              },
+              {
+                "title": "The Rat Pack",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0348991"
+              },
+              {
+                "title": "The 71st Annual Academy Awards",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Special)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0266221"
+              },
+              {
+                "title": "Film Breaks",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt5496300"
+              },
+              {
+                "title": "Humphrey Bogart on Film",
+                "year": " 1999",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0230314"
+              },
+              {
+                "title": "The 20th Century: A Moving Visual History",
+                "year": " 1999",
+                "remarks": [
+                  "(TV Mini-Series documentary)"
+                ],
+                "imdbid": "tt0462073"
+              },
+              {
+                "title": "The Man Who Had Everything",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0266745"
+              },
+              {
+                "title": "Warner Bros. 75th Anniversary: No Guts, No Glory",
+                "year": " 1998",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0310339"
+              },
+              {
+                "title": "The Fifties",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Mini-Series documentary)",
+                  "Himself (concerned about HUAC)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0132654"
+              },
+              {
+                "title": "The Silver Screen: Color Me Lavender",
+                "year": " 1997",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0152444"
+              },
+              {
+                "title": "Great Romances of the 20th Century: Humphrey Bogart & Lauren Bacall",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt1305799"
+              },
+              {
+                "title": "Off the Menu: The Last Days of Chasen's",
+                "year": " 1997",
+                "remarks": [
+                  "(Documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0158831"
+              },
+              {
+                "title": "Sports on the Silver Screen",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0331655"
+              },
+              {
+                "title": "Humphrey Bogart: You Must Remember This...",
+                "year": " 1997",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0352417"
+              },
+              {
+                "title": "Bob Hope: Hollywood's Brightest Star",
+                "year": " 1996",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0235240"
+              },
+              {
+                "title": "Bogart: The Untold Story",
+                "year": " 1996",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1538465"
+              },
+              {
+                "title": "Legends of Entertainment Video",
+                "year": " 1995",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0276277"
+              },
+              {
+                "title": "Kelsey Grammer Salutes Jack Benny",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0123938"
+              },
+              {
+                "title": "A Personal Journey with Martin Scorsese Through American Movies",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0112120"
+              },
+              {
+                "title": "Tales from the Crypt",
+                "year": " 1995",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0096708"
+              },
+              {
+                "title": "100 Years at the Movies",
+                "year": " 1994",
+                "remarks": [
+                  "(TV Short documentary)"
+                ],
+                "imdbid": "tt0179624"
+              },
+              {
+                "title": "Northern Exposure",
+                "year": " 1994",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0098878"
+              },
+              {
+                "title": "Humphrey Bogart: Behind the Legend",
+                "year": " 1994",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0124749"
+              },
+              {
+                "title": "One on One: Classic Television Interviews",
+                "year": " 1993",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0323504"
+              },
+              {
+                "title": "Katharine Hepburn: All About Me",
+                "year": " 1993",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0104597"
+              },
+              {
+                "title": "Anglia at War",
+                "year": " 1992",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt5057472"
+              },
+              {
+                "title": "Here's Looking at You, Warner Bros.",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0102027"
+              },
+              {
+                "title": "Muppet Babies",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0086764"
+              },
+              {
+                "title": "Barbara Stanwyck: Fire and Desire",
+                "year": " 1991",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0101408"
+              },
+              {
+                "title": "Death in Hollywood",
+                "year": " 1990",
+                "remarks": [
+                  "(Video documentary)"
+                ],
+                "imdbid": "tt0356514"
+              },
+              {
+                "title": "Murphy Brown",
+                "year": " 1989",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0094514"
+              },
+              {
+                "title": "Going Hollywood: The War Years",
+                "year": " 1988",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0095232"
+              },
+              {
+                "title": "Entertaining the Troops",
+                "year": " 1988",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0097282"
+              },
+              {
+                "title": "Happy Birthday, Bob: 50 Stars Salute Your 50 Years with NBC",
+                "year": " 1988",
+                "remarks": [
+                  "(TV Special)"
+                ],
+                "imdbid": "tt2092434"
+              },
+              {
+                "title": "Great Performances",
+                "year": " 1988",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0159876"
+              },
+              {
+                "title": "John Huston: The Man, the Movies, the Maverick",
+                "year": " 1988",
+                "remarks": [
+                  "(Documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0095408"
+              },
+              {
+                "title": "Going Hollywood: The '30s",
+                "year": " 1984",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0322431"
+              },
+              {
+                "title": "Arena",
+                "year": " 1983",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0199184"
+              },
+              {
+                "title": "Hollywood Out-takes and Rare Footage",
+                "year": " 1983",
+                "remarks": [
+                  "(Documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0087419"
+              },
+              {
+                "title": "Showbiz Goes to War",
+                "year": " 1982",
+                "remarks": [
+                  "(TV Movie)"
+                ],
+                "imdbid": "tt1570368"
+              },
+              {
+                "title": "Dead Men Don't Wear Plaid",
+                "year": " 1982",
+                "remarks": null,
+                "imdbid": "tt0083798"
+              },
+              {
+                "title": "James Cagney: That Yankee Doodle Dandy",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0081880"
+              },
+              {
+                "title": "Starring Katharine Hepburn",
+                "year": " 1981",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0083123"
+              },
+              {
+                "title": "Bob Hope's Overseas Christmas Tours: Around the World with the Troops - 1941-1972",
+                "year": " 1980",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0331439"
+              },
+              {
+                "title": "Hollywood Greats",
+                "year": " 1977",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0261475"
+              },
+              {
+                "title": "All This and World War II",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0132679"
+              },
+              {
+                "title": "America at the Movies",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0197229"
+              },
+              {
+                "title": "Hollywood on Trial",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0074635"
+              },
+              {
+                "title": "It's Showtime",
+                "year": " 1976",
+                "remarks": [
+                  "(Documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0074699"
+              },
+              {
+                "title": "Hooray for Hollywood",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0073122"
+              },
+              {
+                "title": "Brother Can You Spare a Dime",
+                "year": " 1975",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0072742"
+              },
+              {
+                "title": "The Men Who Made the Movies: Howard Hawks",
+                "year": " 1973",
+                "remarks": [
+                  "(TV Movie documentary)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0070199"
+              },
+              {
+                "title": "Play It Again, Sam",
+                "year": " 1972",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0069097"
+              },
+              {
+                "title": "Tribute to Bogart",
+                "year": " 1972",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt1307012"
+              },
+              {
+                "title": "Omnibus",
+                "year": " 1971",
+                "remarks": [
+                  "(TV Series documentary)"
+                ],
+                "imdbid": "tt0200358"
+              },
+              {
+                "title": "Dynamite Chicken",
+                "year": " 1971",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0067030"
+              },
+              {
+                "title": "The Happy Ending",
+                "year": " 1969",
+                "remarks": [
+                  "Himself - actor in 'Casablanca' (uncredited)"
+                ],
+                "imdbid": "tt0064405"
+              },
+              {
+                "title": "First to Fight",
+                "year": " 1967",
+                "remarks": [
+                  "Himself - actor in clip from 'Casablanca' (uncredited)"
+                ],
+                "imdbid": "tt0061667"
+              },
+              {
+                "title": "Inside Daisy Clover",
+                "year": " 1965",
+                "remarks": [
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0059314"
+              },
+              {
+                "title": "Hollywood and the Stars",
+                "year": " 1963",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0056765"
+              },
+              {
+                "title": "Hollywood Without Make-Up",
+                "year": " 1963",
+                "remarks": [
+                  "(Documentary)"
+                ],
+                "imdbid": "tt0407874"
+              },
+              {
+                "title": "Hollywood: The Fabulous Era",
+                "year": " 1962",
+                "remarks": [
+                  "(TV Movie documentary)"
+                ],
+                "imdbid": "tt0853118"
+              },
+              {
+                "title": "The Ed Sullivan Show",
+                "year": " 1955-1956",
+                "remarks": [
+                  "(TV Series)"
+                ],
+                "imdbid": "tt0040053"
+              },
+              {
+                "title": "Road to Bali",
+                "year": " 1952",
+                "remarks": [
+                  "(uncredited)"
+                ],
+                "imdbid": "tt0045094"
+              },
+              {
+                "title": "The Hollywood Ten",
+                "year": " 1950",
+                "remarks": [
+                  "(Documentary short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt0172563"
+              },
+              {
+                "title": "Screen Snapshots: Photoplay Gold Medal Awards",
+                "year": " 1948",
+                "remarks": [
+                  "(Short)"
+                ],
+                "imdbid": "tt1142866"
+              },
+              {
+                "title": "Oklahoma Outlaws",
+                "year": " 1943",
+                "remarks": [
+                  "(Short)",
+                  "McCord (uncredited)"
+                ],
+                "imdbid": "tt0036229"
+              },
+              {
+                "title": "Breakdowns of 1941",
+                "year": " 1941",
+                "remarks": [
+                  "(Short)",
+                  "Himself (uncredited)"
+                ],
+                "imdbid": "tt1251722"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "version": "2.26.6",
+    "serverTime": "2017/01/14 22:01:22"
+  }
+}

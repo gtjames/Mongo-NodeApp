@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  script
+    | document.body.style.background = "url('#{actor.urlPhoto}')  left top / contain repeat fixed ";
+
+  form(action="/actors/updated" method="POST")
+    table.white
+      tr
+        td.label Actor ID:
+        td= actor._id
+          input(type="hidden"                             name="_id"          value="#{actor._id}")
+      tr
+        td.label Name:
+        td: input(type="text" placeholder="Name"          name="name"         value="#{actor.name}")
+      tr
+        td.label Release Year:
+        td: input(type="text" placeholder="DOB"           name="dateOfBirth"  value="#{actor.dateOfBirth}")
+      tr
+        td.label Bio:
+        td: textarea(rows="5" cols="80"                   name="bio" )               #{actor.bio}
+      tr
+        td: button(type="submit") Update Actor
+      tr
+        td
+          a(href='/actors/' + actor._id)
+            .button Back to '#{actor.name}'
