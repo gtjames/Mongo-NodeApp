@@ -24,7 +24,7 @@ router.get('/:mode/dest/:file', function ( req, res) {
 	{
 		case    'download'  :           //  http://localhost:3000/secret/download/dest/user
 										//  assumes the application root
-			res.download('public/primes.txt', function(err){
+			res.download('public/data/primes.txt', function(err){
 				if (err) {
 					console.log(err);
 					console.log(req.params.file);
@@ -42,23 +42,14 @@ router.get('/:mode/dest/:file', function ( req, res) {
 
 		case    'json'  :               //  http://localhost:3000/secret/json/file/z
 										//  assumes the current directory, hence the ..
-			let casablanca = require('../public/Casablanca.json');
+			let casablanca = require('public/data/Casablanca.json');
 			res.json(casablanca);
 			break;
 
 		case    'sendFile'  :           //  http://localhost:3000/secret/sendFile/dest/users
 										//  doesn't assume anything, the full pathname is required
-			res.sendFile('C:/Projects/FirstNodeApp/public/Casablanca.json');
+			let cwd = process.cwd();
+			res.sendFile(cwd + '/public/data/Casablanca.json');
 			break;
 	}
-
-	// router.get('/resume', function(req, res, next){
-	// 	res.sendFile(path.resolve(__dirname+'/../public/resumes/'+req.query.id+'.txt'));
-	// });
-	//
-	// router.get('/schedule', function(req, res, next){
-	// 	res.download(__dirname+'/../public/schedules/'+req.query.id+".txt");
-	// });
-
-
 });

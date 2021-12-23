@@ -29,9 +29,9 @@ router.init = function(db) {
  *          We have 100,000 but we will limit the return to 20
  */
 router.get('/', function(req, res) {
-	moviesCol.find({}).limit(20).toArray(function(err, movies) {
-		res.render('movies', {'movies':movies, 'title':'Every Movie Ever Made'});
-	});
+	moviesCol.find({}).limit(20).toArray((err, movies) =>
+		res.render('movies', {'movies':movies, 'title':'Every Movie Ever Made'})
+	);
 });
 
 /**
@@ -39,9 +39,7 @@ router.get('/', function(req, res) {
  *          Nothing much to do here
  *          Just render an empty movie page
  */
-router.get('/create', function(req, res) {
-	res.render('createMovie');
-});
+router.get('/create', (req, res) => res.render('createMovie') );
 
 /**
  *
@@ -50,11 +48,9 @@ router.get('/create', function(req, res) {
  *          Create a Movie object and save to the movies collection
  *
  **/
-router.post('/createMovie', function(req, res) {
-	let movie = new Movie(req.body._id, req.body.title, req.body.year, req.body.simplePlot);
-	moviesCol.insert(movie, function(error,result){
-		res.redirect( '/movies');
-	});
+router.post('/createMovie', (req, res) => {
+	let movie = new Movie(req.body.id, req.body.title, req.body.year, req.body.simplePlot);
+	moviesCol.insert(movie, (error,result) => res.redirect( '/movies') );
 });
 
 /**
@@ -83,6 +79,10 @@ router.get('/genre/:genre/:skip/:limit', function(req, res) {
 	});
 });
 
+router.get('/map', function(req, res) {
+	res.render('map', {lat: -97, long: 32});
+});
+
 /**
  *      Find
  *          Data comes from the search field on the top of each page
@@ -92,9 +92,9 @@ router.get('/genre/:genre/:skip/:limit', function(req, res) {
 router.post('/find', function(req, res) {
 	//  just get the top 10 matches
 	moviesCol.find( { $text: { $search: req.body.movie } } ).limit(10).toArray(function(err, movies) {
-		if (movies.length == 0) {
+		if (movies.length === 0) {
 			//  if nothing matches then at least return a 'Movies Not Found' page
-			movies.push(new Movie(req.body.movie, 'Does not match a Movie in our DB', 2018, '' ));
+			movies.push(new Movie(req.body.movie, `${req.body.movie} Does not match a Movie in our DB`, 2018, 'Try again' ));
 		}
 		res.render('movies', {'movies': movies, 'title': "Movies Matching:\n " + req.body.movie});
 	});
@@ -102,17 +102,17 @@ router.post('/find', function(req, res) {
 
 /**
  *      Details
- *          using the _id parameter read the movies collection and
+ *          using the id parameter read the movies collection and
  *          render the movie details for the selected movie
  *          We also use the movies.jade page to show our results for the details on a movie
  *              The movies.jade page is intelligent about the number of movies returned
  *              and shows more details when it has a single movie in the array
  */
-router.get('/:_id', function(req, res) {
-	moviesCol.findOne({_id: req.params._id}, function(err, result) {
-		let movie = null;
+router.get('/:id', function(req, res) {
+	moviesCol.findOne({id: req.params.id}, function(err, result) {
+		let movie;
 		if (err || !result) {
-			movie = new Movie(req.params._id, 'Does not match a movie in the DB', 2018, '' );
+			movie = new Movie(req.params.id, 'Does not match a movie in the DB', 2018, '' );
 		}
 		else {
 			movie = result;
@@ -126,7 +126,7 @@ router.get('/:_id', function(req, res) {
  * Update Movie
  *          #0  Detailed movie page is the current page
  *          #1  User clicks the 'Update' link which invokes the
- *              HTTP method for GET URL '/update/:_id' ('/movies/update/:_id') function
+ *              HTTP method for GET URL '/update/:id' ('/movies/update/:id') function
  *              the record is found and the updateMovie page is rendered
  *          #2  User makes changes and presses the 'Update' button which invokes the
  *              HTTP method POST URL '/updated/'  ('/movies/updated') function
@@ -134,11 +134,11 @@ router.get('/:_id', function(req, res) {
  *              callback is called which will send/render a message to the user
  *
  **/
-router.get('/update/:_id', function(req, res) {
-	moviesCol.findOne({_id:req.params._id}, function(err, result) {
-		let movie = null;
+router.get('/update/:id', function(req, res) {
+	moviesCol.findOne({id:req.params.id}, function(err, result) {
+		let movie;
 		if (err || !result) {
-			movie = new Movie(req.params._id, 'Does not match a movie in the DB', 2018, '' );
+			movie = new Movie(req.params.id, 'Does not match a movie in the DB', 2018, '' );
 		}
 		else {
 			movie = result;
@@ -155,7 +155,7 @@ router.get('/update/:_id', function(req, res) {
  *          The Update form has been submitted
  */
 router.post('/updated/', function(req, res) {
-	moviesCol.updateOne( { _id: req.body._id },
+	moviesCol.updateOne( { id: req.body.id },
 		{	$set: { title: req.body.title + ".", year: req.body.year },
 			$currentDate: { lastModified: true }
 		},function (err, result) {
@@ -163,7 +163,7 @@ router.post('/updated/', function(req, res) {
 				res.send({'result': 'error'});
 			} else {
 				//  The document was successfully updated
-				res.redirect('/movies/' + req.body._id);
+				res.redirect('/movies/' + req.body.id);
 			}
 		}
 	);
@@ -174,11 +174,11 @@ router.post('/updated/', function(req, res) {
  * Delete Movie Completed
  *
  **/
-router.get('/delete/:_id', function(req, res) {
-	moviesCol.findOne({_id:req.params._id}, function(err, result) {
-		let movie = null;
+router.get('/delete/:id', function(req, res) {
+	moviesCol.findOne({id:req.params.id}, function(err, result) {
+		let movie;
 		if (err) {
-			movie = new Movie(req.params._id, 'Does not match a movie in our DB', 2018, '' );
+			movie = new Movie(req.params.id, 'Does not match a movie in our DB', 2018, '' );
 		}
 		else {
 			movie = result;
@@ -188,23 +188,21 @@ router.get('/delete/:_id', function(req, res) {
 });
 
 router.post('/deleted/', function(req, res) {
-	moviesCol.findOne({_id: req.body._id}, function (err, movie) {
+	moviesCol.findOne({id: req.body.id}, function (err, movie) {
 		//  The document was found. Now we will update it
 		res.redirect( '/movies');
-		moviesCol.deleteOne( { _id: req.body._id });
+		moviesCol.deleteOne( { id: req.body.id });
 		movie.deleteDate = new Date();
 		delMoviesCol.insert(movie);
 	});
 });
 
-let Movie = function(_id, title, year, simplePlot) {
-	this._id = _id;
-	this.idIMDB = _id;
+let Movie = function(id, title, year, simplePlot) {
+	this.id = id;
 	this.title = title;
-	this.urlPoster = '';
-	this.urlIMDB = '';
+	this.image = '../images/genres.jpg';
 	this.year = year;
 	this.simplePlot = simplePlot;
-	this.actors = [];
+	this.actorList = [];
 	this.genres = [];
 };

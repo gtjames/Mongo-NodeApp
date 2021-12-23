@@ -23,7 +23,8 @@
             "genres": ["Drama", "Romance", "War"],
             "plot": "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.",
             "simplePlot": "In Casablanca in December 1941, a cynical American expatriate encounters a former lover, with unforeseen complications.",
-            "actors": [{
+            "actors": [
+                {
                 "actorName": "Humphrey Bogart",
                 "urlProfile": "http://www.imdb.com/name/nm0000007",
                 "urlPhoto": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTIyOTE3MDM5Ml5BMl5BanBnXkFtZTYwMzA2MTM2._V1_UY44_CR1,0,32,44_AL_.jpg",

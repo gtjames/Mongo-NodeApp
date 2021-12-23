@@ -8,8 +8,8 @@ block content
     table.white
       tr
         td.label Movie ID:
-        td= movie._id
-          input(type="hidden"                             name="_id"          value="#{movie._id}")
+        td= movie.id
+          input(type="hidden"                             name="id"          value="#{movie._id}")
       tr
         td.label Movie Title:
         td: input(type="text" placeholder="Title"         name="title"        value="#{movie.title}")
@@ -23,5 +23,5 @@ block content
         td: button(type="submit") Update Movie
       tr
         td
-          a(href='/movies/' + movie._id)
+          a(href='/movies/' + movie.id)
             .button Back to '#{movie.title}'

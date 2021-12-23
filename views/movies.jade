@@ -5,47 +5,38 @@ block content
     table.box.calmBGColor(style='border: 1px solid black;')
       tr
         td
-          img(src=movie.urlPoster height="160" width="100")
-          p: a(href=movie.urlIMDB) #{movie.title}
-          if movies.length > 1
-            p: a(href='/movies/' + movie._id) Details
-          else
-            p: a(href='/movies/update/' + movie._id) Update
-            p: a(href='/movies/delete/' + movie._id) Delete
-            a(href='/movies/')
-              .button Back to Movies
+          img(src=movie.image height="320" width="200")
+          p: a(href='https://m.imdb.com/title/' + movie.id) #{movie.title}
+          p: a(href='/movies/' + movie.id) Details
+          p: a(href='/movies/update/' + movie.id) Update
+          p: a(href='/movies/delete/' + movie.id) Delete
+          a(href='/movies/')
+            .button Back to Movies
         td
           p  Year Released: #{movie.year}
-          p(style="margin-left:5px")=movie.simplePlot
+          p(style="margin-left:5px")=movie.plot
 
-    if movies.length == 1
-      if movie.genres.length > 0
-        h3 Genres
-        .movieCard.box
-          each genre in movie.genres
-              div(class=genre + ' dot')
+          if movie.genres.length > 0
+            h3 Genres
+            .movieCard.box
+              each genre in movie.genreList
+                  div(class=genre.value + ' dot')
 
-      h3 Actors
-      each actor in movie.actors
-        +actorList(actor)
+          h3 Actors
+          each actor in movie.actorList
+            +actorList(actor)
 
     footer
-      .quote.center
-        if (movie.quotes !== undefined && movie.quotes.length > 0)
-          - let r = Math.floor(Math.random()*movie.quotes.length);
-            each quote in movie.quotes[r].quote
-              em= quote
-              br
 
   script
     | document.body.style.background = "url('/images/MovieBackground1.png') repeat left top";
-    | if      ("#{title}".length < 12)  document.getElementById("marque").style.fontSize = '14px';
+    | if      ("#{title}".length < 12)  document.getElementById("marque").style.fontSize = '14px';tor
     | else if ("#{title}".length < 18)  document.getElementById("marque").style.fontSize = '12px';
     | else                              document.getElementById("marque").style.fontSize = '10px';
 
 mixin actorList(actor)
   .movieCard.box
-    img(src=actor.urlPhoto)
-    a(href=actor.urlProfile) #{actor.actorName}
-    p= actor.character
-    p: a(href='/actors/' + actor.actorId) Filmography
+    img(src=actor.image height="150" width="100")
+    p: a(href='https://m.imdb.com/name/' + actor.id) #{actor.name}
+    p= actor.asCharacter
+    p: a(href='/actors/' + actor.id) Filmography

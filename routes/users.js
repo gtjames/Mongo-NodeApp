@@ -9,7 +9,7 @@ let router = module.exports = express.Router();
  */
 router.get('/actor/:id', function(req, res) {
 	let collection = req.app.locals.db.collection('actors');
-	collection.findOne({_id: req.params.id}, function(err, items) {
+	collection.findOne({id: req.params.id}, function(err, items) {
 		if (err || !items) {
 			let x = [];
 			x.push(new User(req.params.id, 'Does not match an Actor in our DB', '', false ));
@@ -33,8 +33,8 @@ router.get('/dummy/:id', function(req, res) {
 		if (err) throw err;
 		const db = client.db('users');
 		let collection = db.collection('users');
-		collection.find({_id: req.params.id}).toArray(function(err, items) {
-			if (items.length == 0) {
+		collection.find({id: req.params.id}).toArray(function(err, items) {
+			if (items.length === 0) {
 				let x = [];
 				x.push(new User(req.params.id, 'Does not match an Actor in our DB', '', false ));
 				res.render('users', {'users': x, 'title': 'Not Found'});
@@ -55,42 +55,19 @@ router.get('/movie/:id', function(req, res) {
 		if (err) throw err;
 		const db = client.db('hollywood');
 		let collection = db.collection('movies');
-		collection.find({_id:req.params.id}).toArray(function(err, items) {
-			if (items.length == 0) {
+		collection.find({id:req.params.id}).toArray(function(err, items) {
+			if (items.length === 0) {
 				let x = [];
 				x.push(new User(req.params.id, 'Does not match an movie in our DB', '', false ));
 				res.render('users', {'users': x, 'title': 'Not Found'});
 				return;
 			}
 			let movie = items[0];
-			users.push(new User(movie.idIMDB, movie.title, movie.urlPoster, true));
+			users.push(new User(movie.id, movie.title, movie.image, true));
 			res.render('users', {'users':users, 'title':'Users'});
 		});
 
 	});
-});
-
-router.get('/', function(req, res) {
-
-	let header = "";
-	header += "<h3>Application Properties</h3>";
-	for ( let prop in req.app.locals ) {
-		header += "<strong>" + prop + "</strong>: " + req.app.locals[prop] + '<br>';
-	}
-
-	header += "<h3>Application Settings</h3>";
-	for ( let prop in req.app.locals.settings ) {
-		header += "<strong>" + prop + "</strong>: " + req.app.locals.settings[prop] + '<br>';
-	}
-
-	header += "<h3>Request Object Header Values</h3>";
-	for ( let prop in req.headers )
-		header += "<strong>" + prop + "</strong>: " + req.headers[prop] + '<br>';
-
-	//	res.attachment('../views/error.jade', 'jade.txt');
-
-	res.send(header);
-//	res.redirect('http:/admin/');
 });
 
 let User = function(fname, lname, phone, movie) {
@@ -107,14 +84,3 @@ router.init = function() {
 	users.push(new User('Joe',   'Cocker',   '801-FR3-7789', false));
 	users.push(new User('B.B.',  'King',     '202-AAA-2345', false));
 };
-
-/*
- *  Render the users.jade file, passing along the array of users
- */
-router.get('/pug', function(req, res) {
-	res.render( 'users', { 'users': users, 'title': 'Users' } );
-});
-
-router.get('/pug', function(req, res) {
-	res.render( 'front2Back');
-});

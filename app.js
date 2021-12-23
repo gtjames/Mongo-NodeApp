@@ -85,7 +85,6 @@ MongoClient.connect('mongodb://127.0.0.1:27017/', function (err, client) {
 
 	movies.init(db);
 	actors.init(db);
-	loadHollywoodDB(db);
 });
 
 //-----------https://www.npmjs.com/package/request----------------------------------------------
@@ -99,55 +98,3 @@ MongoClient.connect('mongodb://127.0.0.1:27017/', function (err, client) {
 //      Get All Movies in Actors
 //              db.actors.aggregate({"$unwind":"$filmography"},{"$project":{"_id":0,"filmography.imdbid":1}},{"$out" : "forcsv"})
 //              mongoexport /d hollywood /c forcsv /f filmography.imdbid /pretty | grep imdbid > movieList.csv
-
-function loadHollywoodDB(db) {
-	loadMovies(db.collection('movies'));
-//		loadActors(db.collection('actors'));
-}
-
-function loadMovies (collection) {
-	let movies = require('./public/javascripts/next.json');
-	for (let ma = 0; ma < movies.movies.length; ma++) {
-		try {
-			let m = require('./public/javascripts/movies/' + movies.movies[ma]);
-			let m1 = m.data.movies[0];
-			m1._id = m1.idIMDB;
-
-			collection.insert(m1, function (err, docs) {
-				if (err)
-					console.log(err.message);
-				else
-					console.log(docs.insertedIds[0]);
-			});
-		} catch (err) {
-			console.log("error^" + err + '^' + movies.movies[ma]);
-		}
-	}
-}
-
-function loadActors(collection) {
-	let people = require('./public/javascripts/next.json');
-	for (let ma = 0; ma < people.people.length; ma++) {
-		try {
-			let m = require('./public/javascripts/movies/' + people.people[ma]);
-			let m1 = m.data.names[0];
-			m1._id = m1.idIMDB;
-			for (let s = 0; s < m1.filmographies.length; s++) {
-				if (m1.filmographies[s].section == "Actor" || m1.filmographies[s].section == "Actress") {
-					//  TODO do I really want to make this change?
-					m1.films = m1.filmographies[s].filmography;
-					break;
-				}
-			}
-
-			collection.insert(m1, function (err, docs) {
-				if (err)
-					console.log(err.message);
-				else
-					console.log(docs.insertedIds[0]);
-			});
-		} catch (err) {
-			console.log("error^" + err + '^' + people.people[ma]);
-		}
-	}
-}

@@ -5,33 +5,34 @@ block content
     table.box.calmBGColor(style='border: 1px solid black;')
       tr
         td
-          img(src=actor.urlPhoto height="150" width="100")
+          img(src=actor.image height="150" width="100")
           p: a(href=actor.urlIMDB) #{actor.name}
           if actors.length > 1
-            p: a(href='/actors/' + actor._id) Details
+            p: a(href='/actors/' + actor.id) Details
           else
-            p: a(href='/actors/update/' + actor._id) Update
-            p: a(href='/actors/delete/' + actor._id) Delete
+            p: a(href='/actors/update/' + actor.id) Update
+            p: a(href='/actors/delete/' + actor.id) Delete
             a(href='/actors/')
               .button Back to Actors
         td
           p  Date of Birth: #{actor.dateOfBirth}
-          p(style="margin-left:15px")=actor.bio
-
-    h3.box.movieCard Filmograpy: #{actor.filmography.length} Movies
-    if actors.length == 1
-      table.box.calmBGColor(style='border: 1px solid black;')
-        - rcCnt = Math.ceil(Math.sqrt(actor.filmography.length));
-        - colCnt = rcCnt < 5 ? rcCnt : 5
-        - rowCnt = Math.ceil(actor.filmography.length/colCnt)
-        - for (r = 0; r < rowCnt; r++)
-          tr
-            - for (c = 0; c < colCnt; c++)
-              - film = actor.filmography[r*colCnt+c]
-              if (r * colCnt + c) < actor.filmography.length
-                td: a(href='/movies/' + film.imdbid) #{film.title}
+          p(style="margin-left:15px")=actor.summary
+      tr
+        td
+          h3.box.movieCard Filmography: #{actor.castMovies.length} Movies
+          if actors.length >= 1
+            table.box.calmBGColor(style='border: 1px solid black;')
+              - rcCnt = Math.ceil(Math.sqrt(actor.castMovies.length));
+              - colCnt = rcCnt < 8 ? rcCnt : 8
+              - rowCnt = Math.ceil(actor.castMovies.length/colCnt)
+              - for (r = 0; r < rowCnt; r++)
+                tr
+                  - for (c = 0; c < colCnt; c++)
+                    - film = actor.castMovies[r*colCnt+c]
+                    if (r * colCnt + c) < actor.castMovies.length
+                      td: a(href='/movies/' + film.id) #{film.title}
+                      = '\n'
                 = '\n'
-          = '\n'
 
   script
     | document.body.style.background = "url('/images/MovieBackground1.png') repeat left top";
